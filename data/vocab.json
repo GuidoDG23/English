@@ -1,0 +1,1606 @@
+{
+ "units": [
+  {
+   "id": "st",
+   "title": "Starter · Emotions",
+   "words": [
+    {
+     "id": "st-01",
+     "word": "annoyed",
+     "definition": "slightly angry because something is irritating you",
+     "example": "I was annoyed when my flatmate ate my lunch again."
+    },
+    {
+     "id": "st-02",
+     "word": "delighted",
+     "definition": "very pleased and happy",
+     "example": "We were delighted to hear that you passed your exam."
+    },
+    {
+     "id": "st-03",
+     "word": "disappointed",
+     "definition": "sad because something was not as good as you hoped",
+     "example": "The fans were disappointed with the final score."
+    },
+    {
+     "id": "st-04",
+     "word": "shocked",
+     "definition": "very surprised and upset by something unexpected",
+     "example": "Everyone was shocked by the news of the accident."
+    },
+    {
+     "id": "st-05",
+     "word": "upset",
+     "definition": "unhappy or worried because something bad has happened",
+     "example": "She got upset when she lost her grandmother's ring."
+    },
+    {
+     "id": "st-06",
+     "word": "worried",
+     "definition": "anxious because you think something bad might happen",
+     "example": "My parents get worried if I come home late."
+    },
+    {
+     "id": "st-07",
+     "word": "anxious",
+     "definition": "nervous and worried about something",
+     "example": "He always feels anxious before a job interview."
+    },
+    {
+     "id": "st-08",
+     "word": "thrilled",
+     "definition": "extremely happy and excited",
+     "example": "I'm thrilled with my new bike."
+    }
+   ]
+  },
+  {
+   "id": "u1",
+   "title": "Unit 1 · Health and fitness",
+   "words": [
+    {
+     "id": "u1-01",
+     "word": "overdo",
+     "definition": "to do or use too much of something",
+     "example": "Don't overdo it at the gym on your first day."
+    },
+    {
+     "id": "u1-02",
+     "word": "overweight",
+     "definition": "heavier than is healthy or normal",
+     "example": "The doctor said I was a little overweight."
+    },
+    {
+     "id": "u1-03",
+     "word": "obese",
+     "definition": "extremely overweight, in a way that is dangerous for health",
+     "example": "Being obese increases the risk of heart disease."
+    },
+    {
+     "id": "u1-04",
+     "word": "keep up",
+     "definition": "to stay level or equal with someone who is moving or progressing",
+     "example": "She walked so fast that I couldn't keep up."
+    },
+    {
+     "id": "u1-05",
+     "word": "ache",
+     "definition": "to have a continuous pain that is unpleasant but not strong",
+     "example": "My legs ache after yesterday's hike."
+    },
+    {
+     "id": "u1-06",
+     "word": "keep track of",
+     "definition": "to record or follow something over a period of time",
+     "example": "I use an app to keep track of my sleep."
+    },
+    {
+     "id": "u1-07",
+     "word": "cut down on",
+     "definition": "to reduce the amount of something you eat, drink or use",
+     "example": "I'm trying to cut down on sugar."
+    },
+    {
+     "id": "u1-08",
+     "word": "consume",
+     "definition": "to eat, drink or use something",
+     "example": "Most adults consume too much salt."
+    },
+    {
+     "id": "u1-09",
+     "word": "rate",
+     "definition": "the speed at which something happens",
+     "example": "His rate of recovery surprised the doctors."
+    },
+    {
+     "id": "u1-10",
+     "word": "injury",
+     "definition": "physical damage to someone's body",
+     "example": "She missed the season because of a knee injury."
+    },
+    {
+     "id": "u1-11",
+     "word": "stamina",
+     "definition": "the physical strength to continue doing something for a long time",
+     "example": "Swimming is great for building stamina."
+    },
+    {
+     "id": "u1-12",
+     "word": "work out",
+     "definition": "to do physical exercise to improve your fitness",
+     "example": "I work out three times a week."
+    },
+    {
+     "id": "u1-13",
+     "word": "get into shape",
+     "definition": "to become physically fit",
+     "example": "I want to get into shape before the summer."
+    },
+    {
+     "id": "u1-14",
+     "word": "agility",
+     "definition": "the ability to move quickly and easily",
+     "example": "Dancers need great agility."
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "title": "Unit 2 · Family and relationships",
+   "words": [
+    {
+     "id": "u2-01",
+     "word": "sibling",
+     "definition": "a brother or a sister",
+     "example": "I have three siblings: two brothers and a sister."
+    },
+    {
+     "id": "u2-02",
+     "word": "widow",
+     "definition": "a woman whose husband has died and who has not married again",
+     "example": "After the war, she lived as a widow for many years."
+    },
+    {
+     "id": "u2-03",
+     "word": "niece",
+     "definition": "the daughter of your brother or sister",
+     "example": "My niece is starting school next year."
+    },
+    {
+     "id": "u2-04",
+     "word": "nephew",
+     "definition": "the son of your brother or sister",
+     "example": "I bought my nephew a football for his birthday."
+    },
+    {
+     "id": "u2-05",
+     "word": "daughter-in-law",
+     "definition": "the wife of your son",
+     "example": "Her daughter-in-law is a doctor."
+    },
+    {
+     "id": "u2-06",
+     "word": "stepson",
+     "definition": "the son of your husband or wife from an earlier relationship",
+     "example": "He gets on really well with his stepson."
+    },
+    {
+     "id": "u2-07",
+     "word": "fiancé",
+     "definition": "the man that someone has promised to marry",
+     "example": "She introduced her fiancé to the whole family."
+    },
+    {
+     "id": "u2-08",
+     "word": "godmother",
+     "definition": "a woman who promises at a child's christening to help with their upbringing",
+     "example": "My godmother always sends me a card on my birthday."
+    },
+    {
+     "id": "u2-09",
+     "word": "half-brother",
+     "definition": "a brother who shares only one parent with you",
+     "example": "My half-brother is twelve years younger than me."
+    },
+    {
+     "id": "u2-10",
+     "word": "extended family",
+     "definition": "a family that includes grandparents, aunts, uncles and cousins",
+     "example": "The whole extended family meets every Christmas."
+    },
+    {
+     "id": "u2-11",
+     "word": "hang out",
+     "definition": "to spend time with a person or people in a relaxed way",
+     "example": "I usually hang out with my friends at the park."
+    },
+    {
+     "id": "u2-12",
+     "word": "fall out",
+     "definition": "to argue with someone and stop being friendly with them",
+     "example": "They fell out over money and haven't spoken since."
+    },
+    {
+     "id": "u2-13",
+     "word": "get on",
+     "definition": "to have a good, friendly relationship with someone",
+     "example": "I get on really well with my sister-in-law."
+    },
+    {
+     "id": "u2-14",
+     "word": "take after",
+     "definition": "to be similar to an older family member",
+     "example": "She takes after her mother; they're both very patient."
+    },
+    {
+     "id": "u2-15",
+     "word": "look up to",
+     "definition": "to admire and respect someone",
+     "example": "I've always looked up to my grandfather."
+    },
+    {
+     "id": "u2-16",
+     "word": "grow apart",
+     "definition": "to become less close to someone over time",
+     "example": "We grew apart after we went to different universities."
+    },
+    {
+     "id": "u2-17",
+     "word": "split up",
+     "definition": "to end a romantic relationship",
+     "example": "My cousin and her boyfriend split up last month."
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "title": "Unit 3 · Education and study",
+   "words": [
+    {
+     "id": "u3-01",
+     "word": "graduation ceremony",
+     "definition": "a celebration held when students finish their studies and receive their degree",
+     "example": "My parents flew in for my graduation ceremony."
+    },
+    {
+     "id": "u3-02",
+     "word": "scholarship",
+     "definition": "money given by a university or organisation to pay for a student's studies",
+     "example": "She won a scholarship to study in Toronto."
+    },
+    {
+     "id": "u3-03",
+     "word": "lecture theatre",
+     "definition": "a large room at university where students listen to someone speak",
+     "example": "The lecture theatre was full for the guest speaker."
+    },
+    {
+     "id": "u3-04",
+     "word": "dissertation",
+     "definition": "a long piece of writing on a particular subject, especially for a degree",
+     "example": "I'm writing my dissertation on renewable energy."
+    },
+    {
+     "id": "u3-05",
+     "word": "campus",
+     "definition": "the buildings and land of a university or college",
+     "example": "There's a gym and two cafés on campus."
+    },
+    {
+     "id": "u3-06",
+     "word": "cram",
+     "definition": "to study a lot in a short period of time before an exam",
+     "example": "I had to cram all weekend for my history exam."
+    },
+    {
+     "id": "u3-07",
+     "word": "resit",
+     "definition": "to take an exam again because you failed it the first time",
+     "example": "If you fail, you can resit the exam in August."
+    },
+    {
+     "id": "u3-08",
+     "word": "pass with flying colours",
+     "definition": "to succeed in a test or exam very easily and with a high score",
+     "example": "She passed her driving test with flying colours."
+    },
+    {
+     "id": "u3-09",
+     "word": "over the moon",
+     "definition": "extremely happy",
+     "example": "I was over the moon when I got the results."
+    },
+    {
+     "id": "u3-10",
+     "word": "pull an all-nighter",
+     "definition": "to stay awake all night to study or work",
+     "example": "I had to pull an all-nighter to finish my essay."
+    },
+    {
+     "id": "u3-11",
+     "word": "learn by heart",
+     "definition": "to memorise something so that you can repeat it perfectly",
+     "example": "We had to learn the poem by heart."
+    },
+    {
+     "id": "u3-12",
+     "word": "old-school",
+     "definition": "old-fashioned, using traditional methods",
+     "example": "Writing notes by hand is a bit old-school, but it works."
+    },
+    {
+     "id": "u3-13",
+     "word": "bookworm",
+     "definition": "a person who loves reading and reads a lot",
+     "example": "My sister is a real bookworm; she reads a book a week."
+    },
+    {
+     "id": "u3-14",
+     "word": "copycat",
+     "definition": "a person who copies what other people do or say",
+     "example": "Stop being a copycat and write your own answers!"
+    },
+    {
+     "id": "u3-15",
+     "word": "stand out",
+     "definition": "to be much better or more noticeable than others",
+     "example": "Her project really stood out from the rest."
+    },
+    {
+     "id": "u3-16",
+     "word": "teacher's pet",
+     "definition": "the student that the person running the class likes most and treats better",
+     "example": "Nobody wants to be called the teacher's pet."
+    },
+    {
+     "id": "u3-17",
+     "word": "go the extra mile",
+     "definition": "to make more effort than is expected of you",
+     "example": "Our tutor always goes the extra mile to help us."
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "title": "Unit 4 · Holidays and travel",
+   "words": [
+    {
+     "id": "u4-01",
+     "word": "steering wheel",
+     "definition": "the wheel a driver turns to control the direction of a car",
+     "example": "Keep both hands on the steering wheel."
+    },
+    {
+     "id": "u4-02",
+     "word": "cockpit",
+     "definition": "the area at the front of a plane where the pilot sits",
+     "example": "The captain spoke to us from the cockpit."
+    },
+    {
+     "id": "u4-03",
+     "word": "departure lounge",
+     "definition": "the area of an airport where passengers wait before getting on a plane",
+     "example": "We had a coffee in the departure lounge."
+    },
+    {
+     "id": "u4-04",
+     "word": "motorist",
+     "definition": "a person who drives a car",
+     "example": "Motorists are advised to avoid the city centre today."
+    },
+    {
+     "id": "u4-05",
+     "word": "commuter",
+     "definition": "a person who travels regularly between home and work",
+     "example": "The train was packed with commuters."
+    },
+    {
+     "id": "u4-06",
+     "word": "backpacker",
+     "definition": "a person who travels cheaply carrying their belongings in a bag on their back",
+     "example": "The hostel was full of backpackers from all over the world."
+    },
+    {
+     "id": "u4-07",
+     "word": "runway",
+     "definition": "a long, flat road at an airport where planes take off and land",
+     "example": "The plane is now taxiing along the runway."
+    },
+    {
+     "id": "u4-08",
+     "word": "rush hour",
+     "definition": "the busy time of day when most people travel to or from work",
+     "example": "Avoid driving into the city during rush hour."
+    },
+    {
+     "id": "u4-09",
+     "word": "handlebars",
+     "definition": "the bar at the front of a bicycle that you hold to steer",
+     "example": "Hold the handlebars tightly when you go downhill."
+    },
+    {
+     "id": "u4-10",
+     "word": "jet lag",
+     "definition": "the tired feeling after a long flight across time zones",
+     "example": "I had terrible jet lag after flying to Tokyo."
+    },
+    {
+     "id": "u4-11",
+     "word": "overtake",
+     "definition": "to go past a slower vehicle",
+     "example": "It's dangerous to overtake on a bend."
+    },
+    {
+     "id": "u4-12",
+     "word": "traffic jam",
+     "definition": "a long line of vehicles that cannot move or can only move slowly",
+     "example": "We were stuck in a traffic jam for an hour."
+    },
+    {
+     "id": "u4-13",
+     "word": "air-conditioned",
+     "definition": "kept cool by a machine that controls the temperature",
+     "example": "The bus was air-conditioned, thankfully."
+    },
+    {
+     "id": "u4-14",
+     "word": "cut-price",
+     "definition": "sold at a lower price than usual",
+     "example": "We found some cut-price flights to Greece."
+    },
+    {
+     "id": "u4-15",
+     "word": "duty-free",
+     "definition": "goods bought at airports without paying tax",
+     "example": "I bought some duty-free perfume."
+    },
+    {
+     "id": "u4-16",
+     "word": "last-minute",
+     "definition": "done or arranged very close to the time when something happens",
+     "example": "We booked a last-minute holiday to Croatia."
+    },
+    {
+     "id": "u4-17",
+     "word": "long-distance",
+     "definition": "travelling or covering a large distance",
+     "example": "Long-distance flights make me really tired."
+    },
+    {
+     "id": "u4-18",
+     "word": "part-time",
+     "definition": "working only for part of the day or week",
+     "example": "She has a part-time job at a hotel."
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "title": "Unit 5 · Books and reading",
+   "words": [
+    {
+     "id": "u5-01",
+     "word": "page-turner",
+     "definition": "a book that is so exciting that you want to keep reading it",
+     "example": "Her new thriller is a real page-turner."
+    },
+    {
+     "id": "u5-02",
+     "word": "bestseller",
+     "definition": "a book that is extremely popular and has sold many copies",
+     "example": "The novel became an international bestseller."
+    },
+    {
+     "id": "u5-03",
+     "word": "heavy going",
+     "definition": "difficult or boring to read",
+     "example": "The first chapter was heavy going, but it got better."
+    },
+    {
+     "id": "u5-04",
+     "word": "hooked",
+     "definition": "enjoying something so much that you can't stop doing it",
+     "example": "I was hooked from the very first page."
+    },
+    {
+     "id": "u5-05",
+     "word": "skim",
+     "definition": "to read something quickly to get the general idea",
+     "example": "Skim the article first, then read it carefully."
+    },
+    {
+     "id": "u5-06",
+     "word": "appealing",
+     "definition": "attractive or interesting",
+     "example": "The main character is very appealing."
+    },
+    {
+     "id": "u5-07",
+     "word": "average",
+     "definition": "not very good or very bad; ordinary",
+     "example": "The plot was pretty average."
+    },
+    {
+     "id": "u5-08",
+     "word": "confusing",
+     "definition": "difficult to understand",
+     "example": "The ending was really confusing."
+    },
+    {
+     "id": "u5-09",
+     "word": "delightful",
+     "definition": "very pleasant and enjoyable",
+     "example": "It's a delightful story for children."
+    },
+    {
+     "id": "u5-10",
+     "word": "dense",
+     "definition": "difficult to understand because it contains a lot of information",
+     "example": "The textbook is so dense that I can only read a few pages at a time."
+    },
+    {
+     "id": "u5-11",
+     "word": "entertaining",
+     "definition": "amusing and enjoyable",
+     "example": "The documentary was both informative and entertaining."
+    },
+    {
+     "id": "u5-12",
+     "word": "gripping",
+     "definition": "so exciting that it holds your attention completely",
+     "example": "It's a gripping detective story."
+    },
+    {
+     "id": "u5-13",
+     "word": "hilarious",
+     "definition": "extremely funny",
+     "example": "The comedy was absolutely hilarious."
+    },
+    {
+     "id": "u5-14",
+     "word": "informative",
+     "definition": "giving useful facts and knowledge",
+     "example": "The guidebook was very informative."
+    },
+    {
+     "id": "u5-15",
+     "word": "predictable",
+     "definition": "happening in the way you expected, and therefore not interesting",
+     "example": "The film was so predictable that I guessed the ending."
+    },
+    {
+     "id": "u5-16",
+     "word": "stunning",
+     "definition": "extremely beautiful or impressive",
+     "example": "The illustrations in the book are stunning."
+    },
+    {
+     "id": "u5-17",
+     "word": "sequel",
+     "definition": "a book or film that continues the story of an earlier one",
+     "example": "The sequel was even better than the first book."
+    },
+    {
+     "id": "u5-18",
+     "word": "prequel",
+     "definition": "a story set before the events of an earlier book or film",
+     "example": "The prequel tells us how the hero grew up."
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "title": "Unit 6 · The natural world",
+   "words": [
+    {
+     "id": "u6-01",
+     "word": "natural habitat",
+     "definition": "the place where an animal or plant normally lives",
+     "example": "It's amazing to see lions in their natural habitat."
+    },
+    {
+     "id": "u6-02",
+     "word": "endangered species",
+     "definition": "a type of animal or plant that might soon disappear completely",
+     "example": "The snow leopard is an endangered species."
+    },
+    {
+     "id": "u6-03",
+     "word": "carbon footprint",
+     "definition": "the amount of greenhouse gases a person or activity produces",
+     "example": "Cycling to work reduces your carbon footprint."
+    },
+    {
+     "id": "u6-04",
+     "word": "global warming",
+     "definition": "the gradual increase in the Earth's temperature",
+     "example": "Global warming is causing sea levels to rise."
+    },
+    {
+     "id": "u6-05",
+     "word": "renewable energy",
+     "definition": "power from sources that do not run out, like the sun and wind",
+     "example": "The town gets all its electricity from renewable energy."
+    },
+    {
+     "id": "u6-06",
+     "word": "mountain range",
+     "definition": "a long line of high peaks",
+     "example": "The Andes is the longest mountain range in the world."
+    },
+    {
+     "id": "u6-07",
+     "word": "coastal path",
+     "definition": "a walking route that follows the edge of the sea",
+     "example": "We walked along the coastal path to the next village."
+    },
+    {
+     "id": "u6-08",
+     "word": "sensible",
+     "definition": "wise and based on good judgement",
+     "example": "Wearing a hat in the sun is a sensible idea."
+    },
+    {
+     "id": "u6-09",
+     "word": "sensitive",
+     "definition": "easily upset by what people say or do",
+     "example": "He's very sensitive about his height."
+    },
+    {
+     "id": "u6-10",
+     "word": "loose",
+     "definition": "not fitting tightly",
+     "example": "Wear loose clothes when you go hiking."
+    },
+    {
+     "id": "u6-11",
+     "word": "lend",
+     "definition": "to give something to someone for a short time, expecting it back",
+     "example": "Could you lend me your binoculars?"
+    },
+    {
+     "id": "u6-12",
+     "word": "borrow",
+     "definition": "to take something from someone for a short time and give it back later",
+     "example": "Can I borrow your tent this weekend?"
+    },
+    {
+     "id": "u6-13",
+     "word": "sight",
+     "definition": "something that you see, especially something impressive",
+     "example": "The elephants by the lake were an amazing sight."
+    },
+    {
+     "id": "u6-14",
+     "word": "site",
+     "definition": "a place where something is, was or will be built or happen",
+     "example": "This is the site of an ancient temple."
+    },
+    {
+     "id": "u6-15",
+     "word": "raise",
+     "definition": "to lift something or make it higher",
+     "example": "Raise your hand if you have a question."
+    },
+    {
+     "id": "u6-16",
+     "word": "affect",
+     "definition": "to have an influence on someone or something",
+     "example": "Pollution affects the health of wild animals."
+    },
+    {
+     "id": "u6-17",
+     "word": "effect",
+     "definition": "a result or change caused by something",
+     "example": "The storm had a terrible effect on the coast."
+    }
+   ]
+  },
+  {
+   "id": "u7",
+   "title": "Unit 7 · Food",
+   "words": [
+    {
+     "id": "u7-01",
+     "word": "appetite",
+     "definition": "the feeling that you want to eat food",
+     "example": "Exercise always gives me a big appetite."
+    },
+    {
+     "id": "u7-02",
+     "word": "full",
+     "definition": "not able to eat any more food",
+     "example": "No dessert for me, thanks. I'm full."
+    },
+    {
+     "id": "u7-03",
+     "word": "gone off",
+     "definition": "describing food or drink that is old and no longer good to eat",
+     "example": "This milk smells strange. I think it's gone off."
+    },
+    {
+     "id": "u7-04",
+     "word": "in season",
+     "definition": "describing fruit and vegetables that are ready and available at this time of year",
+     "example": "Strawberries are cheaper when they're in season."
+    },
+    {
+     "id": "u7-05",
+     "word": "portion",
+     "definition": "an amount of food for one person",
+     "example": "The portions in this restaurant are huge."
+    },
+    {
+     "id": "u7-06",
+     "word": "savoury",
+     "definition": "salty or spicy rather than sweet",
+     "example": "I prefer savoury snacks like crisps."
+    },
+    {
+     "id": "u7-07",
+     "word": "stick to",
+     "definition": "to continue doing or using something and not change",
+     "example": "Try to stick to a balanced diet."
+    },
+    {
+     "id": "u7-08",
+     "word": "vitamins",
+     "definition": "natural substances in food that help to keep the body healthy",
+     "example": "Oranges are full of vitamins."
+    },
+    {
+     "id": "u7-09",
+     "word": "overcooked",
+     "definition": "cooked for too long",
+     "example": "The pasta was overcooked and soft."
+    },
+    {
+     "id": "u7-10",
+     "word": "undercooked",
+     "definition": "not cooked enough",
+     "example": "Undercooked chicken can make you ill."
+    },
+    {
+     "id": "u7-11",
+     "word": "bland",
+     "definition": "having very little flavour",
+     "example": "The soup was a bit bland, so I added some salt."
+    },
+    {
+     "id": "u7-12",
+     "word": "mouth-watering",
+     "definition": "looking or smelling so good that you want to eat it",
+     "example": "There was a mouth-watering smell coming from the kitchen."
+    }
+   ]
+  },
+  {
+   "id": "u8",
+   "title": "Unit 8 · Technology",
+   "words": [
+    {
+     "id": "u8-01",
+     "word": "upgrade",
+     "definition": "to improve a computer or software by installing a newer version",
+     "example": "I need to upgrade my phone's operating system."
+    },
+    {
+     "id": "u8-02",
+     "word": "spreadsheet",
+     "definition": "a computer document with rows and columns for numbers and calculations",
+     "example": "I keep my monthly budget in a spreadsheet."
+    },
+    {
+     "id": "u8-03",
+     "word": "screenshot",
+     "definition": "an image of what is shown on a computer or phone display",
+     "example": "Send me a screenshot of the error message."
+    },
+    {
+     "id": "u8-04",
+     "word": "breakthrough",
+     "definition": "an important discovery or development",
+     "example": "The vaccine was a major scientific breakthrough."
+    },
+    {
+     "id": "u8-05",
+     "word": "backup",
+     "definition": "a copy of computer files kept in case the originals are lost",
+     "example": "Always make a backup of your work."
+    },
+    {
+     "id": "u8-06",
+     "word": "filename",
+     "definition": "the name given to a computer document",
+     "example": "Use a clear filename so you can find the document later."
+    },
+    {
+     "id": "u8-07",
+     "word": "bookmark",
+     "definition": "to save the address of a website so you can find it again easily",
+     "example": "I bookmarked the recipe so I could use it later."
+    },
+    {
+     "id": "u8-08",
+     "word": "bug",
+     "definition": "a mistake in a computer program that stops it working correctly",
+     "example": "The update fixed a bug in the app."
+    },
+    {
+     "id": "u8-09",
+     "word": "crash",
+     "definition": "(of a computer) to stop working suddenly",
+     "example": "My laptop crashed and I lost my essay."
+    },
+    {
+     "id": "u8-10",
+     "word": "browse",
+     "definition": "to look at information on the internet",
+     "example": "I was just browsing online for new shoes."
+    },
+    {
+     "id": "u8-11",
+     "word": "icon",
+     "definition": "a small picture on a screen that represents a program or file",
+     "example": "Click on the camera icon to take a photo."
+    },
+    {
+     "id": "u8-12",
+     "word": "cutting-edge",
+     "definition": "the newest and most advanced",
+     "example": "The lab uses cutting-edge technology."
+    },
+    {
+     "id": "u8-13",
+     "word": "run out of steam",
+     "definition": "to lose energy or interest in something",
+     "example": "I started learning to code but ran out of steam after a week."
+    },
+    {
+     "id": "u8-14",
+     "word": "pull the plug",
+     "definition": "to stop something from continuing, especially by stopping its money",
+     "example": "The company pulled the plug on the project."
+    },
+    {
+     "id": "u8-15",
+     "word": "get your wires crossed",
+     "definition": "to misunderstand what someone means",
+     "example": "We got our wires crossed and went to different cafés."
+    },
+    {
+     "id": "u8-16",
+     "word": "have a short fuse",
+     "definition": "to become angry very easily",
+     "example": "Be careful what you say; he has a short fuse."
+    },
+    {
+     "id": "u8-17",
+     "word": "not rocket science",
+     "definition": "not difficult to do or understand",
+     "example": "Setting up a website is not rocket science."
+    }
+   ]
+  },
+  {
+   "id": "u9",
+   "title": "Unit 9 · The weather and phrases with far",
+   "words": [
+    {
+     "id": "u9-01",
+     "word": "persistent rain",
+     "definition": "rain that continues for a long time without stopping",
+     "example": "Persistent rain caused flooding in the valley."
+    },
+    {
+     "id": "u9-02",
+     "word": "mild",
+     "definition": "(of weather) not very cold or hot",
+     "example": "It's quite mild for January."
+    },
+    {
+     "id": "u9-03",
+     "word": "gale-force winds",
+     "definition": "extremely strong winds",
+     "example": "Gale-force winds damaged several roofs."
+    },
+    {
+     "id": "u9-04",
+     "word": "dense fog",
+     "definition": "fog so thick that you can see very little",
+     "example": "Dense fog delayed all the flights."
+    },
+    {
+     "id": "u9-05",
+     "word": "visibility",
+     "definition": "how far or how well you can see in certain weather conditions",
+     "example": "Visibility on the motorway was poor this morning."
+    },
+    {
+     "id": "u9-06",
+     "word": "downpour",
+     "definition": "a sudden heavy fall of rain",
+     "example": "We got caught in a downpour without an umbrella."
+    },
+    {
+     "id": "u9-07",
+     "word": "cloud over",
+     "definition": "(of the sky) to become grey and dark",
+     "example": "It started to cloud over, so we went inside."
+    },
+    {
+     "id": "u9-08",
+     "word": "brighten up",
+     "definition": "(of the weather) to become sunnier",
+     "example": "The forecast says it'll brighten up this afternoon."
+    },
+    {
+     "id": "u9-09",
+     "word": "pick up",
+     "definition": "(of wind) to become stronger",
+     "example": "The wind picked up in the evening."
+    },
+    {
+     "id": "u9-10",
+     "word": "die down",
+     "definition": "to gradually become less strong",
+     "example": "We waited for the storm to die down."
+    },
+    {
+     "id": "u9-11",
+     "word": "freeze over",
+     "definition": "to become covered with ice",
+     "example": "The lake froze over during the cold spell."
+    },
+    {
+     "id": "u9-12",
+     "word": "by far",
+     "definition": "by a great amount",
+     "example": "This is by far the hottest summer on record."
+    },
+    {
+     "id": "u9-13",
+     "word": "far from it",
+     "definition": "certainly not true; the opposite is true",
+     "example": "\"Was the trip boring?\" \"Far from it!\""
+    },
+    {
+     "id": "u9-14",
+     "word": "as far as I know",
+     "definition": "I think this is true, but I'm not completely sure",
+     "example": "As far as I know, the museum opens at ten."
+    },
+    {
+     "id": "u9-15",
+     "word": "as far as I'm concerned",
+     "definition": "in my opinion",
+     "example": "As far as I'm concerned, it's the best city in the world."
+    }
+   ]
+  },
+  {
+   "id": "u10",
+   "title": "Unit 10 · Sport, leisure and cohesive devices",
+   "words": [
+    {
+     "id": "u10-01",
+     "word": "competitor",
+     "definition": "a person who takes part in a contest or race",
+     "example": "Over 300 competitors entered the race."
+    },
+    {
+     "id": "u10-02",
+     "word": "competitive",
+     "definition": "wanting very much to win or be more successful than others",
+     "example": "My brother is very competitive, even at board games."
+    },
+    {
+     "id": "u10-03",
+     "word": "spectator",
+     "definition": "a person who watches an event, especially a sports event",
+     "example": "Thousands of spectators filled the stadium."
+    },
+    {
+     "id": "u10-04",
+     "word": "athletic",
+     "definition": "physically strong, fit and active",
+     "example": "She's very athletic and plays four sports."
+    },
+    {
+     "id": "u10-05",
+     "word": "debut",
+     "definition": "the first public appearance of a player or performer",
+     "example": "He made his debut for the national team at 19."
+    },
+    {
+     "id": "u10-06",
+     "word": "for instance",
+     "definition": "used to introduce an example",
+     "example": "Some sports, for instance tennis, can be played alone or in pairs."
+    },
+    {
+     "id": "u10-07",
+     "word": "having said that",
+     "definition": "despite what has just been said",
+     "example": "It's expensive. Having said that, it's worth every penny."
+    },
+    {
+     "id": "u10-08",
+     "word": "in particular",
+     "definition": "especially",
+     "example": "I love water sports, surfing in particular."
+    },
+    {
+     "id": "u10-09",
+     "word": "more or less",
+     "definition": "approximately",
+     "example": "The match lasted more or less two hours."
+    },
+    {
+     "id": "u10-10",
+     "word": "on balance",
+     "definition": "after considering all the facts",
+     "example": "On balance, team sports are better for young children."
+    },
+    {
+     "id": "u10-11",
+     "word": "by comparison",
+     "definition": "used when comparing something with something else",
+     "example": "Football is popular here; rugby, by comparison, is hardly played."
+    },
+    {
+     "id": "u10-12",
+     "word": "first of all",
+     "definition": "used to introduce the opening point in a list",
+     "example": "First of all, I'd like to thank our coach."
+    },
+    {
+     "id": "u10-13",
+     "word": "take up",
+     "definition": "to start doing a new activity or hobby",
+     "example": "I took up climbing last year."
+    }
+   ]
+  },
+  {
+   "id": "u11",
+   "title": "Unit 11 · The media",
+   "words": [
+    {
+     "id": "u11-01",
+     "word": "prime time",
+     "definition": "the time in the evening when the largest number of people watch television",
+     "example": "The final will be shown at prime time."
+    },
+    {
+     "id": "u11-02",
+     "word": "promote",
+     "definition": "to advertise something to make people buy it or use it",
+     "example": "The singer was on TV to promote her new album."
+    },
+    {
+     "id": "u11-03",
+     "word": "credible",
+     "definition": "able to be believed or trusted",
+     "example": "The story came from a credible source."
+    },
+    {
+     "id": "u11-04",
+     "word": "influence",
+     "definition": "the power to have an effect on people or things",
+     "example": "Social media has a huge influence on young people."
+    },
+    {
+     "id": "u11-05",
+     "word": "target audience",
+     "definition": "the main group of people that a product or programme is aimed at",
+     "example": "The target audience for this show is teenagers."
+    },
+    {
+     "id": "u11-06",
+     "word": "under pressure",
+     "definition": "being strongly persuaded to do something",
+     "example": "The minister is under pressure to resign."
+    },
+    {
+     "id": "u11-07",
+     "word": "come clean",
+     "definition": "to tell the truth about something you have been hiding",
+     "example": "He finally came clean about his mistakes."
+    },
+    {
+     "id": "u11-08",
+     "word": "go to great lengths",
+     "definition": "to make a great effort to achieve something",
+     "example": "The journalist went to great lengths to protect her source."
+    },
+    {
+     "id": "u11-09",
+     "word": "speak out",
+     "definition": "to give your critical opinion about something in public",
+     "example": "Several celebrities spoke out against cyberbullying."
+    },
+    {
+     "id": "u11-10",
+     "word": "tighten up",
+     "definition": "to make rules or laws stricter",
+     "example": "The government plans to tighten up data protection laws."
+    },
+    {
+     "id": "u11-11",
+     "word": "overstep the mark",
+     "definition": "to behave in a way that is not acceptable",
+     "example": "The newspaper overstepped the mark by publishing the photos."
+    },
+    {
+     "id": "u11-12",
+     "word": "stamp out",
+     "definition": "to get rid of something harmful",
+     "example": "The school wants to stamp out bullying."
+    },
+    {
+     "id": "u11-13",
+     "word": "headline",
+     "definition": "the title of a newspaper article, printed in large letters",
+     "example": "The headline on the front page was shocking."
+    }
+   ]
+  },
+  {
+   "id": "u12",
+   "title": "Unit 12 · Festivals and celebrations",
+   "words": [
+    {
+     "id": "u12-01",
+     "word": "host",
+     "definition": "to receive and entertain people as guests or organise an event",
+     "example": "The city will host the festival again next year."
+    },
+    {
+     "id": "u12-02",
+     "word": "volunteer",
+     "definition": "a person who does a job without being paid",
+     "example": "The festival relies on hundreds of volunteers."
+    },
+    {
+     "id": "u12-03",
+     "word": "accessible",
+     "definition": "easy to get to or use",
+     "example": "The venue is accessible by public transport."
+    },
+    {
+     "id": "u12-04",
+     "word": "reputation",
+     "definition": "the opinion that people have about someone or something",
+     "example": "The festival has a reputation for great music."
+    },
+    {
+     "id": "u12-05",
+     "word": "appeal",
+     "definition": "to interest or attract someone",
+     "example": "Jazz festivals don't really appeal to me."
+    },
+    {
+     "id": "u12-06",
+     "word": "unique",
+     "definition": "being the only one of its kind",
+     "example": "It's a unique celebration that you won't see anywhere else."
+    },
+    {
+     "id": "u12-07",
+     "word": "upcoming",
+     "definition": "happening soon",
+     "example": "Tickets for the upcoming concert sold out in minutes."
+    },
+    {
+     "id": "u12-08",
+     "word": "venue",
+     "definition": "the place where a public event happens",
+     "example": "The venue can hold 5,000 people."
+    },
+    {
+     "id": "u12-09",
+     "word": "sell out",
+     "definition": "(of tickets) to be all sold",
+     "example": "The festival sold out in less than an hour."
+    },
+    {
+     "id": "u12-10",
+     "word": "memorable",
+     "definition": "worth remembering or easy to remember because it is special",
+     "example": "It was a memorable night."
+    },
+    {
+     "id": "u12-11",
+     "word": "instantly",
+     "definition": "immediately",
+     "example": "The song was instantly recognisable."
+    },
+    {
+     "id": "u12-12",
+     "word": "interviewee",
+     "definition": "a person who is answering questions, for example for a job",
+     "example": "The interviewee answered every question calmly."
+    }
+   ]
+  },
+  {
+   "id": "u13",
+   "title": "Unit 13 · Shopping",
+   "words": [
+    {
+     "id": "u13-01",
+     "word": "auction",
+     "definition": "a public sale where things are sold to the person who offers the most money",
+     "example": "The painting was sold at auction for a million dollars."
+    },
+    {
+     "id": "u13-02",
+     "word": "bid",
+     "definition": "an offer of money when competing with others to buy something",
+     "example": "I made a bid of 50 euros for the guitar."
+    },
+    {
+     "id": "u13-03",
+     "word": "window-shopping",
+     "definition": "looking at things in store displays without buying anything",
+     "example": "We spent the afternoon window-shopping in Milan."
+    },
+    {
+     "id": "u13-04",
+     "word": "exchange",
+     "definition": "to give something back to a shop and take something else instead",
+     "example": "Can I exchange this shirt for a bigger size?"
+    },
+    {
+     "id": "u13-05",
+     "word": "genuine",
+     "definition": "real and exactly what it appears to be",
+     "example": "Is this bag genuine leather?"
+    },
+    {
+     "id": "u13-06",
+     "word": "steep",
+     "definition": "(of a price) too high",
+     "example": "The prices in that boutique are a bit steep."
+    },
+    {
+     "id": "u13-07",
+     "word": "on the market",
+     "definition": "available for people to buy",
+     "example": "This phone has only been on the market for a week."
+    },
+    {
+     "id": "u13-08",
+     "word": "consumer",
+     "definition": "a person who buys goods or services for their own use",
+     "example": "Consumers are spending less this year."
+    },
+    {
+     "id": "u13-09",
+     "word": "import",
+     "definition": "to bring products into one country from another",
+     "example": "Spain imports a lot of its coffee from Brazil."
+    },
+    {
+     "id": "u13-10",
+     "word": "marketing campaign",
+     "definition": "a planned series of activities to encourage people to buy a product",
+     "example": "The marketing campaign was very successful."
+    },
+    {
+     "id": "u13-11",
+     "word": "purchase",
+     "definition": "something that you buy",
+     "example": "This sofa was my best purchase this year."
+    },
+    {
+     "id": "u13-12",
+     "word": "deliberately",
+     "definition": "intentionally, not by accident",
+     "example": "Shops deliberately put sweets near the checkout."
+    },
+    {
+     "id": "u13-13",
+     "word": "impatiently",
+     "definition": "in a way that shows you don't want to wait",
+     "example": "She waited impatiently for the shop to open."
+    },
+    {
+     "id": "u13-14",
+     "word": "simultaneously",
+     "definition": "at exactly the same time",
+     "example": "The two products were launched simultaneously."
+    },
+    {
+     "id": "u13-15",
+     "word": "bargain",
+     "definition": "something bought for much less than its usual price",
+     "example": "These boots were a real bargain."
+    }
+   ]
+  },
+  {
+   "id": "u14",
+   "title": "Unit 14 · Jobs and careers",
+   "words": [
+    {
+     "id": "u14-01",
+     "word": "made redundant",
+     "definition": "lose your job because your employer no longer needs you",
+     "example": "Fifty workers were made redundant when the factory closed."
+    },
+    {
+     "id": "u14-02",
+     "word": "promoted",
+     "definition": "moved to a more important job in the same company",
+     "example": "She was promoted to manager after two years."
+    },
+    {
+     "id": "u14-03",
+     "word": "sacked",
+     "definition": "told to leave your job, usually because you did something wrong",
+     "example": "He was sacked for being late every day."
+    },
+    {
+     "id": "u14-04",
+     "word": "headquarters",
+     "definition": "the main office of a company or organisation",
+     "example": "The company's headquarters are in Frankfurt."
+    },
+    {
+     "id": "u14-05",
+     "word": "workforce",
+     "definition": "all the people who work for a company or in a country",
+     "example": "The company has a diverse workforce."
+    },
+    {
+     "id": "u14-06",
+     "word": "overtime",
+     "definition": "extra hours that you work beyond your normal hours",
+     "example": "I did ten hours of overtime last week."
+    },
+    {
+     "id": "u14-07",
+     "word": "recruit",
+     "definition": "to find new people to join a company",
+     "example": "We're recruiting new staff for the summer."
+    },
+    {
+     "id": "u14-08",
+     "word": "deadline",
+     "definition": "a time or date by which something must be finished",
+     "example": "The deadline for the project is Friday."
+    },
+    {
+     "id": "u14-09",
+     "word": "workaholic",
+     "definition": "a person who works too much and finds it hard to stop",
+     "example": "My boss is a workaholic; she even works on holiday."
+    },
+    {
+     "id": "u14-10",
+     "word": "workload",
+     "definition": "the amount of work that a person has to do",
+     "example": "My workload has doubled this month."
+    },
+    {
+     "id": "u14-11",
+     "word": "earnings",
+     "definition": "the money that you receive for working",
+     "example": "His earnings have increased this year."
+    },
+    {
+     "id": "u14-12",
+     "word": "set up",
+     "definition": "to start a company or organisation",
+     "example": "She set up her own business at 25."
+    },
+    {
+     "id": "u14-13",
+     "word": "take on",
+     "definition": "to employ someone",
+     "example": "The shop is taking on extra staff for Christmas."
+    },
+    {
+     "id": "u14-14",
+     "word": "lay off",
+     "definition": "to stop employing someone because there is not enough work",
+     "example": "The factory laid off 200 workers."
+    },
+    {
+     "id": "u14-15",
+     "word": "step down",
+     "definition": "to leave an important job or position",
+     "example": "The CEO stepped down after the scandal."
+    }
+   ]
+  },
+  {
+   "id": "pv",
+   "title": "Phrasal verb bank",
+   "words": [
+    {
+     "id": "pv-01",
+     "word": "be into",
+     "definition": "to be very interested in something",
+     "example": "I'm really into photography at the moment."
+    },
+    {
+     "id": "pv-02",
+     "word": "bring up",
+     "definition": "to start talking about a subject",
+     "example": "She brought up the issue at the meeting."
+    },
+    {
+     "id": "pv-03",
+     "word": "burst out",
+     "definition": "to suddenly start doing something, like laughing or crying",
+     "example": "We burst out laughing when we saw his costume."
+    },
+    {
+     "id": "pv-04",
+     "word": "calm down",
+     "definition": "to stop feeling angry, upset or excited",
+     "example": "Calm down! It's only a game."
+    },
+    {
+     "id": "pv-05",
+     "word": "check in",
+     "definition": "to arrive and register at a hotel or airport",
+     "example": "We checked in two hours before the flight."
+    },
+    {
+     "id": "pv-06",
+     "word": "check out",
+     "definition": "to pay and leave a hotel",
+     "example": "We have to check out by 11 a.m."
+    },
+    {
+     "id": "pv-07",
+     "word": "cheer up",
+     "definition": "to become happier",
+     "example": "Cheer up! It's nearly the weekend."
+    },
+    {
+     "id": "pv-08",
+     "word": "drop out",
+     "definition": "to stop doing something, like a course or a race, before finishing it",
+     "example": "He dropped out of university after one year."
+    },
+    {
+     "id": "pv-09",
+     "word": "fall behind",
+     "definition": "to fail to keep up with others or with work",
+     "example": "I fell behind with my homework when I was ill."
+    },
+    {
+     "id": "pv-10",
+     "word": "get away",
+     "definition": "to leave or escape from a person or place",
+     "example": "We're trying to get away for a few days in May."
+    },
+    {
+     "id": "pv-11",
+     "word": "get through",
+     "definition": "to complete something difficult successfully",
+     "example": "I don't know how I got through that exam."
+    },
+    {
+     "id": "pv-12",
+     "word": "go over",
+     "definition": "to examine or check something carefully",
+     "example": "Let's go over the answers together."
+    },
+    {
+     "id": "pv-13",
+     "word": "hand in",
+     "definition": "to give work to a teacher",
+     "example": "Please hand in your essays on Monday."
+    },
+    {
+     "id": "pv-14",
+     "word": "hand out",
+     "definition": "to give something to each person in a group",
+     "example": "The teacher handed out the worksheets."
+    },
+    {
+     "id": "pv-15",
+     "word": "look through",
+     "definition": "to read something quickly",
+     "example": "I looked through the magazine at the dentist's."
+    },
+    {
+     "id": "pv-16",
+     "word": "make up",
+     "definition": "to invent a story or excuse",
+     "example": "He made up an excuse for being late."
+    },
+    {
+     "id": "pv-17",
+     "word": "point out",
+     "definition": "to tell someone about a fact or to direct their attention to something",
+     "example": "She pointed out a mistake in my essay."
+    },
+    {
+     "id": "pv-18",
+     "word": "pull over",
+     "definition": "to drive to the side of the road and stop",
+     "example": "The police officer told the driver to pull over."
+    },
+    {
+     "id": "pv-19",
+     "word": "read up on",
+     "definition": "to study a lot about a subject to learn more about it",
+     "example": "I read up on the company before the interview."
+    },
+    {
+     "id": "pv-20",
+     "word": "run into",
+     "definition": "to meet someone you know by chance",
+     "example": "I ran into my old teacher at the supermarket."
+    },
+    {
+     "id": "pv-21",
+     "word": "set out",
+     "definition": "to start a journey",
+     "example": "We set out at dawn to climb the mountain."
+    },
+    {
+     "id": "pv-22",
+     "word": "speak up",
+     "definition": "to talk more loudly",
+     "example": "Could you speak up? I can't hear you."
+    },
+    {
+     "id": "pv-23",
+     "word": "stand for",
+     "definition": "to be a short form of a word or name",
+     "example": "\"UN\" stands for \"United Nations\"."
+    },
+    {
+     "id": "pv-24",
+     "word": "stand up for",
+     "definition": "to defend or support someone or something",
+     "example": "You should stand up for what you believe in."
+    },
+    {
+     "id": "pv-25",
+     "word": "stay over",
+     "definition": "to sleep at someone else's house for a night",
+     "example": "Can I stay over at Lucia's on Saturday?"
+    },
+    {
+     "id": "pv-26",
+     "word": "take off",
+     "definition": "(of a plane) to leave the ground and start flying",
+     "example": "The plane took off on time."
+    },
+    {
+     "id": "pv-27",
+     "word": "talk into",
+     "definition": "to persuade someone to do something",
+     "example": "She talked me into joining the choir."
+    },
+    {
+     "id": "pv-28",
+     "word": "talk over",
+     "definition": "to discuss a problem with someone before deciding",
+     "example": "Let's talk it over before we decide."
+    },
+    {
+     "id": "pv-29",
+     "word": "tell off",
+     "definition": "to speak angrily to someone because they did something wrong",
+     "example": "The teacher told us off for talking."
+    },
+    {
+     "id": "pv-30",
+     "word": "turn up",
+     "definition": "to arrive or appear somewhere, often unexpectedly",
+     "example": "Only five people turned up to the meeting."
+    }
+   ]
+  }
+ ]
+}

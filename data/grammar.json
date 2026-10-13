@@ -1,0 +1,7256 @@
+{
+ "topics": [
+  {
+   "id": "g01",
+   "unit": "Starter",
+   "title": "Present perfect",
+   "questions": [
+    {
+     "id": "g01-01",
+     "sentence": "She ___ in Madrid since 2019.",
+     "options": [
+      "has lived",
+      "lived",
+      "is living",
+      "lives"
+     ],
+     "answer": "has lived",
+     "explanation": "Use the present perfect with \"since\" + a point in time for situations that started in the past and continue now."
+    },
+    {
+     "id": "g01-02",
+     "sentence": "I ___ my keys. I can't get into the house!",
+     "options": [
+      "have lost",
+      "lost",
+      "had lost",
+      "am losing"
+     ],
+     "answer": "have lost",
+     "explanation": "The present perfect shows a past action with a result now (I still don't have my keys)."
+    },
+    {
+     "id": "g01-03",
+     "sentence": "We ___ to Paris three times so far.",
+     "options": [
+      "have been",
+      "went",
+      "are going",
+      "had gone"
+     ],
+     "answer": "have been",
+     "explanation": "\"So far\" means \"up to now\", so we use the present perfect for experiences."
+    },
+    {
+     "id": "g01-04",
+     "sentence": "I ___ him yesterday at the station.",
+     "options": [
+      "saw",
+      "have seen",
+      "have been seeing",
+      "had seen"
+     ],
+     "answer": "saw",
+     "explanation": "\"Yesterday\" is a finished time, so we use the past simple, not the present perfect."
+    },
+    {
+     "id": "g01-05",
+     "sentence": "Have you ___ been to Japan?",
+     "options": [
+      "ever",
+      "yet",
+      "already",
+      "still"
+     ],
+     "answer": "ever",
+     "explanation": "\"Ever\" is used in present perfect questions about experiences in someone's whole life."
+    },
+    {
+     "id": "g01-06",
+     "sentence": "I haven't finished my homework ___.",
+     "options": [
+      "yet",
+      "already",
+      "still",
+      "ever"
+     ],
+     "answer": "yet",
+     "explanation": "\"Yet\" goes at the end of negative sentences and questions in the present perfect."
+    },
+    {
+     "id": "g01-07",
+     "sentence": "Don't worry, I've ___ booked the tickets.",
+     "options": [
+      "already",
+      "yet",
+      "ever",
+      "still"
+     ],
+     "answer": "already",
+     "explanation": "\"Already\" shows something happened sooner than expected. It usually goes between \"have\" and the past participle."
+    },
+    {
+     "id": "g01-08",
+     "sentence": "They ___ for the bus for forty minutes and it still hasn't come.",
+     "options": [
+      "have been waiting",
+      "have waited",
+      "waited",
+      "are waiting"
+     ],
+     "answer": "have been waiting",
+     "explanation": "The present perfect continuous emphasises the duration of an activity that is still happening."
+    },
+    {
+     "id": "g01-09",
+     "sentence": "Your eyes are red. Have you ___?",
+     "options": [
+      "been crying",
+      "cried",
+      "cry",
+      "crying"
+     ],
+     "answer": "been crying",
+     "explanation": "The present perfect continuous explains present evidence of a recent activity."
+    },
+    {
+     "id": "g01-10",
+     "sentence": "This is the best film I have ___ seen.",
+     "options": [
+      "ever",
+      "never",
+      "yet",
+      "already"
+     ],
+     "answer": "ever",
+     "explanation": "After a superlative, we often use \"ever\" with the present perfect: the best ... I have ever seen."
+    },
+    {
+     "id": "g01-11",
+     "sentence": "It's the first time I ___ sushi.",
+     "options": [
+      "have tried",
+      "tried",
+      "try",
+      "am trying"
+     ],
+     "answer": "have tried",
+     "explanation": "After \"It's the first time...\", English uses the present perfect."
+    },
+    {
+     "id": "g01-12",
+     "sentence": "How long ___ each other?",
+     "options": [
+      "have you known",
+      "do you know",
+      "are you knowing",
+      "did you know"
+     ],
+     "answer": "have you known",
+     "explanation": "\"Know\" is a state verb, so we use the present perfect simple (not continuous) to talk about duration."
+    },
+    {
+     "id": "g01-13",
+     "sentence": "I've worked here ___ six months.",
+     "options": [
+      "for",
+      "since",
+      "during",
+      "from"
+     ],
+     "answer": "for",
+     "explanation": "Use \"for\" with a period of time (six months) and \"since\" with a starting point (since May)."
+    },
+    {
+     "id": "g01-14",
+     "sentence": "I've been learning English ___ I was eight.",
+     "options": [
+      "since",
+      "for",
+      "from",
+      "when"
+     ],
+     "answer": "since",
+     "explanation": "\"Since\" introduces the starting point of a situation that continues now."
+    },
+    {
+     "id": "g01-15",
+     "sentence": "She ___ three books this year, and she's writing a fourth.",
+     "options": [
+      "has written",
+      "has been writing",
+      "wrote",
+      "is writing"
+     ],
+     "answer": "has written",
+     "explanation": "Use the present perfect simple to say how many things have been completed."
+    },
+    {
+     "id": "g01-16",
+     "sentence": "I ___ on this report all morning, and I'm exhausted.",
+     "options": [
+      "have been working",
+      "have worked",
+      "worked",
+      "am working"
+     ],
+     "answer": "have been working",
+     "explanation": "The present perfect continuous focuses on a long, continuous activity that explains how you feel now."
+    },
+    {
+     "id": "g01-17",
+     "sentence": "My brother has ___ to Canada. He'll be back next month.",
+     "options": [
+      "gone",
+      "been",
+      "went",
+      "going"
+     ],
+     "answer": "gone",
+     "explanation": "\"Has gone to\" means he is still there; \"has been to\" means he went and came back."
+    },
+    {
+     "id": "g01-18",
+     "sentence": "Have you ever ___ to Australia?",
+     "options": [
+      "been",
+      "gone",
+      "went",
+      "go"
+     ],
+     "answer": "been",
+     "explanation": "For completed experiences (go and come back), use \"been to\"."
+    },
+    {
+     "id": "g01-19",
+     "sentence": "I ___ my best friend since we were five.",
+     "options": [
+      "have known",
+      "know",
+      "knew",
+      "have been knowing"
+     ],
+     "answer": "have known",
+     "explanation": "\"Know\" is a state verb, so we use the present perfect simple with \"since\"."
+    },
+    {
+     "id": "g01-20",
+     "sentence": "We ___ a lot of rain recently.",
+     "options": [
+      "have had",
+      "had",
+      "are having",
+      "have been had"
+     ],
+     "answer": "have had",
+     "explanation": "\"Recently\" with a situation connected to now takes the present perfect."
+    },
+    {
+     "id": "g01-21",
+     "sentence": "She's ___ left. You've just missed her!",
+     "options": [
+      "just",
+      "yet",
+      "ever",
+      "since"
+     ],
+     "answer": "just",
+     "explanation": "\"Just\" means a very short time ago and goes between \"have\" and the past participle."
+    }
+   ]
+  },
+  {
+   "id": "g02",
+   "unit": "Starter",
+   "title": "Comparatives and superlatives",
+   "questions": [
+    {
+     "id": "g02-01",
+     "sentence": "This exam was ___ than the last one.",
+     "options": [
+      "easier",
+      "more easy",
+      "easiest",
+      "the easier"
+     ],
+     "answer": "easier",
+     "explanation": "Two-syllable adjectives ending in -y change to -ier in the comparative."
+    },
+    {
+     "id": "g02-02",
+     "sentence": "Mount Everest is the ___ mountain in the world.",
+     "options": [
+      "highest",
+      "higher",
+      "most high",
+      "more higher"
+     ],
+     "answer": "highest",
+     "explanation": "Short adjectives form the superlative with \"the\" + -est."
+    },
+    {
+     "id": "g02-03",
+     "sentence": "My new phone is ___ expensive than my old one.",
+     "options": [
+      "more",
+      "much",
+      "most",
+      "the more"
+     ],
+     "answer": "more",
+     "explanation": "Long adjectives form the comparative with \"more\"."
+    },
+    {
+     "id": "g02-04",
+     "sentence": "She's the ___ person I've ever met.",
+     "options": [
+      "most generous",
+      "more generous",
+      "generousest",
+      "generouser"
+     ],
+     "answer": "most generous",
+     "explanation": "Long adjectives form the superlative with \"the most\"."
+    },
+    {
+     "id": "g02-05",
+     "sentence": "Today is ___ than yesterday.",
+     "options": [
+      "worse",
+      "worst",
+      "badder",
+      "more bad"
+     ],
+     "answer": "worse",
+     "explanation": "\"Bad\" is irregular: bad, worse, the worst."
+    },
+    {
+     "id": "g02-06",
+     "sentence": "He's ___ footballer in the team.",
+     "options": [
+      "the best",
+      "the better",
+      "best",
+      "the goodest"
+     ],
+     "answer": "the best",
+     "explanation": "\"Good\" is irregular: good, better, the best."
+    },
+    {
+     "id": "g02-07",
+     "sentence": "The weather is getting ___.",
+     "options": [
+      "colder and colder",
+      "more and more cold",
+      "coldest and coldest",
+      "the colder"
+     ],
+     "answer": "colder and colder",
+     "explanation": "We repeat the comparative to show a continuous change: colder and colder."
+    },
+    {
+     "id": "g02-08",
+     "sentence": "The more you practise, ___ you'll become.",
+     "options": [
+      "the better",
+      "better",
+      "the best",
+      "more better"
+     ],
+     "answer": "the better",
+     "explanation": "The structure is \"the + comparative ..., the + comparative ...\"."
+    },
+    {
+     "id": "g02-09",
+     "sentence": "This book isn't ___ interesting as the film.",
+     "options": [
+      "as",
+      "so much",
+      "more",
+      "than"
+     ],
+     "answer": "as",
+     "explanation": "\"Not as + adjective + as\" means \"less ... than\"."
+    },
+    {
+     "id": "g02-10",
+     "sentence": "My sister is ___ taller than me.",
+     "options": [
+      "much",
+      "very",
+      "more",
+      "most"
+     ],
+     "answer": "much",
+     "explanation": "Use \"much\", \"far\" or \"a lot\" before a comparative to show a big difference."
+    },
+    {
+     "id": "g02-11",
+     "sentence": "The test was ___ more difficult than I expected.",
+     "options": [
+      "far",
+      "very",
+      "too",
+      "so"
+     ],
+     "answer": "far",
+     "explanation": "\"Far\" can modify a comparative to mean \"much\"."
+    },
+    {
+     "id": "g02-12",
+     "sentence": "Of all the students, Lucia works ___.",
+     "options": [
+      "the hardest",
+      "harder",
+      "the most hard",
+      "hardest than"
+     ],
+     "answer": "the hardest",
+     "explanation": "\"Hard\" as an adverb has a regular superlative: the hardest."
+    },
+    {
+     "id": "g02-13",
+     "sentence": "This sofa is ___ comfortable as the old one.",
+     "options": [
+      "just as",
+      "as much",
+      "more as",
+      "as more"
+     ],
+     "answer": "just as",
+     "explanation": "\"Just as + adjective + as\" means \"exactly equal\"."
+    },
+    {
+     "id": "g02-14",
+     "sentence": "Could you drive a bit ___? I'm feeling sick.",
+     "options": [
+      "more slowly",
+      "slowlier",
+      "more slow",
+      "slowest"
+     ],
+     "answer": "more slowly",
+     "explanation": "For adverbs ending in -ly, use \"more\" to form the comparative."
+    },
+    {
+     "id": "g02-15",
+     "sentence": "Which is the ___ city in your country?",
+     "options": [
+      "most polluted",
+      "more polluted",
+      "pollutedest",
+      "most pollutedest"
+     ],
+     "answer": "most polluted",
+     "explanation": "Long adjectives and past participles form the superlative with \"the most\"."
+    },
+    {
+     "id": "g02-16",
+     "sentence": "He's ___ older than his wife: only two months.",
+     "options": [
+      "slightly",
+      "much",
+      "far",
+      "a lot"
+     ],
+     "answer": "slightly",
+     "explanation": "\"Slightly\" or \"a bit\" before a comparative shows a small difference."
+    },
+    {
+     "id": "g02-17",
+     "sentence": "This is by ___ the best restaurant in town.",
+     "options": [
+      "far",
+      "much",
+      "more",
+      "most"
+     ],
+     "answer": "far",
+     "explanation": "\"By far\" emphasises a superlative."
+    },
+    {
+     "id": "g02-18",
+     "sentence": "London is ___ from Madrid than Paris is.",
+     "options": [
+      "further",
+      "more far",
+      "farther than",
+      "furthest"
+     ],
+     "answer": "further",
+     "explanation": "\"Far\" has the comparative \"further\" (or \"farther\")."
+    },
+    {
+     "id": "g02-19",
+     "sentence": "The film was ___ than I thought it would be.",
+     "options": [
+      "more boring",
+      "boringer",
+      "most boring",
+      "the more boring"
+     ],
+     "answer": "more boring",
+     "explanation": "Long adjectives (including -ing adjectives) use \"more\" in the comparative."
+    },
+    {
+     "id": "g02-20",
+     "sentence": "My grandmother is the ___ member of our family.",
+     "options": [
+      "oldest",
+      "older",
+      "most old",
+      "eldest of"
+     ],
+     "answer": "oldest",
+     "explanation": "Short adjectives take -est in the superlative."
+    },
+    {
+     "id": "g02-21",
+     "sentence": "Your essay is ___ than mine, but mine is more creative.",
+     "options": [
+      "tidier",
+      "more tidy",
+      "tidiest",
+      "the tidier"
+     ],
+     "answer": "tidier",
+     "explanation": "Two-syllable adjectives ending in -y take -ier."
+    }
+   ]
+  },
+  {
+   "id": "g03",
+   "unit": "Unit 1",
+   "title": "Gerunds and infinitives",
+   "questions": [
+    {
+     "id": "g03-01",
+     "sentence": "I enjoy ___ in the mountains at the weekend.",
+     "options": [
+      "walking",
+      "to walk",
+      "walk",
+      "to walking"
+     ],
+     "answer": "walking",
+     "explanation": "\"Enjoy\" is always followed by a gerund (-ing)."
+    },
+    {
+     "id": "g03-02",
+     "sentence": "She decided ___ a personal trainer.",
+     "options": [
+      "to hire",
+      "hiring",
+      "hire",
+      "to hiring"
+     ],
+     "answer": "to hire",
+     "explanation": "\"Decide\" is followed by the infinitive with \"to\"."
+    },
+    {
+     "id": "g03-03",
+     "sentence": "He gave up ___ two years ago.",
+     "options": [
+      "smoking",
+      "to smoke",
+      "smoke",
+      "to smoking"
+     ],
+     "answer": "smoking",
+     "explanation": "After a phrasal verb like \"give up\", use the gerund."
+    },
+    {
+     "id": "g03-04",
+     "sentence": "I can't afford ___ a gym membership right now.",
+     "options": [
+      "to buy",
+      "buying",
+      "buy",
+      "to buying"
+     ],
+     "answer": "to buy",
+     "explanation": "\"Afford\" is followed by the infinitive with \"to\"."
+    },
+    {
+     "id": "g03-05",
+     "sentence": "___ regularly is good for your heart.",
+     "options": [
+      "Swimming",
+      "Swim",
+      "To swimming",
+      "Swam"
+     ],
+     "answer": "Swimming",
+     "explanation": "A gerund can be the subject of a sentence."
+    },
+    {
+     "id": "g03-06",
+     "sentence": "I'm looking forward to ___ you next week.",
+     "options": [
+      "seeing",
+      "see",
+      "to see",
+      "seen"
+     ],
+     "answer": "seeing",
+     "explanation": "In \"look forward to\", \"to\" is a preposition, so it is followed by the gerund."
+    },
+    {
+     "id": "g03-07",
+     "sentence": "Remember ___ the lights when you leave.",
+     "options": [
+      "to turn off",
+      "turning off",
+      "turn off",
+      "turned off"
+     ],
+     "answer": "to turn off",
+     "explanation": "\"Remember + infinitive\" means remember to do something you need to do in the future."
+    },
+    {
+     "id": "g03-08",
+     "sentence": "I remember ___ this song when I was a child.",
+     "options": [
+      "hearing",
+      "to hear",
+      "hear",
+      "heard"
+     ],
+     "answer": "hearing",
+     "explanation": "\"Remember + -ing\" means you have a memory of something in the past."
+    },
+    {
+     "id": "g03-09",
+     "sentence": "He stopped ___ a drink because he was thirsty.",
+     "options": [
+      "to have",
+      "having",
+      "have",
+      "had"
+     ],
+     "answer": "to have",
+     "explanation": "\"Stop + infinitive\" means stop one activity in order to do another."
+    },
+    {
+     "id": "g03-10",
+     "sentence": "You should stop ___ so much sugar. It's bad for you.",
+     "options": [
+      "eating",
+      "to eat",
+      "eat",
+      "eaten"
+     ],
+     "answer": "eating",
+     "explanation": "\"Stop + -ing\" means you no longer do that activity."
+    },
+    {
+     "id": "g03-11",
+     "sentence": "She's really good at ___ tennis.",
+     "options": [
+      "playing",
+      "to play",
+      "play",
+      "played"
+     ],
+     "answer": "playing",
+     "explanation": "After a preposition (at), use the gerund."
+    },
+    {
+     "id": "g03-12",
+     "sentence": "My doctor advised me ___ more water.",
+     "options": [
+      "to drink",
+      "drinking",
+      "drink",
+      "drank"
+     ],
+     "answer": "to drink",
+     "explanation": "\"Advise someone to do something\": use the infinitive after the object."
+    },
+    {
+     "id": "g03-13",
+     "sentence": "I tried ___ the window, but it was stuck.",
+     "options": [
+      "to open",
+      "opening",
+      "open",
+      "opened"
+     ],
+     "answer": "to open",
+     "explanation": "\"Try + infinitive\" means make an effort to do something difficult."
+    },
+    {
+     "id": "g03-14",
+     "sentence": "If you have a headache, try ___ a glass of water.",
+     "options": [
+      "drinking",
+      "to drink",
+      "drink",
+      "drunk"
+     ],
+     "answer": "drinking",
+     "explanation": "\"Try + -ing\" means do something as an experiment to see if it helps."
+    },
+    {
+     "id": "g03-15",
+     "sentence": "They let us ___ early yesterday.",
+     "options": [
+      "leave",
+      "to leave",
+      "leaving",
+      "left"
+     ],
+     "answer": "leave",
+     "explanation": "\"Let\" is followed by object + base form (no \"to\")."
+    },
+    {
+     "id": "g03-16",
+     "sentence": "I'm not used to ___ up so early.",
+     "options": [
+      "getting",
+      "get",
+      "to get",
+      "got"
+     ],
+     "answer": "getting",
+     "explanation": "In \"be used to\", \"to\" is a preposition, so it is followed by the gerund."
+    },
+    {
+     "id": "g03-17",
+     "sentence": "It's important ___ before you exercise.",
+     "options": [
+      "to warm up",
+      "warming up",
+      "warm up",
+      "warmed up"
+     ],
+     "answer": "to warm up",
+     "explanation": "After \"It's + adjective\", use the infinitive with \"to\"."
+    },
+    {
+     "id": "g03-18",
+     "sentence": "Would you mind ___ the door?",
+     "options": [
+      "closing",
+      "to close",
+      "close",
+      "closed"
+     ],
+     "answer": "closing",
+     "explanation": "\"Mind\" is followed by the gerund."
+    },
+    {
+     "id": "g03-19",
+     "sentence": "She refused ___ the medicine.",
+     "options": [
+      "to take",
+      "taking",
+      "take",
+      "taken"
+     ],
+     "answer": "to take",
+     "explanation": "\"Refuse\" is followed by the infinitive with \"to\"."
+    },
+    {
+     "id": "g03-20",
+     "sentence": "I went to the gym ___ fit.",
+     "options": [
+      "to get",
+      "for getting",
+      "getting",
+      "for get"
+     ],
+     "answer": "to get",
+     "explanation": "Use the infinitive of purpose to explain why you do something."
+    },
+    {
+     "id": "g03-21",
+     "sentence": "He admitted ___ the last biscuit.",
+     "options": [
+      "eating",
+      "to eat",
+      "eat",
+      "to eating"
+     ],
+     "answer": "eating",
+     "explanation": "\"Admit\" is followed by the gerund."
+    }
+   ]
+  },
+  {
+   "id": "g04",
+   "unit": "Unit 1",
+   "title": "Comparing and contrasting with linkers",
+   "questions": [
+    {
+     "id": "g04-01",
+     "sentence": "___ it was raining, we went for a run.",
+     "options": [
+      "Although",
+      "Despite",
+      "However",
+      "In spite"
+     ],
+     "answer": "Although",
+     "explanation": "\"Although\" is followed by a full clause (subject + verb)."
+    },
+    {
+     "id": "g04-02",
+     "sentence": "___ the rain, we went for a run.",
+     "options": [
+      "Despite",
+      "Although",
+      "Even though",
+      "However"
+     ],
+     "answer": "Despite",
+     "explanation": "\"Despite\" is followed by a noun or noun phrase, not a clause."
+    },
+    {
+     "id": "g04-03",
+     "sentence": "In spite ___ his injury, he finished the race.",
+     "options": [
+      "of",
+      "to",
+      "for",
+      "that"
+     ],
+     "answer": "of",
+     "explanation": "The complete expression is \"in spite of\" + noun/-ing."
+    },
+    {
+     "id": "g04-04",
+     "sentence": "The gym is expensive. ___, the classes are excellent.",
+     "options": [
+      "However",
+      "Although",
+      "Despite",
+      "Whereas"
+     ],
+     "answer": "However",
+     "explanation": "\"However\" connects two sentences and is followed by a comma."
+    },
+    {
+     "id": "g04-05",
+     "sentence": "My brother loves team sports, ___ I prefer swimming alone.",
+     "options": [
+      "whereas",
+      "despite",
+      "however",
+      "in spite of"
+     ],
+     "answer": "whereas",
+     "explanation": "\"Whereas\" compares two contrasting facts within one sentence."
+    },
+    {
+     "id": "g04-06",
+     "sentence": "___ feeling tired, she went to her yoga class.",
+     "options": [
+      "Despite",
+      "Although",
+      "Even though",
+      "Whereas"
+     ],
+     "answer": "Despite",
+     "explanation": "\"Despite\" can be followed by the -ing form of a verb."
+    },
+    {
+     "id": "g04-07",
+     "sentence": "___ though he trains every day, he isn't very fit.",
+     "options": [
+      "Even",
+      "Although",
+      "Despite",
+      "However"
+     ],
+     "answer": "Even",
+     "explanation": "\"Even though\" is a stronger form of \"although\"."
+    },
+    {
+     "id": "g04-08",
+     "sentence": "Running is good for your heart. ___, it can be hard on your knees.",
+     "options": [
+      "On the other hand",
+      "Whereas",
+      "Although",
+      "Despite"
+     ],
+     "answer": "On the other hand",
+     "explanation": "\"On the other hand\" introduces a contrasting point at the start of a sentence."
+    },
+    {
+     "id": "g04-09",
+     "sentence": "Despite the fact ___ it was cold, they swam in the sea.",
+     "options": [
+      "that",
+      "of",
+      "which",
+      "what"
+     ],
+     "answer": "that",
+     "explanation": "\"Despite the fact that\" + clause is correct; \"despite\" alone needs a noun."
+    },
+    {
+     "id": "g04-10",
+     "sentence": "___ some people prefer to exercise in the morning, others prefer the evening.",
+     "options": [
+      "While",
+      "Despite",
+      "However",
+      "In spite of"
+     ],
+     "answer": "While",
+     "explanation": "\"While\" can be used like \"whereas\" to contrast two ideas."
+    },
+    {
+     "id": "g04-11",
+     "sentence": "She eats very healthily. Her husband, ___, lives on junk food.",
+     "options": [
+      "on the other hand",
+      "whereas",
+      "although",
+      "despite"
+     ],
+     "answer": "on the other hand",
+     "explanation": "\"On the other hand\" can go in the middle of a sentence between commas."
+    },
+    {
+     "id": "g04-12",
+     "sentence": "The diet was hard to follow. It worked, ___.",
+     "options": [
+      "though",
+      "although",
+      "despite",
+      "whereas"
+     ],
+     "answer": "though",
+     "explanation": "\"Though\" can go at the end of a sentence in informal English to mean \"however\"."
+    },
+    {
+     "id": "g04-13",
+     "sentence": "___ having little time, he cooks fresh food every day.",
+     "options": [
+      "In spite of",
+      "Although",
+      "Even though",
+      "However"
+     ],
+     "answer": "In spite of",
+     "explanation": "\"In spite of\" is followed by a noun or -ing form."
+    },
+    {
+     "id": "g04-14",
+     "sentence": "I like cycling. ___, my sister prefers running.",
+     "options": [
+      "In contrast",
+      "Whereas",
+      "Despite",
+      "Although"
+     ],
+     "answer": "In contrast",
+     "explanation": "\"In contrast\" starts a new sentence to show a difference."
+    },
+    {
+     "id": "g04-15",
+     "sentence": "___ my friends love the gym, I find it boring.",
+     "options": [
+      "Although",
+      "Despite",
+      "However",
+      "In spite of"
+     ],
+     "answer": "Although",
+     "explanation": "\"Although\" + clause can begin a sentence."
+    },
+    {
+     "id": "g04-16",
+     "sentence": "He's very strong, ___ he isn't very fast.",
+     "options": [
+      "but",
+      "despite",
+      "however",
+      "in spite of"
+     ],
+     "answer": "but",
+     "explanation": "\"But\" joins two contrasting clauses in one sentence."
+    },
+    {
+     "id": "g04-17",
+     "sentence": "___ being older, my grandfather is fitter than me.",
+     "options": [
+      "Despite",
+      "Although",
+      "Whereas",
+      "However"
+     ],
+     "answer": "Despite",
+     "explanation": "\"Despite + -ing\" shows a contrast."
+    },
+    {
+     "id": "g04-18",
+     "sentence": "Some sports are expensive. Running, ___, costs almost nothing.",
+     "options": [
+      "however",
+      "although",
+      "despite",
+      "whereas"
+     ],
+     "answer": "however",
+     "explanation": "\"However\" can appear in the middle of a sentence between commas."
+    },
+    {
+     "id": "g04-19",
+     "sentence": "Swimming is a low-impact sport, ___ running puts pressure on your joints.",
+     "options": [
+      "whereas",
+      "despite",
+      "however",
+      "in spite of"
+     ],
+     "answer": "whereas",
+     "explanation": "\"Whereas\" connects two contrasting facts in one sentence."
+    },
+    {
+     "id": "g04-20",
+     "sentence": "___ all our efforts, we lost the match.",
+     "options": [
+      "Despite",
+      "Although",
+      "Even though",
+      "Whereas"
+     ],
+     "answer": "Despite",
+     "explanation": "\"Despite\" + noun phrase (all our efforts)."
+    },
+    {
+     "id": "g04-21",
+     "sentence": "I know it's healthy. ___, I can't stand broccoli!",
+     "options": [
+      "Even so",
+      "Even though",
+      "Despite",
+      "Whereas"
+     ],
+     "answer": "Even so",
+     "explanation": "\"Even so\" means \"despite what was just said\" and starts a sentence."
+    }
+   ]
+  },
+  {
+   "id": "g05",
+   "unit": "Unit 2",
+   "title": "The passive",
+   "questions": [
+    {
+     "id": "g05-01",
+     "sentence": "The letter ___ yesterday.",
+     "options": [
+      "was sent",
+      "sent",
+      "has sent",
+      "is sending"
+     ],
+     "answer": "was sent",
+     "explanation": "Past simple passive: was/were + past participle."
+    },
+    {
+     "id": "g05-02",
+     "sentence": "English ___ all over the world.",
+     "options": [
+      "is spoken",
+      "speaks",
+      "is speaking",
+      "spoken"
+     ],
+     "answer": "is spoken",
+     "explanation": "Present simple passive: am/is/are + past participle."
+    },
+    {
+     "id": "g05-03",
+     "sentence": "The new bridge ___ at the moment.",
+     "options": [
+      "is being built",
+      "is built",
+      "is building",
+      "has built"
+     ],
+     "answer": "is being built",
+     "explanation": "Present continuous passive: am/is/are + being + past participle."
+    },
+    {
+     "id": "g05-04",
+     "sentence": "The results ___ next week.",
+     "options": [
+      "will be announced",
+      "will announce",
+      "are announcing",
+      "will announced"
+     ],
+     "answer": "will be announced",
+     "explanation": "Future passive: will be + past participle."
+    },
+    {
+     "id": "g05-05",
+     "sentence": "Three people ___ in the accident.",
+     "options": [
+      "were injured",
+      "injured",
+      "have injured",
+      "were injuring"
+     ],
+     "answer": "were injured",
+     "explanation": "We use the passive when the action is more important than who did it."
+    },
+    {
+     "id": "g05-06",
+     "sentence": "The thief ___ by the police last night.",
+     "options": [
+      "was arrested",
+      "arrested",
+      "has been arrest",
+      "was arresting"
+     ],
+     "answer": "was arrested",
+     "explanation": "Use \"by\" to say who did the action in a passive sentence."
+    },
+    {
+     "id": "g05-07",
+     "sentence": "My phone ___. I can't find it anywhere!",
+     "options": [
+      "has been stolen",
+      "has stolen",
+      "was stealing",
+      "is stealing"
+     ],
+     "answer": "has been stolen",
+     "explanation": "Present perfect passive: has/have been + past participle."
+    },
+    {
+     "id": "g05-08",
+     "sentence": "The room ___ before the guests arrive.",
+     "options": [
+      "must be cleaned",
+      "must clean",
+      "must cleaned",
+      "must be clean"
+     ],
+     "answer": "must be cleaned",
+     "explanation": "Modal passive: modal + be + past participle."
+    },
+    {
+     "id": "g05-09",
+     "sentence": "The emails ___ when I got to the office.",
+     "options": [
+      "had already been sent",
+      "had already sent",
+      "were already sending",
+      "have already been sent"
+     ],
+     "answer": "had already been sent",
+     "explanation": "Past perfect passive: had been + past participle."
+    },
+    {
+     "id": "g05-10",
+     "sentence": "It ___ that social media affects our mood.",
+     "options": [
+      "is said",
+      "says",
+      "is saying",
+      "said"
+     ],
+     "answer": "is said",
+     "explanation": "\"It is said that...\" is an impersonal passive used to report general opinions."
+    },
+    {
+     "id": "g05-11",
+     "sentence": "He is ___ to be the richest man in the country.",
+     "options": [
+      "believed",
+      "believing",
+      "believe",
+      "belief"
+     ],
+     "answer": "believed",
+     "explanation": "\"He is believed to be...\" is a passive reporting structure."
+    },
+    {
+     "id": "g05-12",
+     "sentence": "The house ___ while we were on holiday.",
+     "options": [
+      "was being painted",
+      "was painting",
+      "painted",
+      "is being painted"
+     ],
+     "answer": "was being painted",
+     "explanation": "Past continuous passive: was/were + being + past participle."
+    },
+    {
+     "id": "g05-13",
+     "sentence": "This photo ___ by my grandfather in 1965.",
+     "options": [
+      "was taken",
+      "took",
+      "was took",
+      "has taken"
+     ],
+     "answer": "was taken",
+     "explanation": "\"Take\" is irregular: take, took, taken."
+    },
+    {
+     "id": "g05-14",
+     "sentence": "Messages ___ every day on social media.",
+     "options": [
+      "are shared",
+      "share",
+      "are sharing",
+      "shared"
+     ],
+     "answer": "are shared",
+     "explanation": "Present simple passive for regular, general actions."
+    },
+    {
+     "id": "g05-15",
+     "sentence": "The meeting has ___ until Friday.",
+     "options": [
+      "been postponed",
+      "postponed",
+      "be postponed",
+      "being postponed"
+     ],
+     "answer": "been postponed",
+     "explanation": "Present perfect passive: has been + past participle."
+    },
+    {
+     "id": "g05-16",
+     "sentence": "Children shouldn't ___ alone near the pool.",
+     "options": [
+      "be left",
+      "leave",
+      "left",
+      "be leaving"
+     ],
+     "answer": "be left",
+     "explanation": "Modal passive: should (not) + be + past participle."
+    },
+    {
+     "id": "g05-17",
+     "sentence": "Was the window ___ by the wind?",
+     "options": [
+      "broken",
+      "broke",
+      "breaking",
+      "break"
+     ],
+     "answer": "broken",
+     "explanation": "Passive questions: was/were + subject + past participle."
+    },
+    {
+     "id": "g05-18",
+     "sentence": "The film is going to ___ in cinemas next month.",
+     "options": [
+      "be released",
+      "release",
+      "released",
+      "be releasing"
+     ],
+     "answer": "be released",
+     "explanation": "\"Going to\" passive: going to be + past participle."
+    },
+    {
+     "id": "g05-19",
+     "sentence": "Our family friend ___ an award for his charity work.",
+     "options": [
+      "was given",
+      "was give",
+      "gave",
+      "has giving"
+     ],
+     "answer": "was given",
+     "explanation": "Verbs with two objects can have a person as the passive subject: He was given an award."
+    },
+    {
+     "id": "g05-20",
+     "sentence": "It ___ that friendships are less sincere online.",
+     "options": [
+      "has been suggested",
+      "has suggested",
+      "is suggesting",
+      "suggested"
+     ],
+     "answer": "has been suggested",
+     "explanation": "\"It has been suggested that...\" is a hedging structure used in formal writing."
+    },
+    {
+     "id": "g05-21",
+     "sentence": "The invitations ___ printed yet.",
+     "options": [
+      "haven't been",
+      "haven't",
+      "hasn't been",
+      "weren't being"
+     ],
+     "answer": "haven't been",
+     "explanation": "Negative present perfect passive: haven't been + past participle."
+    }
+   ]
+  },
+  {
+   "id": "g06",
+   "unit": "Unit 2",
+   "title": "Used to, be used to, get used to",
+   "questions": [
+    {
+     "id": "g06-01",
+     "sentence": "When I was a child, I ___ climb trees every day.",
+     "options": [
+      "used to",
+      "was used to",
+      "got used to",
+      "use to"
+     ],
+     "answer": "used to",
+     "explanation": "\"Used to + base form\" describes past habits that don't happen anymore."
+    },
+    {
+     "id": "g06-02",
+     "sentence": "I ___ living in a big city now. It doesn't bother me.",
+     "options": [
+      "am used to",
+      "used to",
+      "use to",
+      "am use to"
+     ],
+     "answer": "am used to",
+     "explanation": "\"Be used to + -ing\" means something is familiar and normal for you."
+    },
+    {
+     "id": "g06-03",
+     "sentence": "It took me months to ___ driving on the left.",
+     "options": [
+      "get used to",
+      "used to",
+      "be use to",
+      "getting used"
+     ],
+     "answer": "get used to",
+     "explanation": "\"Get used to + -ing\" describes the process of something becoming familiar."
+    },
+    {
+     "id": "g06-04",
+     "sentence": "Did you ___ have long hair?",
+     "options": [
+      "use to",
+      "used to",
+      "using to",
+      "be used to"
+     ],
+     "answer": "use to",
+     "explanation": "In questions and negatives with \"did\", we write \"use to\" (without -d)."
+    },
+    {
+     "id": "g06-05",
+     "sentence": "She ___ like coffee, but now she drinks it every day.",
+     "options": [
+      "didn't use to",
+      "didn't used to",
+      "wasn't used to",
+      "isn't used to"
+     ],
+     "answer": "didn't use to",
+     "explanation": "Negative past habit: didn't use to + base form."
+    },
+    {
+     "id": "g06-06",
+     "sentence": "I'm not used to ___ so early.",
+     "options": [
+      "getting up",
+      "get up",
+      "got up",
+      "be getting up"
+     ],
+     "answer": "getting up",
+     "explanation": "After \"be used to\", use the -ing form."
+    },
+    {
+     "id": "g06-07",
+     "sentence": "My parents are slowly ___ used to their new house.",
+     "options": [
+      "getting",
+      "get",
+      "got",
+      "being"
+     ],
+     "answer": "getting",
+     "explanation": "\"Get used to\" can be used in continuous tenses to show the process is happening."
+    },
+    {
+     "id": "g06-08",
+     "sentence": "We ___ live in Seoul, but we moved to Madrid in 2018.",
+     "options": [
+      "used to",
+      "were used to",
+      "are used to",
+      "got used to"
+     ],
+     "answer": "used to",
+     "explanation": "\"Used to\" describes a past situation that is no longer true."
+    },
+    {
+     "id": "g06-09",
+     "sentence": "He's a nurse, so he ___ working at night.",
+     "options": [
+      "is used to",
+      "used to",
+      "uses to",
+      "is use to"
+     ],
+     "answer": "is used to",
+     "explanation": "\"Be used to\" describes something familiar because you do it often."
+    },
+    {
+     "id": "g06-10",
+     "sentence": "You'll soon ___ the noise of the traffic.",
+     "options": [
+      "get used to",
+      "used to",
+      "be use to",
+      "got used to"
+     ],
+     "answer": "get used to",
+     "explanation": "\"Get used to + noun\" means become familiar with it."
+    },
+    {
+     "id": "g06-11",
+     "sentence": "There ___ be a cinema here, but now it's a supermarket.",
+     "options": [
+      "used to",
+      "was used to",
+      "is used to",
+      "got used to"
+     ],
+     "answer": "used to",
+     "explanation": "\"There used to be\" describes something that existed in the past."
+    },
+    {
+     "id": "g06-12",
+     "sentence": "I ___ eating spicy food when I lived in Mexico.",
+     "options": [
+      "got used to",
+      "used to",
+      "use to",
+      "was use to"
+     ],
+     "answer": "got used to",
+     "explanation": "\"Got used to + -ing\" shows that something became familiar over time."
+    },
+    {
+     "id": "g06-13",
+     "sentence": "Where did you ___ go on holiday as a child?",
+     "options": [
+      "use to",
+      "used to",
+      "be used to",
+      "get used to"
+     ],
+     "answer": "use to",
+     "explanation": "After \"did\" in questions, use \"use to\"."
+    },
+    {
+     "id": "g06-14",
+     "sentence": "I can't ___ to this cold weather.",
+     "options": [
+      "get used",
+      "used",
+      "use",
+      "be using"
+     ],
+     "answer": "get used",
+     "explanation": "\"Can't get used to\" means you are unable to become comfortable with something."
+    },
+    {
+     "id": "g06-15",
+     "sentence": "She ___ speaking in public; she does it every week.",
+     "options": [
+      "is used to",
+      "used to",
+      "uses to",
+      "is using to"
+     ],
+     "answer": "is used to",
+     "explanation": "\"Be used to + -ing\" = it is normal for her."
+    },
+    {
+     "id": "g06-16",
+     "sentence": "My grandfather ___ walk five kilometres to school.",
+     "options": [
+      "used to",
+      "was used to",
+      "is used to",
+      "got used to"
+     ],
+     "answer": "used to",
+     "explanation": "\"Used to + base form\" for repeated actions in the past."
+    },
+    {
+     "id": "g06-17",
+     "sentence": "Living alone was strange at first, but I'm ___ used to it.",
+     "options": [
+      "getting",
+      "get",
+      "got",
+      "to get"
+     ],
+     "answer": "getting",
+     "explanation": "\"I'm getting used to it\" shows the process is still happening."
+    },
+    {
+     "id": "g06-18",
+     "sentence": "Were you ___ to the heat when you lived in Spain?",
+     "options": [
+      "used",
+      "use",
+      "using",
+      "uses"
+     ],
+     "answer": "used",
+     "explanation": "\"Were you used to + noun/-ing?\" asks if something was familiar to you."
+    },
+    {
+     "id": "g06-19",
+     "sentence": "I never ___ to enjoy reading, but now I love it.",
+     "options": [
+      "used",
+      "use",
+      "was used",
+      "got used"
+     ],
+     "answer": "used",
+     "explanation": "\"Never used to + base form\" is another way to make the negative."
+    },
+    {
+     "id": "g06-20",
+     "sentence": "New employees take time to ___ used to the system.",
+     "options": [
+      "get",
+      "be",
+      "used",
+      "getting"
+     ],
+     "answer": "get",
+     "explanation": "After \"to\" (infinitive), use \"get used to\"."
+    },
+    {
+     "id": "g06-21",
+     "sentence": "I ___ to working from home now, so going back to the office will be hard.",
+     "options": [
+      "have got used",
+      "used",
+      "am use",
+      "get use"
+     ],
+     "answer": "have got used",
+     "explanation": "\"Have got used to\" shows the process is complete."
+    }
+   ]
+  },
+  {
+   "id": "g07",
+   "unit": "Unit 3",
+   "title": "First and second conditionals",
+   "questions": [
+    {
+     "id": "g07-01",
+     "sentence": "If it ___ tomorrow, we'll stay at home.",
+     "options": [
+      "rains",
+      "will rain",
+      "rained",
+      "would rain"
+     ],
+     "answer": "rains",
+     "explanation": "First conditional: If + present simple, will + base form."
+    },
+    {
+     "id": "g07-02",
+     "sentence": "If I ___ more money, I would buy a new laptop.",
+     "options": [
+      "had",
+      "have",
+      "would have",
+      "will have"
+     ],
+     "answer": "had",
+     "explanation": "Second conditional: If + past simple, would + base form (imaginary situation)."
+    },
+    {
+     "id": "g07-03",
+     "sentence": "If you study hard, you ___ the exam.",
+     "options": [
+      "will pass",
+      "would pass",
+      "passed",
+      "pass"
+     ],
+     "answer": "will pass",
+     "explanation": "First conditional result: will + base form for a likely future result."
+    },
+    {
+     "id": "g07-04",
+     "sentence": "If I ___ you, I would talk to your teacher.",
+     "options": [
+      "were",
+      "am",
+      "will be",
+      "would be"
+     ],
+     "answer": "were",
+     "explanation": "In the second conditional, \"If I were you\" is the standard form for advice."
+    },
+    {
+     "id": "g07-05",
+     "sentence": "I ___ a scholarship if my grades were better.",
+     "options": [
+      "would get",
+      "will get",
+      "got",
+      "get"
+     ],
+     "answer": "would get",
+     "explanation": "Second conditional result: would + base form."
+    },
+    {
+     "id": "g07-06",
+     "sentence": "___ you finish your dissertation on time, you won't graduate this year.",
+     "options": [
+      "Unless",
+      "If",
+      "When",
+      "Provided"
+     ],
+     "answer": "Unless",
+     "explanation": "\"Unless\" means \"if ... not\"."
+    },
+    {
+     "id": "g07-07",
+     "sentence": "What would you do if you ___ the lottery?",
+     "options": [
+      "won",
+      "win",
+      "will win",
+      "would win"
+     ],
+     "answer": "won",
+     "explanation": "Second conditional for imaginary situations: If + past simple."
+    },
+    {
+     "id": "g07-08",
+     "sentence": "If she ___ the bus, she'll be late for class.",
+     "options": [
+      "misses",
+      "will miss",
+      "missed",
+      "would miss"
+     ],
+     "answer": "misses",
+     "explanation": "First conditional: If + present simple."
+    },
+    {
+     "id": "g07-09",
+     "sentence": "We'll go to the beach ___ the weather is good.",
+     "options": [
+      "if",
+      "unless",
+      "otherwise",
+      "except"
+     ],
+     "answer": "if",
+     "explanation": "\"If\" introduces a real possibility in the first conditional."
+    },
+    {
+     "id": "g07-10",
+     "sentence": "If I lived near the university, I ___ walk to class.",
+     "options": [
+      "could",
+      "can",
+      "will",
+      "am able"
+     ],
+     "answer": "could",
+     "explanation": "\"Could\" can replace \"would\" in the second conditional to express possibility."
+    },
+    {
+     "id": "g07-11",
+     "sentence": "If he ___ harder, he would get better marks.",
+     "options": [
+      "worked",
+      "works",
+      "will work",
+      "would work"
+     ],
+     "answer": "worked",
+     "explanation": "Second conditional: If + past simple for something that is not true now."
+    },
+    {
+     "id": "g07-12",
+     "sentence": "You can borrow my notes ___ you give them back tomorrow.",
+     "options": [
+      "as long as",
+      "unless",
+      "otherwise",
+      "in case"
+     ],
+     "answer": "as long as",
+     "explanation": "\"As long as\" means \"only if\"."
+    },
+    {
+     "id": "g07-13",
+     "sentence": "If I ___ the answer, I'd tell you.",
+     "options": [
+      "knew",
+      "know",
+      "will know",
+      "would know"
+     ],
+     "answer": "knew",
+     "explanation": "Second conditional: the speaker doesn't know the answer now."
+    },
+    {
+     "id": "g07-14",
+     "sentence": "If you ___ your homework, you can go out.",
+     "options": [
+      "finish",
+      "will finish",
+      "finished",
+      "would finish"
+     ],
+     "answer": "finish",
+     "explanation": "\"If + present simple\" with \"can\" for permission in a real situation."
+    },
+    {
+     "id": "g07-15",
+     "sentence": "I'll call you as soon as I ___ home.",
+     "options": [
+      "get",
+      "will get",
+      "got",
+      "would get"
+     ],
+     "answer": "get",
+     "explanation": "After time expressions like \"as soon as\", use the present simple for the future."
+    },
+    {
+     "id": "g07-16",
+     "sentence": "If they ___ the course, they will get a certificate.",
+     "options": [
+      "complete",
+      "will complete",
+      "completed",
+      "would complete"
+     ],
+     "answer": "complete",
+     "explanation": "First conditional: present simple in the if-clause."
+    },
+    {
+     "id": "g07-17",
+     "sentence": "If I ___ to a different university, would I be happier?",
+     "options": [
+      "went",
+      "go",
+      "will go",
+      "had gone"
+     ],
+     "answer": "went",
+     "explanation": "Second conditional question for an imaginary situation."
+    },
+    {
+     "id": "g07-18",
+     "sentence": "If you don't hurry, you ___ the lecture.",
+     "options": [
+      "will miss",
+      "miss",
+      "would miss",
+      "missed"
+     ],
+     "answer": "will miss",
+     "explanation": "First conditional with a negative if-clause."
+    },
+    {
+     "id": "g07-19",
+     "sentence": "She would travel more if she ___ so busy.",
+     "options": [
+      "weren't",
+      "isn't",
+      "won't be",
+      "wouldn't be"
+     ],
+     "answer": "weren't",
+     "explanation": "Second conditional: \"if + past simple (weren't)\" for an unreal present situation."
+    },
+    {
+     "id": "g07-20",
+     "sentence": "If the school ___ more money, it could build a new library.",
+     "options": [
+      "had",
+      "has",
+      "would have",
+      "will have"
+     ],
+     "answer": "had",
+     "explanation": "Second conditional: If + past simple, could/would + base form."
+    },
+    {
+     "id": "g07-21",
+     "sentence": "Take an umbrella ___ it rains.",
+     "options": [
+      "in case",
+      "unless",
+      "if not",
+      "as long as"
+     ],
+     "answer": "in case",
+     "explanation": "\"In case\" means \"as a precaution because something might happen\"."
+    }
+   ]
+  },
+  {
+   "id": "g08",
+   "unit": "Unit 3",
+   "title": "Giving advice",
+   "questions": [
+    {
+     "id": "g08-01",
+     "sentence": "You ___ see a doctor about that cough.",
+     "options": [
+      "should",
+      "must to",
+      "ought",
+      "had"
+     ],
+     "answer": "should",
+     "explanation": "\"Should + base form\" is the most common way to give advice."
+    },
+    {
+     "id": "g08-02",
+     "sentence": "You ___ to revise more before the exam.",
+     "options": [
+      "ought",
+      "should",
+      "had better",
+      "must"
+     ],
+     "answer": "ought",
+     "explanation": "\"Ought to + base form\" means the same as \"should\"."
+    },
+    {
+     "id": "g08-03",
+     "sentence": "You'd better ___ now or you'll miss the train.",
+     "options": [
+      "leave",
+      "to leave",
+      "leaving",
+      "left"
+     ],
+     "answer": "leave",
+     "explanation": "\"Had better + base form (no to)\" gives strong advice or a warning."
+    },
+    {
+     "id": "g08-04",
+     "sentence": "If I ___ you, I'd apply for that scholarship.",
+     "options": [
+      "were",
+      "am",
+      "would be",
+      "will be"
+     ],
+     "answer": "were",
+     "explanation": "\"If I were you, I'd...\" is a common way to give advice."
+    },
+    {
+     "id": "g08-05",
+     "sentence": "You ___ better not be late again.",
+     "options": [
+      "had",
+      "would",
+      "should",
+      "ought"
+     ],
+     "answer": "had",
+     "explanation": "The negative is \"had better not + base form\"."
+    },
+    {
+     "id": "g08-06",
+     "sentence": "Why ___ you ask your teacher for help?",
+     "options": [
+      "don't",
+      "won't",
+      "aren't",
+      "haven't"
+     ],
+     "answer": "don't",
+     "explanation": "\"Why don't you...?\" is a friendly way to make a suggestion."
+    },
+    {
+     "id": "g08-07",
+     "sentence": "I suggest ___ a study group.",
+     "options": [
+      "joining",
+      "to join",
+      "join",
+      "you joining to"
+     ],
+     "answer": "joining",
+     "explanation": "\"Suggest\" is followed by the -ing form (or \"that + clause\")."
+    },
+    {
+     "id": "g08-08",
+     "sentence": "It's a good idea ___ breaks while studying.",
+     "options": [
+      "to take",
+      "taking",
+      "take",
+      "took"
+     ],
+     "answer": "to take",
+     "explanation": "\"It's a good idea + infinitive\" is used to give advice."
+    },
+    {
+     "id": "g08-09",
+     "sentence": "You shouldn't ___ so late; you need your sleep.",
+     "options": [
+      "stay up",
+      "to stay up",
+      "staying up",
+      "stayed up"
+     ],
+     "answer": "stay up",
+     "explanation": "\"Shouldn't + base form\" gives negative advice."
+    },
+    {
+     "id": "g08-10",
+     "sentence": "I recommend ___ notes during the lecture.",
+     "options": [
+      "taking",
+      "to take",
+      "take",
+      "you take to"
+     ],
+     "answer": "taking",
+     "explanation": "\"Recommend\" can be followed by the -ing form."
+    },
+    {
+     "id": "g08-11",
+     "sentence": "My teacher recommended that I ___ more English films.",
+     "options": [
+      "watch",
+      "to watch",
+      "watching",
+      "watched"
+     ],
+     "answer": "watch",
+     "explanation": "\"Recommend that + subject + base form\" is a formal structure."
+    },
+    {
+     "id": "g08-12",
+     "sentence": "What do you think I ___ do?",
+     "options": [
+      "should",
+      "had better",
+      "ought",
+      "must to"
+     ],
+     "answer": "should",
+     "explanation": "Use \"should\" in questions to ask for advice."
+    },
+    {
+     "id": "g08-13",
+     "sentence": "You ought not ___ your phone during exams.",
+     "options": [
+      "to use",
+      "use",
+      "using",
+      "used"
+     ],
+     "answer": "to use",
+     "explanation": "The negative is \"ought not to + base form\"."
+    },
+    {
+     "id": "g08-14",
+     "sentence": "How ___ asking your parents for advice?",
+     "options": [
+      "about",
+      "for",
+      "if",
+      "to"
+     ],
+     "answer": "about",
+     "explanation": "\"How about + -ing?\" makes a suggestion."
+    },
+    {
+     "id": "g08-15",
+     "sentence": "You ___ really try to get more exercise.",
+     "options": [
+      "should",
+      "had",
+      "ought",
+      "better"
+     ],
+     "answer": "should",
+     "explanation": "\"Should\" can be made stronger with \"really\"."
+    },
+    {
+     "id": "g08-16",
+     "sentence": "If I were in your position, I ___ the job offer.",
+     "options": [
+      "would accept",
+      "will accept",
+      "accept",
+      "accepted"
+     ],
+     "answer": "would accept",
+     "explanation": "Second conditional structure used to give advice."
+    },
+    {
+     "id": "g08-17",
+     "sentence": "She advised me ___ the first answer that came into my head.",
+     "options": [
+      "not to write",
+      "to not writing",
+      "don't write",
+      "not writing"
+     ],
+     "answer": "not to write",
+     "explanation": "\"Advise someone not to do something\" is the negative pattern."
+    },
+    {
+     "id": "g08-18",
+     "sentence": "You'd better ___ tell anyone about this.",
+     "options": [
+      "not",
+      "don't",
+      "to not",
+      "no"
+     ],
+     "answer": "not",
+     "explanation": "\"Had better not + base form\"."
+    },
+    {
+     "id": "g08-19",
+     "sentence": "It might be worth ___ to a careers advisor.",
+     "options": [
+      "talking",
+      "to talk",
+      "talk",
+      "talked"
+     ],
+     "answer": "talking",
+     "explanation": "\"It's worth + -ing\" means it would be useful to do it."
+    },
+    {
+     "id": "g08-20",
+     "sentence": "Have you ___ about starting your essay earlier?",
+     "options": [
+      "thought",
+      "think",
+      "thinking",
+      "to think"
+     ],
+     "answer": "thought",
+     "explanation": "\"Have you thought about + -ing?\" is a polite suggestion."
+    },
+    {
+     "id": "g08-21",
+     "sentence": "I think you ___ to apologise to her.",
+     "options": [
+      "ought",
+      "should",
+      "had better",
+      "must"
+     ],
+     "answer": "ought",
+     "explanation": "Only \"ought\" is followed by \"to\" here."
+    }
+   ]
+  },
+  {
+   "id": "g09",
+   "unit": "Unit 4",
+   "title": "Countable and uncountable nouns",
+   "questions": [
+    {
+     "id": "g09-01",
+     "sentence": "Can you give me some ___ about hotels in Buenos Aires?",
+     "options": [
+      "information",
+      "informations",
+      "an information",
+      "information's"
+     ],
+     "answer": "information",
+     "explanation": "\"Information\" is uncountable: it has no plural and no \"a/an\"."
+    },
+    {
+     "id": "g09-02",
+     "sentence": "We don't have ___ time before our flight.",
+     "options": [
+      "much",
+      "many",
+      "a few",
+      "several"
+     ],
+     "answer": "much",
+     "explanation": "Use \"much\" with uncountable nouns like \"time\"."
+    },
+    {
+     "id": "g09-03",
+     "sentence": "How ___ suitcases are you taking?",
+     "options": [
+      "many",
+      "much",
+      "lot",
+      "little"
+     ],
+     "answer": "many",
+     "explanation": "Use \"many\" with plural countable nouns."
+    },
+    {
+     "id": "g09-04",
+     "sentence": "I need ___ advice about travelling in South America.",
+     "options": [
+      "some",
+      "an",
+      "a",
+      "many"
+     ],
+     "answer": "some",
+     "explanation": "\"Advice\" is uncountable, so use \"some\", not \"a/an\"."
+    },
+    {
+     "id": "g09-05",
+     "sentence": "There's ___ luggage in the hall. Whose is it?",
+     "options": [
+      "a lot of",
+      "many",
+      "a few",
+      "several"
+     ],
+     "answer": "a lot of",
+     "explanation": "\"Luggage\" is uncountable, so use \"a lot of\" or \"much\"."
+    },
+    {
+     "id": "g09-06",
+     "sentence": "She bought ___ new furniture for her flat.",
+     "options": [
+      "some",
+      "a",
+      "many",
+      "few"
+     ],
+     "answer": "some",
+     "explanation": "\"Furniture\" is uncountable."
+    },
+    {
+     "id": "g09-07",
+     "sentence": "I've got ___ friends in Seoul, so I won't be lonely.",
+     "options": [
+      "a few",
+      "a little",
+      "much",
+      "little"
+     ],
+     "answer": "a few",
+     "explanation": "\"A few\" is used with plural countable nouns and means \"some\"."
+    },
+    {
+     "id": "g09-08",
+     "sentence": "There's ___ milk left. Can you buy some more?",
+     "options": [
+      "very little",
+      "very few",
+      "many",
+      "a few"
+     ],
+     "answer": "very little",
+     "explanation": "\"Little\" is used with uncountable nouns and means \"not much\"."
+    },
+    {
+     "id": "g09-09",
+     "sentence": "The ___ were very helpful at the tourist office.",
+     "options": [
+      "staff",
+      "staffs",
+      "staff's",
+      "a staff"
+     ],
+     "answer": "staff",
+     "explanation": "\"Staff\" is a group noun and normally takes no -s."
+    },
+    {
+     "id": "g09-10",
+     "sentence": "We had ___ terrible weather on our holiday.",
+     "options": [
+      "such",
+      "such a",
+      "so",
+      "a"
+     ],
+     "answer": "such",
+     "explanation": "\"Weather\" is uncountable, so we say \"such terrible weather\" (no \"a\")."
+    },
+    {
+     "id": "g09-11",
+     "sentence": "Could I have ___ of bread, please?",
+     "options": [
+      "a slice",
+      "a",
+      "one",
+      "an"
+     ],
+     "answer": "a slice",
+     "explanation": "Use a unit expression like \"a slice of\" to count uncountable nouns."
+    },
+    {
+     "id": "g09-12",
+     "sentence": "The ___ in this city is awful at rush hour.",
+     "options": [
+      "traffic",
+      "traffics",
+      "a traffic",
+      "many traffic"
+     ],
+     "answer": "traffic",
+     "explanation": "\"Traffic\" is uncountable."
+    },
+    {
+     "id": "g09-13",
+     "sentence": "How ___ money did you spend in Paris?",
+     "options": [
+      "much",
+      "many",
+      "few",
+      "a lot"
+     ],
+     "answer": "much",
+     "explanation": "\"Money\" is uncountable, so use \"how much\"."
+    },
+    {
+     "id": "g09-14",
+     "sentence": "There were too ___ people at the airport.",
+     "options": [
+      "many",
+      "much",
+      "little",
+      "less"
+     ],
+     "answer": "many",
+     "explanation": "\"People\" is a plural countable noun, so use \"many\"."
+    },
+    {
+     "id": "g09-15",
+     "sentence": "I'm afraid there is ___ evidence to support that claim.",
+     "options": [
+      "little",
+      "few",
+      "many",
+      "a few"
+     ],
+     "answer": "little",
+     "explanation": "\"Evidence\" is uncountable; \"little\" means \"not enough\"."
+    },
+    {
+     "id": "g09-16",
+     "sentence": "We've made good ___ with our plans.",
+     "options": [
+      "progress",
+      "progresses",
+      "a progress",
+      "many progress"
+     ],
+     "answer": "progress",
+     "explanation": "\"Progress\" is uncountable."
+    },
+    {
+     "id": "g09-17",
+     "sentence": "My ___ have arrived but my suitcase hasn't.",
+     "options": [
+      "bags",
+      "luggages",
+      "baggages",
+      "luggage"
+     ],
+     "answer": "bags",
+     "explanation": "\"Bag\" is countable; \"luggage\" and \"baggage\" are uncountable."
+    },
+    {
+     "id": "g09-18",
+     "sentence": "I'd like ___ glass of water, please.",
+     "options": [
+      "a",
+      "some",
+      "any",
+      "much"
+     ],
+     "answer": "a",
+     "explanation": "\"Glass\" is countable here (a container), so use \"a\"."
+    },
+    {
+     "id": "g09-19",
+     "sentence": "There aren't ___ hostels in this village.",
+     "options": [
+      "any",
+      "some",
+      "much",
+      "no"
+     ],
+     "answer": "any",
+     "explanation": "Use \"any\" in negative sentences."
+    },
+    {
+     "id": "g09-20",
+     "sentence": "I have ___ homework tonight.",
+     "options": [
+      "a lot of",
+      "many",
+      "a few",
+      "several"
+     ],
+     "answer": "a lot of",
+     "explanation": "\"Homework\" is uncountable."
+    },
+    {
+     "id": "g09-21",
+     "sentence": "He gave me ___ useful piece of advice.",
+     "options": [
+      "a",
+      "an",
+      "some",
+      "much"
+     ],
+     "answer": "a",
+     "explanation": "\"A piece of advice\" makes the uncountable noun countable."
+    }
+   ]
+  },
+  {
+   "id": "g10",
+   "unit": "Unit 4",
+   "title": "Articles",
+   "questions": [
+    {
+     "id": "g10-01",
+     "sentence": "I'd love to visit ___ Andes one day.",
+     "options": [
+      "the",
+      "a",
+      "an",
+      "-"
+     ],
+     "answer": "the",
+     "explanation": "Use \"the\" with mountain ranges."
+    },
+    {
+     "id": "g10-02",
+     "sentence": "She's ___ engineer.",
+     "options": [
+      "an",
+      "a",
+      "the",
+      "-"
+     ],
+     "answer": "an",
+     "explanation": "Use \"an\" before a vowel sound."
+    },
+    {
+     "id": "g10-03",
+     "sentence": "___ Mount Everest is in Nepal.",
+     "options": [
+      "-",
+      "The",
+      "A",
+      "An"
+     ],
+     "answer": "-",
+     "explanation": "We don't use an article with single mountains."
+    },
+    {
+     "id": "g10-04",
+     "sentence": "We stayed in a hotel near the beach. ___ hotel was lovely.",
+     "options": [
+      "The",
+      "A",
+      "An",
+      "-"
+     ],
+     "answer": "The",
+     "explanation": "Use \"the\" when the listener already knows which one (it was mentioned before)."
+    },
+    {
+     "id": "g10-05",
+     "sentence": "He plays ___ guitar in a band.",
+     "options": [
+      "the",
+      "a",
+      "-",
+      "an"
+     ],
+     "answer": "the",
+     "explanation": "Use \"the\" with musical instruments after \"play\"."
+    },
+    {
+     "id": "g10-06",
+     "sentence": "I go to ___ school by bus.",
+     "options": [
+      "-",
+      "the",
+      "a",
+      "an"
+     ],
+     "answer": "-",
+     "explanation": "We don't use \"the\" with \"school\" when we talk about its main purpose."
+    },
+    {
+     "id": "g10-07",
+     "sentence": "___ Amazon is the largest rainforest in the world.",
+     "options": [
+      "The",
+      "-",
+      "A",
+      "An"
+     ],
+     "answer": "The",
+     "explanation": "Use \"the\" with rivers and the names of rainforests."
+    },
+    {
+     "id": "g10-08",
+     "sentence": "It's ___ honour to meet you.",
+     "options": [
+      "an",
+      "a",
+      "the",
+      "-"
+     ],
+     "answer": "an",
+     "explanation": "\"Honour\" starts with a vowel sound (the h is silent), so use \"an\"."
+    },
+    {
+     "id": "g10-09",
+     "sentence": "She's studying at ___ university in Madrid.",
+     "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+     ],
+     "answer": "a",
+     "explanation": "\"University\" starts with a /j/ sound, so use \"a\"."
+    },
+    {
+     "id": "g10-10",
+     "sentence": "___ life is too short to be unhappy.",
+     "options": [
+      "-",
+      "The",
+      "A",
+      "An"
+     ],
+     "answer": "-",
+     "explanation": "No article with uncountable nouns used in a general sense."
+    },
+    {
+     "id": "g10-11",
+     "sentence": "We had ___ lunch at a lovely café.",
+     "options": [
+      "-",
+      "a",
+      "the",
+      "an"
+     ],
+     "answer": "-",
+     "explanation": "No article before meals in general."
+    },
+    {
+     "id": "g10-12",
+     "sentence": "___ rich should pay more taxes.",
+     "options": [
+      "The",
+      "-",
+      "A",
+      "Some"
+     ],
+     "answer": "The",
+     "explanation": "\"The + adjective\" refers to a group of people (the rich, the poor)."
+    },
+    {
+     "id": "g10-13",
+     "sentence": "I love ___ dogs, but I'm allergic to them.",
+     "options": [
+      "-",
+      "the",
+      "a",
+      "an"
+     ],
+     "answer": "-",
+     "explanation": "No article with plural nouns used in a general sense."
+    },
+    {
+     "id": "g10-14",
+     "sentence": "Have you ever been to ___ United States?",
+     "options": [
+      "the",
+      "-",
+      "a",
+      "an"
+     ],
+     "answer": "the",
+     "explanation": "Use \"the\" with country names that include \"States\", \"Kingdom\" or \"Republic\"."
+    },
+    {
+     "id": "g10-15",
+     "sentence": "She's ___ best student in the class.",
+     "options": [
+      "the",
+      "a",
+      "-",
+      "an"
+     ],
+     "answer": "the",
+     "explanation": "Use \"the\" with superlatives."
+    },
+    {
+     "id": "g10-16",
+     "sentence": "We travelled across ___ Atlantic by boat.",
+     "options": [
+      "the",
+      "-",
+      "a",
+      "an"
+     ],
+     "answer": "the",
+     "explanation": "Use \"the\" with oceans and seas."
+    },
+    {
+     "id": "g10-17",
+     "sentence": "___ Spain is famous for its food.",
+     "options": [
+      "-",
+      "The",
+      "A",
+      "An"
+     ],
+     "answer": "-",
+     "explanation": "Most country names don't take an article."
+    },
+    {
+     "id": "g10-18",
+     "sentence": "I'll see you in ___ hour.",
+     "options": [
+      "an",
+      "a",
+      "the",
+      "-"
+     ],
+     "answer": "an",
+     "explanation": "\"Hour\" begins with a vowel sound (silent h)."
+    },
+    {
+     "id": "g10-19",
+     "sentence": "___ moon looks huge tonight.",
+     "options": [
+      "The",
+      "-",
+      "A",
+      "An"
+     ],
+     "answer": "The",
+     "explanation": "Use \"the\" with things that are unique, like the moon, the sun and the sky."
+    },
+    {
+     "id": "g10-20",
+     "sentence": "He's ___ only person who knows the truth.",
+     "options": [
+      "the",
+      "an",
+      "a",
+      "-"
+     ],
+     "answer": "the",
+     "explanation": "Use \"the\" with \"only\"."
+    },
+    {
+     "id": "g10-21",
+     "sentence": "What ___ amazing view!",
+     "options": [
+      "an",
+      "a",
+      "the",
+      "-"
+     ],
+     "answer": "an",
+     "explanation": "\"What + a/an + adjective + singular noun\" for exclamations."
+    }
+   ]
+  },
+  {
+   "id": "g11",
+   "unit": "Unit 5",
+   "title": "Narrative tenses",
+   "questions": [
+    {
+     "id": "g11-01",
+     "sentence": "When I arrived at the cinema, the film ___.",
+     "options": [
+      "had already started",
+      "already started",
+      "has already started",
+      "was already starting"
+     ],
+     "answer": "had already started",
+     "explanation": "Past perfect: an action that happened before another past action."
+    },
+    {
+     "id": "g11-02",
+     "sentence": "I ___ a book when the lights went out.",
+     "options": [
+      "was reading",
+      "read",
+      "had read",
+      "am reading"
+     ],
+     "answer": "was reading",
+     "explanation": "Past continuous for an action in progress interrupted by another action."
+    },
+    {
+     "id": "g11-03",
+     "sentence": "She ___ for two hours when she finally found the answer.",
+     "options": [
+      "had been searching",
+      "was searching",
+      "has been searching",
+      "searched"
+     ],
+     "answer": "had been searching",
+     "explanation": "Past perfect continuous: an activity in progress up to a point in the past."
+    },
+    {
+     "id": "g11-04",
+     "sentence": "We ___ dinner, then we went for a walk.",
+     "options": [
+      "had",
+      "had had",
+      "were having",
+      "have had"
+     ],
+     "answer": "had",
+     "explanation": "Past simple for completed actions in sequence."
+    },
+    {
+     "id": "g11-05",
+     "sentence": "By the time the police arrived, the thief ___.",
+     "options": [
+      "had escaped",
+      "escaped",
+      "was escaping",
+      "has escaped"
+     ],
+     "answer": "had escaped",
+     "explanation": "\"By the time\" + past simple often goes with the past perfect."
+    },
+    {
+     "id": "g11-06",
+     "sentence": "He was tired because he ___ all day.",
+     "options": [
+      "had been working",
+      "worked",
+      "has worked",
+      "was worked"
+     ],
+     "answer": "had been working",
+     "explanation": "Past perfect continuous explains the cause of a past situation."
+    },
+    {
+     "id": "g11-07",
+     "sentence": "I ___ that author before, so I didn't know what to expect.",
+     "options": [
+      "hadn't read",
+      "didn't read",
+      "haven't read",
+      "wasn't reading"
+     ],
+     "answer": "hadn't read",
+     "explanation": "Past perfect negative for something that hadn't happened before a past moment."
+    },
+    {
+     "id": "g11-08",
+     "sentence": "While she ___ the news, the phone rang.",
+     "options": [
+      "was watching",
+      "watched",
+      "had watched",
+      "watches"
+     ],
+     "answer": "was watching",
+     "explanation": "\"While\" often introduces the longer action in the past continuous."
+    },
+    {
+     "id": "g11-09",
+     "sentence": "It ___ all morning, so the streets were wet.",
+     "options": [
+      "had been raining",
+      "rained",
+      "was raining",
+      "has rained"
+     ],
+     "answer": "had been raining",
+     "explanation": "Past perfect continuous for an earlier activity with a visible result in the past."
+    },
+    {
+     "id": "g11-10",
+     "sentence": "When I ___ the last page, I cried.",
+     "options": [
+      "read",
+      "have read",
+      "had been reading",
+      "reading"
+     ],
+     "answer": "read",
+     "explanation": "Past simple for a single completed action."
+    },
+    {
+     "id": "g11-11",
+     "sentence": "They ___ each other for years before they got married.",
+     "options": [
+      "had known",
+      "knew",
+      "were knowing",
+      "had been knowing"
+     ],
+     "answer": "had known",
+     "explanation": "\"Know\" is a state verb, so use the past perfect simple, not continuous."
+    },
+    {
+     "id": "g11-12",
+     "sentence": "The sun ___ and the birds were singing.",
+     "options": [
+      "was shining",
+      "shone",
+      "had shone",
+      "shines"
+     ],
+     "answer": "was shining",
+     "explanation": "Past continuous to set the scene at the start of a story."
+    },
+    {
+     "id": "g11-13",
+     "sentence": "As soon as she ___ the letter, she called her sister.",
+     "options": [
+      "had read",
+      "was reading",
+      "had been reading",
+      "reads"
+     ],
+     "answer": "had read",
+     "explanation": "Past perfect shows the first action was complete before the second."
+    },
+    {
+     "id": "g11-14",
+     "sentence": "He suddenly realised he ___ his wallet at home.",
+     "options": [
+      "had left",
+      "left",
+      "was leaving",
+      "has left"
+     ],
+     "answer": "had left",
+     "explanation": "Past perfect for an action that happened before the moment of realising."
+    },
+    {
+     "id": "g11-15",
+     "sentence": "How long ___ when the bus finally came?",
+     "options": [
+      "had you been waiting",
+      "did you wait",
+      "have you waited",
+      "were you waiting"
+     ],
+     "answer": "had you been waiting",
+     "explanation": "Past perfect continuous question about duration up to a past moment."
+    },
+    {
+     "id": "g11-16",
+     "sentence": "I didn't recognise him because he ___ a beard.",
+     "options": [
+      "had grown",
+      "grew",
+      "was growing",
+      "has grown"
+     ],
+     "answer": "had grown",
+     "explanation": "Past perfect: the change happened before the moment I saw him."
+    },
+    {
+     "id": "g11-17",
+     "sentence": "We ___ along the beach when we saw a dolphin.",
+     "options": [
+      "were walking",
+      "walked",
+      "had walked",
+      "are walking"
+     ],
+     "answer": "were walking",
+     "explanation": "Past continuous for the background action."
+    },
+    {
+     "id": "g11-18",
+     "sentence": "She ___ the novel in 2015 and it became a bestseller.",
+     "options": [
+      "wrote",
+      "had been writing",
+      "was writing",
+      "has written"
+     ],
+     "answer": "wrote",
+     "explanation": "Past simple for a finished action at a specific past time."
+    },
+    {
+     "id": "g11-19",
+     "sentence": "The plane ___ off when I realised I'd forgotten my passport.",
+     "options": [
+      "was taking",
+      "had been taking",
+      "takes",
+      "has taken"
+     ],
+     "answer": "was taking",
+     "explanation": "Past continuous for an action in progress at a past moment."
+    },
+    {
+     "id": "g11-20",
+     "sentence": "I ___ my homework, so I was allowed to go out.",
+     "options": [
+      "had finished",
+      "finished",
+      "was finishing",
+      "had been finishing"
+     ],
+     "answer": "had finished",
+     "explanation": "Past perfect for a completed action that explains a past result."
+    },
+    {
+     "id": "g11-21",
+     "sentence": "She was out of breath because she ___.",
+     "options": [
+      "had been running",
+      "ran",
+      "has run",
+      "was run"
+     ],
+     "answer": "had been running",
+     "explanation": "Past perfect continuous explains a physical result in the past."
+    }
+   ]
+  },
+  {
+   "id": "g12",
+   "unit": "Unit 6",
+   "title": "Prepositions",
+   "questions": [
+    {
+     "id": "g12-01",
+     "sentence": "I'm really interested ___ wildlife documentaries.",
+     "options": [
+      "in",
+      "on",
+      "for",
+      "about"
+     ],
+     "answer": "in",
+     "explanation": "The adjective \"interested\" is followed by \"in\"."
+    },
+    {
+     "id": "g12-02",
+     "sentence": "She's afraid ___ spiders.",
+     "options": [
+      "of",
+      "from",
+      "about",
+      "with"
+     ],
+     "answer": "of",
+     "explanation": "The adjective \"afraid\" is followed by \"of\"."
+    },
+    {
+     "id": "g12-03",
+     "sentence": "We arrived ___ the airport two hours early.",
+     "options": [
+      "at",
+      "to",
+      "in",
+      "on"
+     ],
+     "answer": "at",
+     "explanation": "\"Arrive at\" is used for buildings and specific places; \"arrive in\" for cities and countries."
+    },
+    {
+     "id": "g12-04",
+     "sentence": "My birthday is ___ 5th May.",
+     "options": [
+      "on",
+      "in",
+      "at",
+      "by"
+     ],
+     "answer": "on",
+     "explanation": "Use \"on\" with dates and days."
+    },
+    {
+     "id": "g12-05",
+     "sentence": "The concert starts ___ 8 o'clock.",
+     "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+     ],
+     "answer": "at",
+     "explanation": "Use \"at\" with clock times."
+    },
+    {
+     "id": "g12-06",
+     "sentence": "I was born ___ 2004.",
+     "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+     ],
+     "answer": "in",
+     "explanation": "Use \"in\" with years, months and seasons."
+    },
+    {
+     "id": "g12-07",
+     "sentence": "It depends ___ the weather.",
+     "options": [
+      "on",
+      "of",
+      "from",
+      "with"
+     ],
+     "answer": "on",
+     "explanation": "\"Depend\" is followed by \"on\"."
+    },
+    {
+     "id": "g12-08",
+     "sentence": "He apologised ___ being late.",
+     "options": [
+      "for",
+      "about",
+      "of",
+      "to"
+     ],
+     "answer": "for",
+     "explanation": "\"Apologise for\" + -ing or noun."
+    },
+    {
+     "id": "g12-09",
+     "sentence": "She's very good ___ photography.",
+     "options": [
+      "at",
+      "in",
+      "on",
+      "with"
+     ],
+     "answer": "at",
+     "explanation": "\"Good at\" is followed by an activity."
+    },
+    {
+     "id": "g12-10",
+     "sentence": "I'm worried ___ climate change.",
+     "options": [
+      "about",
+      "for",
+      "with",
+      "of"
+     ],
+     "answer": "about",
+     "explanation": "\"Worried about\" is the usual pattern."
+    },
+    {
+     "id": "g12-11",
+     "sentence": "We need to protect animals ___ extinction.",
+     "options": [
+      "from",
+      "of",
+      "against to",
+      "for"
+     ],
+     "answer": "from",
+     "explanation": "\"Protect something from something\"."
+    },
+    {
+     "id": "g12-12",
+     "sentence": "The national park is famous ___ its waterfalls.",
+     "options": [
+      "for",
+      "of",
+      "with",
+      "by"
+     ],
+     "answer": "for",
+     "explanation": "\"Famous for\" + noun."
+    },
+    {
+     "id": "g12-13",
+     "sentence": "There's a beautiful lake ___ the middle of the park.",
+     "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+     ],
+     "answer": "in",
+     "explanation": "We say \"in the middle of\"."
+    },
+    {
+     "id": "g12-14",
+     "sentence": "Can you look ___ my cat while I'm away?",
+     "options": [
+      "after",
+      "for",
+      "at",
+      "to"
+     ],
+     "answer": "after",
+     "explanation": "\"Look after\" means take care of someone or something."
+    },
+    {
+     "id": "g12-15",
+     "sentence": "She's married ___ a marine biologist.",
+     "options": [
+      "to",
+      "with",
+      "by",
+      "for"
+     ],
+     "answer": "to",
+     "explanation": "\"Married to\" someone."
+    },
+    {
+     "id": "g12-16",
+     "sentence": "I'll finish the report ___ Friday at the latest.",
+     "options": [
+      "by",
+      "until",
+      "in",
+      "at"
+     ],
+     "answer": "by",
+     "explanation": "\"By\" means \"not later than\"."
+    },
+    {
+     "id": "g12-17",
+     "sentence": "We waited ___ the storm passed.",
+     "options": [
+      "until",
+      "by",
+      "for",
+      "since"
+     ],
+     "answer": "until",
+     "explanation": "\"Until\" means \"up to the time when\"."
+    },
+    {
+     "id": "g12-18",
+     "sentence": "Is this book similar ___ the one you lent me?",
+     "options": [
+      "to",
+      "with",
+      "as",
+      "than"
+     ],
+     "answer": "to",
+     "explanation": "\"Similar to\" is the correct pattern."
+    },
+    {
+     "id": "g12-19",
+     "sentence": "He's responsible ___ feeding the animals.",
+     "options": [
+      "for",
+      "of",
+      "to",
+      "about"
+     ],
+     "answer": "for",
+     "explanation": "\"Responsible for\" + -ing or noun."
+    },
+    {
+     "id": "g12-20",
+     "sentence": "They succeeded ___ reaching the top of the mountain.",
+     "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+     ],
+     "answer": "in",
+     "explanation": "\"Succeed in + -ing\"."
+    },
+    {
+     "id": "g12-21",
+     "sentence": "The hotel is ___ the opposite side of the river.",
+     "options": [
+      "on",
+      "in",
+      "at",
+      "by"
+     ],
+     "answer": "on",
+     "explanation": "We say \"on the other/opposite side of\"."
+    }
+   ]
+  },
+  {
+   "id": "g13",
+   "unit": "Unit 6",
+   "title": "Relative clauses",
+   "questions": [
+    {
+     "id": "g13-01",
+     "sentence": "The woman ___ lives next door is a vet.",
+     "options": [
+      "who",
+      "which",
+      "whose",
+      "where"
+     ],
+     "answer": "who",
+     "explanation": "Use \"who\" (or \"that\") for people."
+    },
+    {
+     "id": "g13-02",
+     "sentence": "This is the park ___ we saw the deer.",
+     "options": [
+      "where",
+      "which",
+      "who",
+      "whose"
+     ],
+     "answer": "where",
+     "explanation": "Use \"where\" for places, meaning \"in which\"."
+    },
+    {
+     "id": "g13-03",
+     "sentence": "The tiger, ___ is an endangered species, lives in Asia.",
+     "options": [
+      "which",
+      "that",
+      "who",
+      "where"
+     ],
+     "answer": "which",
+     "explanation": "In a non-defining clause (with commas) about a thing, use \"which\", never \"that\"."
+    },
+    {
+     "id": "g13-04",
+     "sentence": "That's the photographer ___ pictures won the prize.",
+     "options": [
+      "whose",
+      "who",
+      "which",
+      "who's"
+     ],
+     "answer": "whose",
+     "explanation": "\"Whose\" shows possession."
+    },
+    {
+     "id": "g13-05",
+     "sentence": "I'll never forget the day ___ I saw my first whale.",
+     "options": [
+      "when",
+      "which",
+      "where",
+      "who"
+     ],
+     "answer": "when",
+     "explanation": "Use \"when\" after nouns referring to time."
+    },
+    {
+     "id": "g13-06",
+     "sentence": "The documentary ___ I watched last night was fascinating.",
+     "options": [
+      "that",
+      "who",
+      "where",
+      "whose"
+     ],
+     "answer": "that",
+     "explanation": "\"That/which\" for things; it can also be omitted here because it is the object."
+    },
+    {
+     "id": "g13-07",
+     "sentence": "My brother, ___ lives in Florida, works as a park ranger.",
+     "options": [
+      "who",
+      "that",
+      "which",
+      "whose"
+     ],
+     "answer": "who",
+     "explanation": "Non-defining clause about a person: use \"who\", not \"that\"."
+    },
+    {
+     "id": "g13-08",
+     "sentence": "The island ___ we visited has no cars.",
+     "options": [
+      "which",
+      "where",
+      "who",
+      "whose"
+     ],
+     "answer": "which",
+     "explanation": "\"Which/that\" because \"visited\" needs an object; \"where\" would need \"we stayed on/in\"."
+    },
+    {
+     "id": "g13-09",
+     "sentence": "Is there anyone ___ can help me?",
+     "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+     ],
+     "answer": "who",
+     "explanation": "Use \"who\" for people as the subject."
+    },
+    {
+     "id": "g13-10",
+     "sentence": "The river, ___ water is very clean, is full of fish.",
+     "options": [
+      "whose",
+      "which",
+      "who",
+      "that"
+     ],
+     "answer": "whose",
+     "explanation": "\"Whose\" can also be used for things to show possession."
+    },
+    {
+     "id": "g13-11",
+     "sentence": "The man to ___ I spoke was very helpful.",
+     "options": [
+      "whom",
+      "who",
+      "which",
+      "that"
+     ],
+     "answer": "whom",
+     "explanation": "After a preposition, use \"whom\" for people in formal English."
+    },
+    {
+     "id": "g13-12",
+     "sentence": "The reason ___ I came is to see the volcano.",
+     "options": [
+      "why",
+      "which",
+      "where",
+      "that's"
+     ],
+     "answer": "why",
+     "explanation": "\"The reason why\" introduces an explanation."
+    },
+    {
+     "id": "g13-13",
+     "sentence": "Everything ___ he said was true.",
+     "options": [
+      "that",
+      "what",
+      "who",
+      "whose"
+     ],
+     "answer": "that",
+     "explanation": "After \"everything\", use \"that\" (or nothing), never \"what\"."
+    },
+    {
+     "id": "g13-14",
+     "sentence": "He lost all his photos, ___ was very upsetting.",
+     "options": [
+      "which",
+      "that",
+      "what",
+      "who"
+     ],
+     "answer": "which",
+     "explanation": "\"Which\" can refer back to the whole previous clause."
+    },
+    {
+     "id": "g13-15",
+     "sentence": "The hotel ___ we stayed was next to the beach.",
+     "options": [
+      "where",
+      "which",
+      "that",
+      "who"
+     ],
+     "answer": "where",
+     "explanation": "\"Where\" = \"in which\"; \"which\" would need \"in\" at the end."
+    },
+    {
+     "id": "g13-16",
+     "sentence": "The forest, ___ covers 500 km², is home to many birds.",
+     "options": [
+      "which",
+      "that",
+      "where",
+      "what"
+     ],
+     "answer": "which",
+     "explanation": "Non-defining clause about a thing: \"which\"."
+    },
+    {
+     "id": "g13-17",
+     "sentence": "I met a scientist ___ research focuses on coral reefs.",
+     "options": [
+      "whose",
+      "who",
+      "who's",
+      "which"
+     ],
+     "answer": "whose",
+     "explanation": "\"Whose research\" = \"the research of the scientist\"."
+    },
+    {
+     "id": "g13-18",
+     "sentence": "Do you know the name of the bird ___ is singing?",
+     "options": [
+      "that",
+      "who",
+      "where",
+      "what"
+     ],
+     "answer": "that",
+     "explanation": "\"That/which\" for animals and things."
+    },
+    {
+     "id": "g13-19",
+     "sentence": "The guide, ___ name was Pedro, was very knowledgeable.",
+     "options": [
+      "whose",
+      "who",
+      "which",
+      "that"
+     ],
+     "answer": "whose",
+     "explanation": "\"Whose name\" shows possession."
+    },
+    {
+     "id": "g13-20",
+     "sentence": "The year ___ the floods happened was 2010.",
+     "options": [
+      "when",
+      "which",
+      "where",
+      "who"
+     ],
+     "answer": "when",
+     "explanation": "\"When\" refers to a time."
+    },
+    {
+     "id": "g13-21",
+     "sentence": "This is the area in ___ the rare frogs live.",
+     "options": [
+      "which",
+      "where",
+      "that",
+      "who"
+     ],
+     "answer": "which",
+     "explanation": "After a preposition, use \"which\" for things (\"in that\" is not possible)."
+    }
+   ]
+  },
+  {
+   "id": "g14",
+   "unit": "Unit 7",
+   "title": "Wish clauses",
+   "questions": [
+    {
+     "id": "g14-01",
+     "sentence": "I wish I ___ cook. I always eat takeaways.",
+     "options": [
+      "could",
+      "can",
+      "would",
+      "will"
+     ],
+     "answer": "could",
+     "explanation": "\"Wish + could\" expresses regret about an ability you don't have now."
+    },
+    {
+     "id": "g14-02",
+     "sentence": "I wish I ___ so much cake last night. I feel sick.",
+     "options": [
+      "hadn't eaten",
+      "didn't eat",
+      "wouldn't eat",
+      "haven't eaten"
+     ],
+     "answer": "hadn't eaten",
+     "explanation": "\"Wish + past perfect\" for regrets about the past."
+    },
+    {
+     "id": "g14-03",
+     "sentence": "I wish it ___ so cold today.",
+     "options": [
+      "weren't",
+      "isn't",
+      "won't be",
+      "hadn't been"
+     ],
+     "answer": "weren't",
+     "explanation": "\"Wish + past simple\" for present situations you want to be different."
+    },
+    {
+     "id": "g14-04",
+     "sentence": "I wish you ___ talking during the film! It's so annoying.",
+     "options": [
+      "would stop",
+      "stopped",
+      "had stopped",
+      "stop"
+     ],
+     "answer": "would stop",
+     "explanation": "\"Wish + would\" expresses annoyance about someone's behaviour."
+    },
+    {
+     "id": "g14-05",
+     "sentence": "If only I ___ more time to cook healthy meals.",
+     "options": [
+      "had",
+      "have",
+      "would have",
+      "will have"
+     ],
+     "answer": "had",
+     "explanation": "\"If only\" works like \"wish\" but is stronger: If only + past simple."
+    },
+    {
+     "id": "g14-06",
+     "sentence": "She wishes she ___ to the party last Saturday.",
+     "options": [
+      "had gone",
+      "went",
+      "would go",
+      "has gone"
+     ],
+     "answer": "had gone",
+     "explanation": "Regret about a past event: wish + past perfect."
+    },
+    {
+     "id": "g14-07",
+     "sentence": "I wish I ___ taller.",
+     "options": [
+      "were",
+      "am",
+      "would be",
+      "will be"
+     ],
+     "answer": "were",
+     "explanation": "After \"wish\", \"were\" is preferred for all persons in formal English."
+    },
+    {
+     "id": "g14-08",
+     "sentence": "If only you ___ me earlier! I could have helped.",
+     "options": [
+      "had told",
+      "told",
+      "would tell",
+      "have told"
+     ],
+     "answer": "had told",
+     "explanation": "\"If only + past perfect\" for strong regret about the past."
+    },
+    {
+     "id": "g14-09",
+     "sentence": "I wish my neighbours ___ their music so loud.",
+     "options": [
+      "wouldn't play",
+      "don't play",
+      "won't play",
+      "hadn't played"
+     ],
+     "answer": "wouldn't play",
+     "explanation": "\"Wish + wouldn't\" for annoying habits."
+    },
+    {
+     "id": "g14-10",
+     "sentence": "Do you ever wish you ___ in a different country?",
+     "options": [
+      "lived",
+      "live",
+      "will live",
+      "would live"
+     ],
+     "answer": "lived",
+     "explanation": "\"Wish + past simple\" for imagining a different present."
+    },
+    {
+     "id": "g14-11",
+     "sentence": "I wish I ___ ordered the pasta. This fish is terrible.",
+     "options": [
+      "had",
+      "would",
+      "did",
+      "have"
+     ],
+     "answer": "had",
+     "explanation": "Past regret: wish + had + past participle."
+    },
+    {
+     "id": "g14-12",
+     "sentence": "My dad wishes he ___ speak French.",
+     "options": [
+      "could",
+      "can",
+      "would",
+      "is able"
+     ],
+     "answer": "could",
+     "explanation": "\"Wish + could\" for abilities you lack."
+    },
+    {
+     "id": "g14-13",
+     "sentence": "I wish I ___ have to work tomorrow.",
+     "options": [
+      "didn't",
+      "don't",
+      "wouldn't",
+      "won't"
+     ],
+     "answer": "didn't",
+     "explanation": "\"Wish + past simple\" for a present/future situation you don't like."
+    },
+    {
+     "id": "g14-14",
+     "sentence": "If only the restaurant ___ open! I'm starving.",
+     "options": [
+      "were",
+      "is",
+      "will be",
+      "would"
+     ],
+     "answer": "were",
+     "explanation": "\"If only + were\" for an unreal present."
+    },
+    {
+     "id": "g14-15",
+     "sentence": "I wish you ___ tell me what to eat all the time!",
+     "options": [
+      "wouldn't",
+      "don't",
+      "won't",
+      "didn't to"
+     ],
+     "answer": "wouldn't",
+     "explanation": "\"Wish + wouldn't\" to complain about repeated behaviour."
+    },
+    {
+     "id": "g14-16",
+     "sentence": "He wishes he ___ more attention in cooking class.",
+     "options": [
+      "had paid",
+      "paid",
+      "would pay",
+      "pays"
+     ],
+     "answer": "had paid",
+     "explanation": "Past regret: wish + past perfect."
+    },
+    {
+     "id": "g14-17",
+     "sentence": "I wish I ___ how to make bread.",
+     "options": [
+      "knew",
+      "know",
+      "would know",
+      "had know"
+     ],
+     "answer": "knew",
+     "explanation": "\"Know\" is a state verb, so use \"wish + past simple\", not \"would\"."
+    },
+    {
+     "id": "g14-18",
+     "sentence": "I wish it ___ raining. I want to have a barbecue.",
+     "options": [
+      "would stop",
+      "stopped",
+      "stops",
+      "had stop"
+     ],
+     "answer": "would stop",
+     "explanation": "\"Wish + would\" for wanting something outside your control to change."
+    },
+    {
+     "id": "g14-19",
+     "sentence": "We wish we ___ booked a table. The restaurant is full.",
+     "options": [
+      "had",
+      "have",
+      "would",
+      "did"
+     ],
+     "answer": "had",
+     "explanation": "Regret about a past action: wish + had + past participle."
+    },
+    {
+     "id": "g14-20",
+     "sentence": "I wish I ___ so tired all the time.",
+     "options": [
+      "weren't",
+      "am not",
+      "won't be",
+      "wouldn't"
+     ],
+     "answer": "weren't",
+     "explanation": "\"Wish + past simple (weren't)\" for a present situation."
+    },
+    {
+     "id": "g14-21",
+     "sentence": "Don't you wish you ___ a bigger kitchen?",
+     "options": [
+      "had",
+      "have",
+      "would have",
+      "will have"
+     ],
+     "answer": "had",
+     "explanation": "\"Wish + past simple\" for possessions you don't have now."
+    }
+   ]
+  },
+  {
+   "id": "g15",
+   "unit": "Unit 7",
+   "title": "Third and mixed conditionals",
+   "questions": [
+    {
+     "id": "g15-01",
+     "sentence": "If I ___ the recipe carefully, the cake wouldn't have burnt.",
+     "options": [
+      "had followed",
+      "followed",
+      "would follow",
+      "have followed"
+     ],
+     "answer": "had followed",
+     "explanation": "Third conditional: If + past perfect, would have + past participle."
+    },
+    {
+     "id": "g15-02",
+     "sentence": "If we had left earlier, we ___ the train.",
+     "options": [
+      "would have caught",
+      "would catch",
+      "had caught",
+      "will catch"
+     ],
+     "answer": "would have caught",
+     "explanation": "Third conditional result: would have + past participle."
+    },
+    {
+     "id": "g15-03",
+     "sentence": "If she hadn't eaten the prawns, she ___ ill now.",
+     "options": [
+      "wouldn't be",
+      "wouldn't have been",
+      "won't be",
+      "isn't"
+     ],
+     "answer": "wouldn't be",
+     "explanation": "Mixed conditional: past condition (past perfect) + present result (would + base form)."
+    },
+    {
+     "id": "g15-04",
+     "sentence": "If I were braver, I ___ the chilli challenge last week.",
+     "options": [
+      "would have tried",
+      "would try",
+      "had tried",
+      "will try"
+     ],
+     "answer": "would have tried",
+     "explanation": "Mixed conditional: present condition (past simple) + past result (would have + pp)."
+    },
+    {
+     "id": "g15-05",
+     "sentence": "I ___ you if I had known you were in town.",
+     "options": [
+      "would have called",
+      "would call",
+      "had called",
+      "will call"
+     ],
+     "answer": "would have called",
+     "explanation": "Third conditional for an imaginary past."
+    },
+    {
+     "id": "g15-06",
+     "sentence": "If he ___ so much, he wouldn't have felt sick.",
+     "options": [
+      "hadn't eaten",
+      "didn't eat",
+      "wouldn't eat",
+      "hasn't eaten"
+     ],
+     "answer": "hadn't eaten",
+     "explanation": "Third conditional negative: If + hadn't + past participle."
+    },
+    {
+     "id": "g15-07",
+     "sentence": "If you had told me about your allergy, I ___ nuts in the salad.",
+     "options": [
+      "wouldn't have put",
+      "wouldn't put",
+      "didn't put",
+      "hadn't put"
+     ],
+     "answer": "wouldn't have put",
+     "explanation": "Third conditional for something that did happen and can't be changed."
+    },
+    {
+     "id": "g15-08",
+     "sentence": "If I hadn't gone to that restaurant, I ___ my husband. Now we're married!",
+     "options": [
+      "wouldn't have met",
+      "wouldn't meet",
+      "didn't meet",
+      "won't meet"
+     ],
+     "answer": "wouldn't have met",
+     "explanation": "Third conditional about how one event changed the past."
+    },
+    {
+     "id": "g15-09",
+     "sentence": "If I had studied cooking, I ___ a chef now.",
+     "options": [
+      "would be",
+      "would have been",
+      "will be",
+      "am"
+     ],
+     "answer": "would be",
+     "explanation": "Mixed conditional: past condition, present result."
+    },
+    {
+     "id": "g15-10",
+     "sentence": "We ___ lost if we had used the map.",
+     "options": [
+      "wouldn't have got",
+      "wouldn't get",
+      "didn't get",
+      "hadn't got"
+     ],
+     "answer": "wouldn't have got",
+     "explanation": "Third conditional negative result."
+    },
+    {
+     "id": "g15-11",
+     "sentence": "If she ___ allergic to fish, she would have tried the paella.",
+     "options": [
+      "weren't",
+      "hadn't been",
+      "isn't",
+      "won't be"
+     ],
+     "answer": "weren't",
+     "explanation": "Mixed conditional: a permanent present fact (past simple) + past result."
+    },
+    {
+     "id": "g15-12",
+     "sentence": "Would you have come if I ___ you?",
+     "options": [
+      "had invited",
+      "invited",
+      "would invite",
+      "have invited"
+     ],
+     "answer": "had invited",
+     "explanation": "Third conditional question: If + past perfect."
+    },
+    {
+     "id": "g15-13",
+     "sentence": "If it hadn't rained, we ___ a picnic yesterday.",
+     "options": [
+      "could have had",
+      "could have",
+      "can have",
+      "could had"
+     ],
+     "answer": "could have had",
+     "explanation": "\"Could have + past participle\" can replace \"would have\" in the third conditional."
+    },
+    {
+     "id": "g15-14",
+     "sentence": "If I ___ my phone, I could have taken a photo.",
+     "options": [
+      "had brought",
+      "brought",
+      "would bring",
+      "have brought"
+     ],
+     "answer": "had brought",
+     "explanation": "Third conditional with \"could have\" in the result clause."
+    },
+    {
+     "id": "g15-15",
+     "sentence": "I wouldn't be so hungry now if I ___ breakfast.",
+     "options": [
+      "had had",
+      "had",
+      "would have",
+      "have had"
+     ],
+     "answer": "had had",
+     "explanation": "Mixed conditional: past condition (had had) + present result."
+    },
+    {
+     "id": "g15-16",
+     "sentence": "If they had booked earlier, they ___ a table by the window.",
+     "options": [
+      "might have got",
+      "might get",
+      "may got",
+      "had got"
+     ],
+     "answer": "might have got",
+     "explanation": "\"Might have + past participle\" shows a possible past result."
+    },
+    {
+     "id": "g15-17",
+     "sentence": "If you ___ the milk in the fridge, it wouldn't have gone off.",
+     "options": [
+      "had put",
+      "put",
+      "would put",
+      "have put"
+     ],
+     "answer": "had put",
+     "explanation": "Third conditional: If + past perfect."
+    },
+    {
+     "id": "g15-18",
+     "sentence": "If I weren't so busy, I ___ to your dinner party last night.",
+     "options": [
+      "would have come",
+      "would come",
+      "had come",
+      "will come"
+     ],
+     "answer": "would have come",
+     "explanation": "Mixed conditional: present situation + past result."
+    },
+    {
+     "id": "g15-19",
+     "sentence": "What would you have done if you ___ the restaurant closed?",
+     "options": [
+      "had found",
+      "found",
+      "would find",
+      "have found"
+     ],
+     "answer": "had found",
+     "explanation": "Third conditional question."
+    },
+    {
+     "id": "g15-20",
+     "sentence": "If the chef ___ more careful, nobody would have got food poisoning.",
+     "options": [
+      "had been",
+      "was",
+      "were",
+      "would be"
+     ],
+     "answer": "had been",
+     "explanation": "Third conditional: If + had been."
+    },
+    {
+     "id": "g15-21",
+     "sentence": "If I had saved more money, I ___ able to eat out more often now.",
+     "options": [
+      "would be",
+      "would have been",
+      "will be",
+      "had been"
+     ],
+     "answer": "would be",
+     "explanation": "Mixed conditional: past action affects the present."
+    }
+   ]
+  },
+  {
+   "id": "g16",
+   "unit": "Unit 8",
+   "title": "Direct and indirect objects",
+   "questions": [
+    {
+     "id": "g16-01",
+     "sentence": "Could you lend ___?",
+     "options": [
+      "me your laptop",
+      "your laptop me",
+      "to me your laptop",
+      "me to your laptop"
+     ],
+     "answer": "me your laptop",
+     "explanation": "Verb + indirect object (person) + direct object (thing): lend me your laptop."
+    },
+    {
+     "id": "g16-02",
+     "sentence": "She sent the file ___ her boss.",
+     "options": [
+      "to",
+      "for",
+      "at",
+      "-"
+     ],
+     "answer": "to",
+     "explanation": "When the thing comes first, use \"to\" before the person with verbs like send, give, lend."
+    },
+    {
+     "id": "g16-03",
+     "sentence": "My dad bought a new tablet ___ my sister.",
+     "options": [
+      "for",
+      "to",
+      "at",
+      "-"
+     ],
+     "answer": "for",
+     "explanation": "With \"buy\", \"make\", \"cook\" and \"get\", use \"for\" before the person."
+    },
+    {
+     "id": "g16-04",
+     "sentence": "Can you forward ___?",
+     "options": [
+      "me the email",
+      "the email me",
+      "to me the email",
+      "me to the email"
+     ],
+     "answer": "me the email",
+     "explanation": "Forward + person + thing."
+    },
+    {
+     "id": "g16-05",
+     "sentence": "I'll explain the problem ___ you.",
+     "options": [
+      "to",
+      "-",
+      "for",
+      "at"
+     ],
+     "answer": "to",
+     "explanation": "\"Explain\" always needs \"to\" before the person: explain something to someone."
+    },
+    {
+     "id": "g16-06",
+     "sentence": "He cooked ___ for her birthday.",
+     "options": [
+      "her a special meal",
+      "a special meal her",
+      "to her a special meal",
+      "for her a special meal"
+     ],
+     "answer": "her a special meal",
+     "explanation": "Cook + person + thing, or cook + thing + for + person."
+    },
+    {
+     "id": "g16-07",
+     "sentence": "Please describe the error ___ the IT team.",
+     "options": [
+      "to",
+      "-",
+      "for",
+      "at"
+     ],
+     "answer": "to",
+     "explanation": "\"Describe\" needs \"to\" before the person, never \"describe someone something\"."
+    },
+    {
+     "id": "g16-08",
+     "sentence": "Can you do me ___?",
+     "options": [
+      "a favour",
+      "to a favour",
+      "for a favour",
+      "a favour for"
+     ],
+     "answer": "a favour",
+     "explanation": "The fixed expression is \"do someone a favour\"."
+    },
+    {
+     "id": "g16-09",
+     "sentence": "She showed ___ on her phone.",
+     "options": [
+      "us the photos",
+      "the photos us",
+      "to us the photos",
+      "us to the photos"
+     ],
+     "answer": "us the photos",
+     "explanation": "Show + person + thing."
+    },
+    {
+     "id": "g16-10",
+     "sentence": "I gave it ___ yesterday.",
+     "options": [
+      "to him",
+      "him",
+      "for him",
+      "at him"
+     ],
+     "answer": "to him",
+     "explanation": "When the direct object is a pronoun (it), put it first: gave it to him."
+    },
+    {
+     "id": "g16-11",
+     "sentence": "The company offered ___.",
+     "options": [
+      "her a job",
+      "a job her",
+      "to her a job",
+      "for her a job"
+     ],
+     "answer": "her a job",
+     "explanation": "Offer + person + thing."
+    },
+    {
+     "id": "g16-12",
+     "sentence": "Could you pass ___, please?",
+     "options": [
+      "me the salt",
+      "the salt me",
+      "to me the salt",
+      "me to the salt"
+     ],
+     "answer": "me the salt",
+     "explanation": "Pass + person + thing."
+    },
+    {
+     "id": "g16-13",
+     "sentence": "I've ordered a new phone case ___ you.",
+     "options": [
+      "for",
+      "to",
+      "at",
+      "-"
+     ],
+     "answer": "for",
+     "explanation": "\"Order something for someone\" (it's a benefit for them)."
+    },
+    {
+     "id": "g16-14",
+     "sentence": "Tell ___ a story, Grandad!",
+     "options": [
+      "us",
+      "to us",
+      "for us",
+      "at us"
+     ],
+     "answer": "us",
+     "explanation": "Tell + person + thing (no preposition)."
+    },
+    {
+     "id": "g16-15",
+     "sentence": "The teacher read the instructions ___ the class.",
+     "options": [
+      "to",
+      "for",
+      "-",
+      "at"
+     ],
+     "answer": "to",
+     "explanation": "Read + thing + to + person."
+    },
+    {
+     "id": "g16-16",
+     "sentence": "Can you text ___ the address?",
+     "options": [
+      "me",
+      "to me",
+      "for me",
+      "at me"
+     ],
+     "answer": "me",
+     "explanation": "Text + person + thing."
+    },
+    {
+     "id": "g16-17",
+     "sentence": "She suggested a new app ___ me.",
+     "options": [
+      "to",
+      "-",
+      "for",
+      "at"
+     ],
+     "answer": "to",
+     "explanation": "\"Suggest\" needs \"to\" before the person: suggest something to someone."
+    },
+    {
+     "id": "g16-18",
+     "sentence": "I'll get ___ from the shop.",
+     "options": [
+      "you a charger",
+      "a charger you",
+      "to you a charger",
+      "you to a charger"
+     ],
+     "answer": "you a charger",
+     "explanation": "Get + person + thing."
+    },
+    {
+     "id": "g16-19",
+     "sentence": "He sang ___.",
+     "options": [
+      "her a song",
+      "a song her",
+      "to her a song",
+      "her to a song"
+     ],
+     "answer": "her a song",
+     "explanation": "Sing + person + thing (or sing a song to someone)."
+    },
+    {
+     "id": "g16-20",
+     "sentence": "The bank sent ___.",
+     "options": [
+      "me a new card",
+      "a new card me",
+      "to me a new card",
+      "me to a new card"
+     ],
+     "answer": "me a new card",
+     "explanation": "Send + person + thing."
+    },
+    {
+     "id": "g16-21",
+     "sentence": "Who did you give the password ___?",
+     "options": [
+      "to",
+      "for",
+      "-",
+      "at"
+     ],
+     "answer": "to",
+     "explanation": "In questions, the preposition \"to\" goes at the end."
+    }
+   ]
+  },
+  {
+   "id": "g17",
+   "unit": "Unit 8",
+   "title": "Modals of speculation and deduction",
+   "questions": [
+    {
+     "id": "g17-01",
+     "sentence": "She's been working all day. She ___ be exhausted.",
+     "options": [
+      "must",
+      "can't",
+      "might not",
+      "should"
+     ],
+     "answer": "must",
+     "explanation": "\"Must\" shows you are almost certain something is true."
+    },
+    {
+     "id": "g17-02",
+     "sentence": "He ___ be at home. I just saw him at the gym.",
+     "options": [
+      "can't",
+      "mustn't",
+      "might",
+      "must"
+     ],
+     "answer": "can't",
+     "explanation": "\"Can't\" shows you are almost certain something is not true."
+    },
+    {
+     "id": "g17-03",
+     "sentence": "I'm not sure where Tom is. He ___ be in the library.",
+     "options": [
+      "might",
+      "must",
+      "can't",
+      "has to"
+     ],
+     "answer": "might",
+     "explanation": "\"Might/may/could\" show that something is possible."
+    },
+    {
+     "id": "g17-04",
+     "sentence": "The lights are off. They ___ have gone to bed.",
+     "options": [
+      "must",
+      "can't",
+      "should",
+      "need"
+     ],
+     "answer": "must",
+     "explanation": "\"Must have + past participle\" for a confident deduction about the past."
+    },
+    {
+     "id": "g17-05",
+     "sentence": "She ___ have seen the message. She hasn't replied.",
+     "options": [
+      "can't",
+      "must",
+      "should",
+      "would"
+     ],
+     "answer": "can't",
+     "explanation": "\"Can't have + past participle\" for something you're sure didn't happen."
+    },
+    {
+     "id": "g17-06",
+     "sentence": "I don't know why he's late. He ___ have missed the bus.",
+     "options": [
+      "may",
+      "must",
+      "can't",
+      "should"
+     ],
+     "answer": "may",
+     "explanation": "\"May have + past participle\" for a possible past event."
+    },
+    {
+     "id": "g17-07",
+     "sentence": "That ___ be the right answer. It doesn't make sense.",
+     "options": [
+      "can't",
+      "must",
+      "mustn't",
+      "might"
+     ],
+     "answer": "can't",
+     "explanation": "\"Can't\" for strong negative deduction."
+    },
+    {
+     "id": "g17-08",
+     "sentence": "The phone is ringing. It ___ be Mum. She always calls at this time.",
+     "options": [
+      "must",
+      "can't",
+      "mustn't",
+      "won't"
+     ],
+     "answer": "must",
+     "explanation": "Strong positive deduction: \"must\"."
+    },
+    {
+     "id": "g17-09",
+     "sentence": "You ___ have left your keys in the car. Go and check.",
+     "options": [
+      "might",
+      "can't",
+      "must",
+      "mustn't"
+     ],
+     "answer": "might",
+     "explanation": "\"Might have\" suggests a possibility."
+    },
+    {
+     "id": "g17-10",
+     "sentence": "He ___ be very rich. He drives a Ferrari.",
+     "options": [
+      "must",
+      "can't",
+      "might not",
+      "mustn't"
+     ],
+     "answer": "must",
+     "explanation": "Evidence (a Ferrari) leads to a strong deduction: \"must\"."
+    },
+    {
+     "id": "g17-11",
+     "sentence": "They ___ have got lost. They have satnav.",
+     "options": [
+      "can't",
+      "must",
+      "might",
+      "should"
+     ],
+     "answer": "can't",
+     "explanation": "\"Can't have\" — it's impossible, given the evidence."
+    },
+    {
+     "id": "g17-12",
+     "sentence": "It ___ rain later, so take an umbrella.",
+     "options": [
+      "might",
+      "must",
+      "can't",
+      "has"
+     ],
+     "answer": "might",
+     "explanation": "\"Might\" for a future possibility."
+    },
+    {
+     "id": "g17-13",
+     "sentence": "She speaks perfect Japanese. She ___ have lived in Japan.",
+     "options": [
+      "must",
+      "can't",
+      "mustn't",
+      "should"
+     ],
+     "answer": "must",
+     "explanation": "\"Must have\" — a logical conclusion about the past."
+    },
+    {
+     "id": "g17-14",
+     "sentence": "He ___ not know about the meeting. Nobody told him.",
+     "options": [
+      "may",
+      "can",
+      "must to",
+      "needs"
+     ],
+     "answer": "may",
+     "explanation": "\"May not\" means \"it's possible that he doesn't\"."
+    },
+    {
+     "id": "g17-15",
+     "sentence": "That ___ be true! I don't believe it.",
+     "options": [
+      "can't",
+      "mustn't",
+      "must",
+      "might"
+     ],
+     "answer": "can't",
+     "explanation": "\"Can't\" is the opposite of \"must\" for deductions (not \"mustn't\")."
+    },
+    {
+     "id": "g17-16",
+     "sentence": "The software ___ have a bug. It keeps crashing.",
+     "options": [
+      "must",
+      "can't",
+      "might not",
+      "should not"
+     ],
+     "answer": "must",
+     "explanation": "Strong deduction from evidence."
+    },
+    {
+     "id": "g17-17",
+     "sentence": "I ___ have made a mistake in the calculation. Let me check.",
+     "options": [
+      "could",
+      "mustn't",
+      "needn't",
+      "ought"
+     ],
+     "answer": "could",
+     "explanation": "\"Could have\" shows a possibility in the past."
+    },
+    {
+     "id": "g17-18",
+     "sentence": "You ___ be hungry after that long walk.",
+     "options": [
+      "must",
+      "can't",
+      "mustn't",
+      "couldn't"
+     ],
+     "answer": "must",
+     "explanation": "Strong deduction: \"must\"."
+    },
+    {
+     "id": "g17-19",
+     "sentence": "She ___ have finished the project already. She only started an hour ago.",
+     "options": [
+      "can't",
+      "must",
+      "might",
+      "should"
+     ],
+     "answer": "can't",
+     "explanation": "\"Can't have\" for impossibility."
+    },
+    {
+     "id": "g17-20",
+     "sentence": "There ___ be a problem with the Wi-Fi. Nobody can connect.",
+     "options": [
+      "must",
+      "can't",
+      "mustn't",
+      "won't"
+     ],
+     "answer": "must",
+     "explanation": "Strong deduction from evidence."
+    },
+    {
+     "id": "g17-21",
+     "sentence": "He isn't answering. He ___ be asleep.",
+     "options": [
+      "might",
+      "can't",
+      "mustn't",
+      "should"
+     ],
+     "answer": "might",
+     "explanation": "\"Might\" for a possible explanation."
+    }
+   ]
+  },
+  {
+   "id": "g18",
+   "unit": "Unit 9",
+   "title": "Future forms",
+   "questions": [
+    {
+     "id": "g18-01",
+     "sentence": "Look at those dark clouds! It ___ rain.",
+     "options": [
+      "is going to",
+      "will",
+      "rains",
+      "is raining"
+     ],
+     "answer": "is going to",
+     "explanation": "Use \"going to\" for predictions based on present evidence."
+    },
+    {
+     "id": "g18-02",
+     "sentence": "I think robots ___ do most jobs in the future.",
+     "options": [
+      "will",
+      "are going",
+      "are doing",
+      "do"
+     ],
+     "answer": "will",
+     "explanation": "Use \"will\" for predictions based on opinion (often after \"I think\")."
+    },
+    {
+     "id": "g18-03",
+     "sentence": "I ___ my grandparents this weekend. We've already bought the train tickets.",
+     "options": [
+      "am visiting",
+      "will visit",
+      "visit",
+      "would visit"
+     ],
+     "answer": "am visiting",
+     "explanation": "Present continuous for fixed arrangements in the future."
+    },
+    {
+     "id": "g18-04",
+     "sentence": "The train ___ at 9.15 tomorrow.",
+     "options": [
+      "leaves",
+      "is going to leave",
+      "will be leave",
+      "leave"
+     ],
+     "answer": "leaves",
+     "explanation": "Present simple for timetables and schedules."
+    },
+    {
+     "id": "g18-05",
+     "sentence": "\"I'm cold.\" \"I ___ close the window.\"",
+     "options": [
+      "'ll",
+      "am going to",
+      "am closing",
+      "close"
+     ],
+     "answer": "'ll",
+     "explanation": "Use \"will\" for spontaneous decisions made at the moment of speaking."
+    },
+    {
+     "id": "g18-06",
+     "sentence": "We ___ buy a new car next year. We've been saving for months.",
+     "options": [
+      "are going to",
+      "will",
+      "buy",
+      "would"
+     ],
+     "answer": "are going to",
+     "explanation": "\"Going to\" for plans and intentions decided before now."
+    },
+    {
+     "id": "g18-07",
+     "sentence": "I promise I ___ tell anyone.",
+     "options": [
+      "won't",
+      "don't",
+      "am not telling to",
+      "not"
+     ],
+     "answer": "won't",
+     "explanation": "Use \"will/won't\" for promises."
+    },
+    {
+     "id": "g18-08",
+     "sentence": "The film ___ at 8 p.m., so don't be late.",
+     "options": [
+      "starts",
+      "is starting to",
+      "will starting",
+      "start"
+     ],
+     "answer": "starts",
+     "explanation": "Present simple for scheduled events."
+    },
+    {
+     "id": "g18-09",
+     "sentence": "What ___ this evening? Do you want to go out?",
+     "options": [
+      "are you doing",
+      "do you do",
+      "will you do to",
+      "you are doing"
+     ],
+     "answer": "are you doing",
+     "explanation": "Present continuous to ask about someone's plans."
+    },
+    {
+     "id": "g18-10",
+     "sentence": "Careful! You ___ fall!",
+     "options": [
+      "'re going to",
+      "will",
+      "fall",
+      "'re falling to"
+     ],
+     "answer": "'re going to",
+     "explanation": "\"Going to\" for something about to happen based on what we can see."
+    },
+    {
+     "id": "g18-11",
+     "sentence": "I'll call you when I ___ at the airport.",
+     "options": [
+      "arrive",
+      "will arrive",
+      "am going to arrive",
+      "arrived"
+     ],
+     "answer": "arrive",
+     "explanation": "After \"when\" referring to the future, use the present simple."
+    },
+    {
+     "id": "g18-12",
+     "sentence": "___ you help me carry these bags?",
+     "options": [
+      "Will",
+      "Are you going to",
+      "Do",
+      "Are"
+     ],
+     "answer": "Will",
+     "explanation": "\"Will you...?\" can be used for requests."
+    },
+    {
+     "id": "g18-13",
+     "sentence": "The conference ___ place in Los Angeles next spring.",
+     "options": [
+      "will take",
+      "takes to",
+      "is taking to",
+      "will taking"
+     ],
+     "answer": "will take",
+     "explanation": "\"Will\" for future facts and formal announcements."
+    },
+    {
+     "id": "g18-14",
+     "sentence": "She's ___ to start university in September.",
+     "options": [
+      "going",
+      "will",
+      "due for",
+      "intend"
+     ],
+     "answer": "going",
+     "explanation": "\"Going to\" for intentions."
+    },
+    {
+     "id": "g18-15",
+     "sentence": "I ___ probably be late tonight.",
+     "options": [
+      "'ll",
+      "am going",
+      "am",
+      "do"
+     ],
+     "answer": "'ll",
+     "explanation": "\"Will probably\" — note \"probably\" comes after \"will\"."
+    },
+    {
+     "id": "g18-16",
+     "sentence": "My sister's baby is ___ in March.",
+     "options": [
+      "due",
+      "about",
+      "going",
+      "will"
+     ],
+     "answer": "due",
+     "explanation": "\"Be due\" is used for events expected at a particular time, such as a birth."
+    },
+    {
+     "id": "g18-17",
+     "sentence": "Hurry up! The bus is ___ to leave.",
+     "options": [
+      "about",
+      "near",
+      "soon",
+      "close"
+     ],
+     "answer": "about",
+     "explanation": "\"Be about to\" means something will happen very soon."
+    },
+    {
+     "id": "g18-18",
+     "sentence": "I don't think it ___ snow tomorrow.",
+     "options": [
+      "will",
+      "is going to be",
+      "snows",
+      "is snowing"
+     ],
+     "answer": "will",
+     "explanation": "After \"I don't think\", use \"will\" for opinion-based predictions."
+    },
+    {
+     "id": "g18-19",
+     "sentence": "\"The phone's ringing.\" \"OK, I ___ get it.\"",
+     "options": [
+      "'ll",
+      "am going to",
+      "get",
+      "am getting"
+     ],
+     "answer": "'ll",
+     "explanation": "Spontaneous decision: \"will\"."
+    },
+    {
+     "id": "g18-20",
+     "sentence": "Our flight ___ at 6.30 a.m. on Monday.",
+     "options": [
+      "departs",
+      "is going to departing",
+      "will departing",
+      "depart"
+     ],
+     "answer": "departs",
+     "explanation": "Timetabled event: present simple."
+    },
+    {
+     "id": "g18-21",
+     "sentence": "Next year, I ___ 18.",
+     "options": [
+      "'ll be",
+      "am being",
+      "am going to being",
+      "be"
+     ],
+     "answer": "'ll be",
+     "explanation": "\"Will\" for future facts we can't control (age, dates)."
+    }
+   ]
+  },
+  {
+   "id": "g19",
+   "unit": "Unit 9",
+   "title": "Future perfect and future continuous",
+   "questions": [
+    {
+     "id": "g19-01",
+     "sentence": "This time tomorrow, I ___ on a beach in Mexico.",
+     "options": [
+      "will be lying",
+      "will lie",
+      "will have lain",
+      "am lying"
+     ],
+     "answer": "will be lying",
+     "explanation": "Future continuous: an action in progress at a specific future time."
+    },
+    {
+     "id": "g19-02",
+     "sentence": "By 2030, scientists ___ a cure for the disease.",
+     "options": [
+      "will have found",
+      "will be finding",
+      "will find",
+      "found"
+     ],
+     "answer": "will have found",
+     "explanation": "Future perfect: an action completed before a future time."
+    },
+    {
+     "id": "g19-03",
+     "sentence": "Don't call me at 7. I ___ dinner then.",
+     "options": [
+      "'ll be having",
+      "'ll have had",
+      "have",
+      "'m having had"
+     ],
+     "answer": "'ll be having",
+     "explanation": "Future continuous for an action in progress at a future moment."
+    },
+    {
+     "id": "g19-04",
+     "sentence": "By the time you arrive, we ___ the tent.",
+     "options": [
+      "will have put up",
+      "will be putting up",
+      "put up",
+      "are putting up"
+     ],
+     "answer": "will have put up",
+     "explanation": "\"By the time\" + future perfect for something completed before another event."
+    },
+    {
+     "id": "g19-05",
+     "sentence": "In ten years' time, I ___ my own business.",
+     "options": [
+      "will be running",
+      "will have ran",
+      "am running",
+      "will run to"
+     ],
+     "answer": "will be running",
+     "explanation": "Future continuous for a situation in progress in the future."
+    },
+    {
+     "id": "g19-06",
+     "sentence": "By next June, I ___ here for five years.",
+     "options": [
+      "will have worked",
+      "will be work",
+      "will work",
+      "am working"
+     ],
+     "answer": "will have worked",
+     "explanation": "Future perfect to talk about duration up to a future point."
+    },
+    {
+     "id": "g19-07",
+     "sentence": "___ you be using the car tomorrow? I need to borrow it.",
+     "options": [
+      "Will",
+      "Are",
+      "Do",
+      "Have"
+     ],
+     "answer": "Will",
+     "explanation": "\"Will you be + -ing?\" asks politely about someone's plans."
+    },
+    {
+     "id": "g19-08",
+     "sentence": "The storm ___ by morning.",
+     "options": [
+      "will have passed",
+      "will be passing",
+      "passes",
+      "will pass by"
+     ],
+     "answer": "will have passed",
+     "explanation": "Future perfect: the storm will be finished before morning."
+    },
+    {
+     "id": "g19-09",
+     "sentence": "At midnight, they ___ for 24 hours without stopping.",
+     "options": [
+      "will have been driving",
+      "will drive",
+      "will be drive",
+      "are driving"
+     ],
+     "answer": "will have been driving",
+     "explanation": "Future perfect continuous emphasises duration up to a future point."
+    },
+    {
+     "id": "g19-10",
+     "sentence": "We won't have finished the project ___ Friday.",
+     "options": [
+      "by",
+      "until",
+      "since",
+      "for"
+     ],
+     "answer": "by",
+     "explanation": "Use \"by\" with the future perfect (= not later than)."
+    },
+    {
+     "id": "g19-11",
+     "sentence": "This time next week, we ___ through the Rocky Mountains.",
+     "options": [
+      "will be hiking",
+      "will have hiked",
+      "hike",
+      "hiked"
+     ],
+     "answer": "will be hiking",
+     "explanation": "Future continuous: in progress at a future time."
+    },
+    {
+     "id": "g19-12",
+     "sentence": "I ___ the book by the weekend, so you can borrow it then.",
+     "options": [
+      "will have finished",
+      "will be finishing",
+      "finish",
+      "am finished"
+     ],
+     "answer": "will have finished",
+     "explanation": "Future perfect for completion before a future time."
+    },
+    {
+     "id": "g19-13",
+     "sentence": "Don't worry, I ___ at the station when your train arrives.",
+     "options": [
+      "will be waiting",
+      "will have waited",
+      "wait",
+      "am wait"
+     ],
+     "answer": "will be waiting",
+     "explanation": "Future continuous for an action in progress when something else happens."
+    },
+    {
+     "id": "g19-14",
+     "sentence": "By the end of the year, she ___ over 100,000 kilometres.",
+     "options": [
+      "will have travelled",
+      "will be travelling",
+      "travels",
+      "travelled"
+     ],
+     "answer": "will have travelled",
+     "explanation": "Future perfect to talk about a total by a future time."
+    },
+    {
+     "id": "g19-15",
+     "sentence": "Will you ___ the report by tomorrow?",
+     "options": [
+      "have finished",
+      "be finish",
+      "finished",
+      "finishing"
+     ],
+     "answer": "have finished",
+     "explanation": "Future perfect question: Will + subject + have + past participle."
+    },
+    {
+     "id": "g19-16",
+     "sentence": "At 10 a.m. tomorrow, I ___ my driving test.",
+     "options": [
+      "will be taking",
+      "will have taken",
+      "take",
+      "am take"
+     ],
+     "answer": "will be taking",
+     "explanation": "Future continuous: in progress at that time."
+    },
+    {
+     "id": "g19-17",
+     "sentence": "By the time we get there, the concert ___.",
+     "options": [
+      "will have started",
+      "will be started",
+      "starts",
+      "will start"
+     ],
+     "answer": "will have started",
+     "explanation": "Future perfect: it will already be in progress before we arrive."
+    },
+    {
+     "id": "g19-18",
+     "sentence": "In 2050, people ___ in cities on Mars.",
+     "options": [
+      "will be living",
+      "will have lived",
+      "live",
+      "are living"
+     ],
+     "answer": "will be living",
+     "explanation": "Future continuous for a situation in progress in the future."
+    },
+    {
+     "id": "g19-19",
+     "sentence": "They ___ married for 50 years next month.",
+     "options": [
+      "will have been",
+      "will be being",
+      "are",
+      "will have"
+     ],
+     "answer": "will have been",
+     "explanation": "Future perfect with \"be\" to talk about duration."
+    },
+    {
+     "id": "g19-20",
+     "sentence": "I ___ the whole series by Sunday.",
+     "options": [
+      "will have watched",
+      "will be watching",
+      "watch",
+      "watched"
+     ],
+     "answer": "will have watched",
+     "explanation": "Future perfect for completion."
+    },
+    {
+     "id": "g19-21",
+     "sentence": "When you wake up, we ___ over the Atlantic.",
+     "options": [
+      "will be flying",
+      "will have flown",
+      "fly",
+      "flew"
+     ],
+     "answer": "will be flying",
+     "explanation": "Future continuous: action in progress when you wake up."
+    }
+   ]
+  },
+  {
+   "id": "g20",
+   "unit": "Unit 10",
+   "title": "Causatives",
+   "questions": [
+    {
+     "id": "g20-01",
+     "sentence": "I ___ my hair cut yesterday.",
+     "options": [
+      "had",
+      "made",
+      "did",
+      "let"
+     ],
+     "answer": "had",
+     "explanation": "\"Have something done\": someone else did it for you (a hairdresser)."
+    },
+    {
+     "id": "g20-02",
+     "sentence": "We're going to ___ our house painted next month.",
+     "options": [
+      "have",
+      "make",
+      "do",
+      "let"
+     ],
+     "answer": "have",
+     "explanation": "\"Have + object + past participle\" for services."
+    },
+    {
+     "id": "g20-03",
+     "sentence": "She got her bike ___ after the race.",
+     "options": [
+      "repaired",
+      "repair",
+      "repairing",
+      "to repair"
+     ],
+     "answer": "repaired",
+     "explanation": "\"Get + object + past participle\" is a more informal version of \"have something done\"."
+    },
+    {
+     "id": "g20-04",
+     "sentence": "I need to get my eyes ___.",
+     "options": [
+      "tested",
+      "test",
+      "testing",
+      "to test"
+     ],
+     "answer": "tested",
+     "explanation": "Causative: get + object + past participle."
+    },
+    {
+     "id": "g20-05",
+     "sentence": "He had his wallet ___ on the train.",
+     "options": [
+      "stolen",
+      "steal",
+      "stole",
+      "stealing"
+     ],
+     "answer": "stolen",
+     "explanation": "\"Have something done\" can also describe something bad that happened to you."
+    },
+    {
+     "id": "g20-06",
+     "sentence": "Where do you usually ___ your car serviced?",
+     "options": [
+      "have",
+      "make",
+      "do",
+      "take"
+     ],
+     "answer": "have",
+     "explanation": "Causative question: Where do you have + object + past participle?"
+    },
+    {
+     "id": "g20-07",
+     "sentence": "The coach ___ us run ten laps as a punishment.",
+     "options": [
+      "made",
+      "forced",
+      "got",
+      "obliged"
+     ],
+     "answer": "made",
+     "explanation": "\"Make someone do something\" = force them (no \"to\")."
+    },
+    {
+     "id": "g20-08",
+     "sentence": "My parents finally ___ me go to the festival alone. I was so happy!",
+     "options": [
+      "let",
+      "allowed",
+      "permitted",
+      "got"
+     ],
+     "answer": "let",
+     "explanation": "\"Let someone do something\" = allow them (no \"to\")."
+    },
+    {
+     "id": "g20-09",
+     "sentence": "I got my brother ___ me with my homework.",
+     "options": [
+      "to help",
+      "help",
+      "helped",
+      "helping"
+     ],
+     "answer": "to help",
+     "explanation": "\"Get someone to do something\" = persuade them (with \"to\")."
+    },
+    {
+     "id": "g20-10",
+     "sentence": "I'll have the technician ___ your computer.",
+     "options": [
+      "check",
+      "to check",
+      "checked",
+      "checking"
+     ],
+     "answer": "check",
+     "explanation": "\"Have someone do something\" (no \"to\") = ask someone to do a job."
+    },
+    {
+     "id": "g20-11",
+     "sentence": "We're having a new kitchen ___.",
+     "options": [
+      "fitted",
+      "fit",
+      "fitting",
+      "to fit"
+     ],
+     "answer": "fitted",
+     "explanation": "Present continuous causative: having + object + past participle."
+    },
+    {
+     "id": "g20-12",
+     "sentence": "Have you had your passport ___ yet?",
+     "options": [
+      "renewed",
+      "renew",
+      "renewing",
+      "to renew"
+     ],
+     "answer": "renewed",
+     "explanation": "Present perfect causative question."
+    },
+    {
+     "id": "g20-13",
+     "sentence": "She's going to have her photo ___ by a professional.",
+     "options": [
+      "taken",
+      "take",
+      "took",
+      "taking"
+     ],
+     "answer": "taken",
+     "explanation": "Causative with \"by\" to say who does the job."
+    },
+    {
+     "id": "g20-14",
+     "sentence": "I must ___ my watch fixed. It keeps stopping.",
+     "options": [
+      "get",
+      "make",
+      "let",
+      "do"
+     ],
+     "answer": "get",
+     "explanation": "\"Must get something done\" for things you need to arrange."
+    },
+    {
+     "id": "g20-15",
+     "sentence": "The teacher made us ___ the essay again.",
+     "options": [
+      "write",
+      "to write",
+      "writing",
+      "written"
+     ],
+     "answer": "write",
+     "explanation": "\"Make someone do\" — base form without \"to\"."
+    },
+    {
+     "id": "g20-16",
+     "sentence": "I'm not allowed to ___ my ears pierced.",
+     "options": [
+      "have",
+      "make",
+      "let",
+      "do"
+     ],
+     "answer": "have",
+     "explanation": "Causative: have + object + past participle."
+    },
+    {
+     "id": "g20-17",
+     "sentence": "Did you have the parcel ___ to your office?",
+     "options": [
+      "delivered",
+      "deliver",
+      "delivering",
+      "to deliver"
+     ],
+     "answer": "delivered",
+     "explanation": "Causative with past participle."
+    },
+    {
+     "id": "g20-18",
+     "sentence": "He couldn't get the engine ___.",
+     "options": [
+      "to start",
+      "start",
+      "started",
+      "starting"
+     ],
+     "answer": "to start",
+     "explanation": "\"Get something to do something\" = make it work."
+    },
+    {
+     "id": "g20-19",
+     "sentence": "My grandmother has her shopping ___ every week.",
+     "options": [
+      "delivered",
+      "deliver",
+      "delivering",
+      "to deliver"
+     ],
+     "answer": "delivered",
+     "explanation": "Present simple causative for a regular service."
+    },
+    {
+     "id": "g20-20",
+     "sentence": "They had the roof ___ after the storm.",
+     "options": [
+      "repaired",
+      "repair",
+      "repairing",
+      "to repair"
+     ],
+     "answer": "repaired",
+     "explanation": "Past causative: had + object + past participle."
+    },
+    {
+     "id": "g20-21",
+     "sentence": "You should get that cut ___ by a doctor.",
+     "options": [
+      "looked at",
+      "look at",
+      "looking at",
+      "to look at"
+     ],
+     "answer": "looked at",
+     "explanation": "Causative with a phrasal verb: get + object + looked at."
+    }
+   ]
+  },
+  {
+   "id": "g21",
+   "unit": "Unit 10",
+   "title": "-ed and -ing adjectives",
+   "questions": [
+    {
+     "id": "g21-01",
+     "sentence": "The match was really ___. Nobody scored.",
+     "options": [
+      "boring",
+      "bored",
+      "bore",
+      "boredom"
+     ],
+     "answer": "boring",
+     "explanation": "\"-ing\" adjectives describe the thing that causes the feeling."
+    },
+    {
+     "id": "g21-02",
+     "sentence": "I was ___ during the long speech.",
+     "options": [
+      "bored",
+      "boring",
+      "bore",
+      "boredly"
+     ],
+     "answer": "bored",
+     "explanation": "\"-ed\" adjectives describe how a person feels."
+    },
+    {
+     "id": "g21-03",
+     "sentence": "It's ___ that so many people are taking up running.",
+     "options": [
+      "surprising",
+      "surprised",
+      "surprise",
+      "surprisingly"
+     ],
+     "answer": "surprising",
+     "explanation": "\"-ing\" describes the situation that causes surprise."
+    },
+    {
+     "id": "g21-04",
+     "sentence": "The fans were ___ when their team lost.",
+     "options": [
+      "disappointed",
+      "disappointing",
+      "disappoint",
+      "disappointment"
+     ],
+     "answer": "disappointed",
+     "explanation": "\"-ed\" describes the fans' feelings."
+    },
+    {
+     "id": "g21-05",
+     "sentence": "Climbing that mountain was absolutely ___.",
+     "options": [
+      "exhausting",
+      "exhausted",
+      "exhaust",
+      "exhaustion"
+     ],
+     "answer": "exhausting",
+     "explanation": "The activity causes the tiredness: \"-ing\"."
+    },
+    {
+     "id": "g21-06",
+     "sentence": "After the marathon, I felt completely ___.",
+     "options": [
+      "exhausted",
+      "exhausting",
+      "exhaust",
+      "exhaustive"
+     ],
+     "answer": "exhausted",
+     "explanation": "The person's feeling: \"-ed\"."
+    },
+    {
+     "id": "g21-07",
+     "sentence": "Are you ___ in joining the team?",
+     "options": [
+      "interested",
+      "interesting",
+      "interest",
+      "interestingly"
+     ],
+     "answer": "interested",
+     "explanation": "\"Interested in\" describes a person's feeling."
+    },
+    {
+     "id": "g21-08",
+     "sentence": "The documentary about sailing was really ___.",
+     "options": [
+      "interesting",
+      "interested",
+      "interest",
+      "interests"
+     ],
+     "answer": "interesting",
+     "explanation": "The documentary causes interest: \"-ing\"."
+    },
+    {
+     "id": "g21-09",
+     "sentence": "I'm so ___! We're going rafting tomorrow!",
+     "options": [
+      "excited",
+      "exciting",
+      "excite",
+      "excitement"
+     ],
+     "answer": "excited",
+     "explanation": "The speaker's feeling: \"-ed\"."
+    },
+    {
+     "id": "g21-10",
+     "sentence": "Skydiving must be really ___.",
+     "options": [
+      "frightening",
+      "frightened",
+      "fright",
+      "frighten"
+     ],
+     "answer": "frightening",
+     "explanation": "The activity causes fear: \"-ing\"."
+    },
+    {
+     "id": "g21-11",
+     "sentence": "The little boy was ___ of the big waves.",
+     "options": [
+      "frightened",
+      "frightening",
+      "fright",
+      "frighten"
+     ],
+     "answer": "frightened",
+     "explanation": "The boy's feeling: \"-ed\"."
+    },
+    {
+     "id": "g21-12",
+     "sentence": "The instructions were very ___. I didn't understand anything.",
+     "options": [
+      "confusing",
+      "confused",
+      "confuse",
+      "confusion"
+     ],
+     "answer": "confusing",
+     "explanation": "The instructions cause confusion: \"-ing\"."
+    },
+    {
+     "id": "g21-13",
+     "sentence": "She looked ___ when she couldn't find the start line.",
+     "options": [
+      "confused",
+      "confusing",
+      "confuse",
+      "confusedly"
+     ],
+     "answer": "confused",
+     "explanation": "Her feeling: \"-ed\"."
+    },
+    {
+     "id": "g21-14",
+     "sentence": "The view from the summit was ___.",
+     "options": [
+      "amazing",
+      "amazed",
+      "amaze",
+      "amazement"
+     ],
+     "answer": "amazing",
+     "explanation": "The view causes the feeling: \"-ing\"."
+    },
+    {
+     "id": "g21-15",
+     "sentence": "We were ___ by the size of the stadium.",
+     "options": [
+      "amazed",
+      "amazing",
+      "amaze",
+      "amazement"
+     ],
+     "answer": "amazed",
+     "explanation": "Our feeling: \"-ed\"."
+    },
+    {
+     "id": "g21-16",
+     "sentence": "It was ___ to lose in the final minute.",
+     "options": [
+      "annoying",
+      "annoyed",
+      "annoy",
+      "annoyance"
+     ],
+     "answer": "annoying",
+     "explanation": "The situation causes annoyance: \"-ing\"."
+    },
+    {
+     "id": "g21-17",
+     "sentence": "The coach was ___ with the team's performance.",
+     "options": [
+      "satisfied",
+      "satisfying",
+      "satisfy",
+      "satisfaction"
+     ],
+     "answer": "satisfied",
+     "explanation": "The coach's feeling: \"-ed\"."
+    },
+    {
+     "id": "g21-18",
+     "sentence": "Finishing my first triathlon was very ___.",
+     "options": [
+      "satisfying",
+      "satisfied",
+      "satisfy",
+      "satisfaction"
+     ],
+     "answer": "satisfying",
+     "explanation": "The experience causes the feeling: \"-ing\"."
+    },
+    {
+     "id": "g21-19",
+     "sentence": "He was ___ when he fell over in front of everyone.",
+     "options": [
+      "embarrassed",
+      "embarrassing",
+      "embarrass",
+      "embarrassment"
+     ],
+     "answer": "embarrassed",
+     "explanation": "His feeling: \"-ed\"."
+    },
+    {
+     "id": "g21-20",
+     "sentence": "Falling over in front of everyone was so ___.",
+     "options": [
+      "embarrassing",
+      "embarrassed",
+      "embarrass",
+      "embarrassment"
+     ],
+     "answer": "embarrassing",
+     "explanation": "The situation causes embarrassment: \"-ing\"."
+    },
+    {
+     "id": "g21-21",
+     "sentence": "I find yoga very ___ after a long day.",
+     "options": [
+      "relaxing",
+      "relaxed",
+      "relax",
+      "relaxation"
+     ],
+     "answer": "relaxing",
+     "explanation": "Yoga causes the feeling: \"-ing\"."
+    }
+   ]
+  },
+  {
+   "id": "g22",
+   "unit": "Unit 11",
+   "title": "Reported speech",
+   "questions": [
+    {
+     "id": "g22-01",
+     "sentence": "\"I'm tired,\" she said. → She said that she ___ tired.",
+     "options": [
+      "was",
+      "is",
+      "has been",
+      "will be"
+     ],
+     "answer": "was",
+     "explanation": "In reported speech, the present simple usually moves back to the past simple."
+    },
+    {
+     "id": "g22-02",
+     "sentence": "\"I'll call you,\" he said. → He said he ___ call me.",
+     "options": [
+      "would",
+      "will",
+      "can",
+      "shall"
+     ],
+     "answer": "would",
+     "explanation": "\"Will\" changes to \"would\" in reported speech."
+    },
+    {
+     "id": "g22-03",
+     "sentence": "\"We're watching the news,\" they said. → They said they ___ the news.",
+     "options": [
+      "were watching",
+      "are watching",
+      "watched",
+      "have watched"
+     ],
+     "answer": "were watching",
+     "explanation": "Present continuous changes to past continuous."
+    },
+    {
+     "id": "g22-04",
+     "sentence": "\"I've finished the article,\" she said. → She said she ___ the article.",
+     "options": [
+      "had finished",
+      "has finished",
+      "finished",
+      "was finishing"
+     ],
+     "answer": "had finished",
+     "explanation": "Present perfect changes to past perfect."
+    },
+    {
+     "id": "g22-05",
+     "sentence": "\"I saw the film yesterday,\" he said. → He said he had seen the film ___.",
+     "options": [
+      "the day before",
+      "yesterday",
+      "tomorrow",
+      "the next day"
+     ],
+     "answer": "the day before",
+     "explanation": "\"Yesterday\" changes to \"the day before\" or \"the previous day\"."
+    },
+    {
+     "id": "g22-06",
+     "sentence": "\"Where do you live?\" she asked. → She asked me where ___.",
+     "options": [
+      "I lived",
+      "did I live",
+      "do I live",
+      "I live"
+     ],
+     "answer": "I lived",
+     "explanation": "Reported questions use statement word order (subject + verb), without \"do/did\"."
+    },
+    {
+     "id": "g22-07",
+     "sentence": "\"Are you a journalist?\" he asked. → He asked me ___ a journalist.",
+     "options": [
+      "if I was",
+      "was I",
+      "that I was",
+      "if was I"
+     ],
+     "answer": "if I was",
+     "explanation": "Yes/no questions are reported with \"if\" or \"whether\"."
+    },
+    {
+     "id": "g22-08",
+     "sentence": "\"I can't come,\" Ana said. → Ana said she ___ come.",
+     "options": [
+      "couldn't",
+      "can't",
+      "won't",
+      "mustn't"
+     ],
+     "answer": "couldn't",
+     "explanation": "\"Can\" changes to \"could\"."
+    },
+    {
+     "id": "g22-09",
+     "sentence": "\"I'll see you tomorrow,\" he said. → He said he'd see me ___.",
+     "options": [
+      "the next day",
+      "tomorrow",
+      "the day before",
+      "yesterday"
+     ],
+     "answer": "the next day",
+     "explanation": "\"Tomorrow\" changes to \"the next day\" or \"the following day\"."
+    },
+    {
+     "id": "g22-10",
+     "sentence": "\"Don't touch the screen,\" the teacher told us. → The teacher told us ___ the screen.",
+     "options": [
+      "not to touch",
+      "to not touching",
+      "don't touch",
+      "not touch"
+     ],
+     "answer": "not to touch",
+     "explanation": "Reported orders: tell someone (not) to do something."
+    },
+    {
+     "id": "g22-11",
+     "sentence": "\"Please sit down,\" she said to me. → She asked me ___ down.",
+     "options": [
+      "to sit",
+      "sit",
+      "sitting",
+      "that I sit"
+     ],
+     "answer": "to sit",
+     "explanation": "Reported requests: ask someone to do something."
+    },
+    {
+     "id": "g22-12",
+     "sentence": "\"What time does the show start?\" he asked. → He asked what time the show ___.",
+     "options": [
+      "started",
+      "did start",
+      "does start",
+      "starts did"
+     ],
+     "answer": "started",
+     "explanation": "Reported question with statement word order and backshift."
+    },
+    {
+     "id": "g22-13",
+     "sentence": "\"I'm working here now,\" she said. → She said she was working ___.",
+     "options": [
+      "there",
+      "here",
+      "this place",
+      "now here"
+     ],
+     "answer": "there",
+     "explanation": "\"Here\" often changes to \"there\" in reported speech."
+    },
+    {
+     "id": "g22-14",
+     "sentence": "\"I was reading,\" he said. → He said he ___ reading.",
+     "options": [
+      "had been",
+      "has been",
+      "is",
+      "were"
+     ],
+     "answer": "had been",
+     "explanation": "Past continuous can change to past perfect continuous."
+    },
+    {
+     "id": "g22-15",
+     "sentence": "\"We must leave,\" they said. → They said they ___ leave.",
+     "options": [
+      "had to",
+      "must to",
+      "have to",
+      "musted"
+     ],
+     "answer": "had to",
+     "explanation": "\"Must\" (obligation) often changes to \"had to\"."
+    },
+    {
+     "id": "g22-16",
+     "sentence": "She told ___ the news was fake.",
+     "options": [
+      "me that",
+      "that me",
+      "to me that",
+      "me to"
+     ],
+     "answer": "me that",
+     "explanation": "\"Tell\" needs a person as its object: tell someone that..."
+    },
+    {
+     "id": "g22-17",
+     "sentence": "He said ___ the story was true.",
+     "options": [
+      "that",
+      "me that",
+      "me",
+      "to that"
+     ],
+     "answer": "that",
+     "explanation": "\"Say\" doesn't need a person; if you include one, use \"say to someone\"."
+    },
+    {
+     "id": "g22-18",
+     "sentence": "\"Have you seen my phone?\" she asked. → She asked if I ___ her phone.",
+     "options": [
+      "had seen",
+      "have seen",
+      "saw",
+      "did see"
+     ],
+     "answer": "had seen",
+     "explanation": "Present perfect in a question becomes past perfect."
+    },
+    {
+     "id": "g22-19",
+     "sentence": "\"This programme is excellent,\" he said. → He said that ___ programme was excellent.",
+     "options": [
+      "that",
+      "this",
+      "these",
+      "those"
+     ],
+     "answer": "that",
+     "explanation": "\"This\" often changes to \"that\" in reported speech."
+    },
+    {
+     "id": "g22-20",
+     "sentence": "\"I'm going to post it online,\" she said. → She said she ___ post it online.",
+     "options": [
+      "was going to",
+      "is going to",
+      "will",
+      "went to"
+     ],
+     "answer": "was going to",
+     "explanation": "\"Am/is going to\" changes to \"was going to\"."
+    },
+    {
+     "id": "g22-21",
+     "sentence": "\"Why are you laughing?\" he asked. → He asked me why ___.",
+     "options": [
+      "I was laughing",
+      "was I laughing",
+      "I am laughing",
+      "am I laughing"
+     ],
+     "answer": "I was laughing",
+     "explanation": "Reported wh- questions: statement word order and backshift."
+    }
+   ]
+  },
+  {
+   "id": "g23",
+   "unit": "Unit 11",
+   "title": "Reporting verbs",
+   "questions": [
+    {
+     "id": "g23-01",
+     "sentence": "\"It wasn't me who broke it.\" → He denied ___ it.",
+     "options": [
+      "breaking",
+      "to break",
+      "break",
+      "that broke"
+     ],
+     "answer": "breaking",
+     "explanation": "\"Deny\" is followed by the -ing form."
+    },
+    {
+     "id": "g23-02",
+     "sentence": "\"I'll help you with the article.\" → She offered ___ me with the article.",
+     "options": [
+      "to help",
+      "helping",
+      "help",
+      "that help"
+     ],
+     "answer": "to help",
+     "explanation": "\"Offer\" is followed by the infinitive."
+    },
+    {
+     "id": "g23-03",
+     "sentence": "\"You should check your sources.\" → The editor advised me ___ my sources.",
+     "options": [
+      "to check",
+      "checking",
+      "check",
+      "that checking"
+     ],
+     "answer": "to check",
+     "explanation": "\"Advise someone to do something\"."
+    },
+    {
+     "id": "g23-04",
+     "sentence": "\"I'm not going to apologise.\" → The politician refused ___.",
+     "options": [
+      "to apologise",
+      "apologising",
+      "apologise",
+      "that apologise"
+     ],
+     "answer": "to apologise",
+     "explanation": "\"Refuse + infinitive\"."
+    },
+    {
+     "id": "g23-05",
+     "sentence": "\"I'm sorry I was late.\" → He apologised ___ late.",
+     "options": [
+      "for being",
+      "to be",
+      "being",
+      "for be"
+     ],
+     "answer": "for being",
+     "explanation": "\"Apologise for + -ing\"."
+    },
+    {
+     "id": "g23-06",
+     "sentence": "\"Would you like to come to the premiere?\" → She invited me ___ to the premiere.",
+     "options": [
+      "to go",
+      "going",
+      "go",
+      "for going"
+     ],
+     "answer": "to go",
+     "explanation": "\"Invite someone to do something\"."
+    },
+    {
+     "id": "g23-07",
+     "sentence": "\"I'll definitely be there.\" → He promised ___ there.",
+     "options": [
+      "to be",
+      "being",
+      "be",
+      "that being"
+     ],
+     "answer": "to be",
+     "explanation": "\"Promise + infinitive\"."
+    },
+    {
+     "id": "g23-08",
+     "sentence": "\"Why don't we watch a documentary?\" → She suggested ___ a documentary.",
+     "options": [
+      "watching",
+      "to watch",
+      "watch",
+      "us to watch"
+     ],
+     "answer": "watching",
+     "explanation": "\"Suggest + -ing\" (or \"suggest that we watch\")."
+    },
+    {
+     "id": "g23-09",
+     "sentence": "\"You copied my homework!\" → She accused him ___ her homework.",
+     "options": [
+      "of copying",
+      "for copying",
+      "to copy",
+      "copying"
+     ],
+     "answer": "of copying",
+     "explanation": "\"Accuse someone of + -ing\"."
+    },
+    {
+     "id": "g23-10",
+     "sentence": "\"Remember to post the letter.\" → He reminded me ___ the letter.",
+     "options": [
+      "to post",
+      "posting",
+      "post",
+      "of posting"
+     ],
+     "answer": "to post",
+     "explanation": "\"Remind someone to do something\"."
+    },
+    {
+     "id": "g23-11",
+     "sentence": "\"Yes, I took the money.\" → She admitted ___ the money.",
+     "options": [
+      "taking",
+      "to take",
+      "take",
+      "for taking"
+     ],
+     "answer": "taking",
+     "explanation": "\"Admit + -ing\"."
+    },
+    {
+     "id": "g23-12",
+     "sentence": "\"If you don't stop, I'll call the police!\" → He threatened ___ the police.",
+     "options": [
+      "to call",
+      "calling",
+      "call",
+      "of calling"
+     ],
+     "answer": "to call",
+     "explanation": "\"Threaten + infinitive\"."
+    },
+    {
+     "id": "g23-13",
+     "sentence": "\"Don't go into the water!\" → The lifeguard warned us ___ into the water.",
+     "options": [
+      "not to go",
+      "to not going",
+      "don't go",
+      "not going"
+     ],
+     "answer": "not to go",
+     "explanation": "\"Warn someone not to do something\"."
+    },
+    {
+     "id": "g23-14",
+     "sentence": "\"Well done for winning the prize!\" → They congratulated her ___ the prize.",
+     "options": [
+      "on winning",
+      "for win",
+      "to win",
+      "of winning"
+     ],
+     "answer": "on winning",
+     "explanation": "\"Congratulate someone on + -ing\"."
+    },
+    {
+     "id": "g23-15",
+     "sentence": "\"OK, I'll write the review.\" → He agreed ___ the review.",
+     "options": [
+      "to write",
+      "writing",
+      "write",
+      "for writing"
+     ],
+     "answer": "to write",
+     "explanation": "\"Agree + infinitive\"."
+    },
+    {
+     "id": "g23-16",
+     "sentence": "\"You should really try the new app.\" → She recommended ___ the new app.",
+     "options": [
+      "trying",
+      "to try",
+      "try",
+      "for trying"
+     ],
+     "answer": "trying",
+     "explanation": "\"Recommend + -ing\"."
+    },
+    {
+     "id": "g23-17",
+     "sentence": "\"Let's meet at 6.\" → He ___ meeting at 6.",
+     "options": [
+      "suggested",
+      "told",
+      "asked",
+      "offered"
+     ],
+     "answer": "suggested",
+     "explanation": "\"Suggest + -ing\" is used for proposals."
+    },
+    {
+     "id": "g23-18",
+     "sentence": "\"I didn't post that comment!\" → She ___ posting the comment.",
+     "options": [
+      "denied",
+      "refused",
+      "admitted not",
+      "told"
+     ],
+     "answer": "denied",
+     "explanation": "\"Deny + -ing\" means say you didn't do something."
+    },
+    {
+     "id": "g23-19",
+     "sentence": "\"Please, please let me go to the concert!\" → He begged his parents ___ him go.",
+     "options": [
+      "to let",
+      "letting",
+      "let",
+      "for letting"
+     ],
+     "answer": "to let",
+     "explanation": "\"Beg someone to do something\"."
+    },
+    {
+     "id": "g23-20",
+     "sentence": "\"Don't forget your passport.\" → Mum reminded me ___ my passport.",
+     "options": [
+      "not to forget",
+      "to not forgetting",
+      "don't forget",
+      "not forgetting"
+     ],
+     "answer": "not to forget",
+     "explanation": "\"Remind someone not to do something\"."
+    },
+    {
+     "id": "g23-21",
+     "sentence": "\"I'm going to win this time.\" → She ___ that she would win.",
+     "options": [
+      "claimed",
+      "refused",
+      "denied",
+      "offered"
+     ],
+     "answer": "claimed",
+     "explanation": "\"Claim that + clause\" means say something is true."
+    }
+   ]
+  },
+  {
+   "id": "g24",
+   "unit": "Unit 12",
+   "title": "Expressing obligation and permission",
+   "questions": [
+    {
+     "id": "g24-01",
+     "sentence": "You ___ wear a seatbelt in a car. It's the law.",
+     "options": [
+      "have to",
+      "don't have to",
+      "needn't",
+      "are allowed"
+     ],
+     "answer": "have to",
+     "explanation": "\"Have to\" expresses an obligation, often from a rule or law."
+    },
+    {
+     "id": "g24-02",
+     "sentence": "You ___ take photos in the museum. It's forbidden.",
+     "options": [
+      "mustn't",
+      "don't have to",
+      "needn't",
+      "aren't have to"
+     ],
+     "answer": "mustn't",
+     "explanation": "\"Mustn't\" means it is not allowed."
+    },
+    {
+     "id": "g24-03",
+     "sentence": "You ___ bring food. Lunch is provided.",
+     "options": [
+      "don't have to",
+      "mustn't",
+      "can't",
+      "aren't allowed to"
+     ],
+     "answer": "don't have to",
+     "explanation": "\"Don't have to\" means it isn't necessary (but it isn't forbidden)."
+    },
+    {
+     "id": "g24-04",
+     "sentence": "Students ___ to use their phones during the exam.",
+     "options": [
+      "aren't allowed",
+      "mustn't",
+      "can't",
+      "don't let"
+     ],
+     "answer": "aren't allowed",
+     "explanation": "\"Be (not) allowed to\" talks about permission."
+    },
+    {
+     "id": "g24-05",
+     "sentence": "___ I leave early today? I have a dentist's appointment.",
+     "options": [
+      "Can",
+      "Must",
+      "Have",
+      "Need"
+     ],
+     "answer": "Can",
+     "explanation": "\"Can I...?\" asks for permission."
+    },
+    {
+     "id": "g24-06",
+     "sentence": "Guests are ___ to wear traditional clothes at the wedding.",
+     "options": [
+      "supposed",
+      "must",
+      "allowed to",
+      "have"
+     ],
+     "answer": "supposed",
+     "explanation": "\"Be supposed to\" means it's expected (by rules or tradition)."
+    },
+    {
+     "id": "g24-07",
+     "sentence": "We ___ to queue for two hours to get into the festival.",
+     "options": [
+      "had",
+      "must",
+      "needed have",
+      "should"
+     ],
+     "answer": "had",
+     "explanation": "\"Had to\" is the past of \"have to\" and \"must\"."
+    },
+    {
+     "id": "g24-08",
+     "sentence": "You ___ tell her about the party. It's a surprise!",
+     "options": [
+      "mustn't",
+      "don't have to",
+      "needn't",
+      "haven't to"
+     ],
+     "answer": "mustn't",
+     "explanation": "\"Mustn't\" for something that is prohibited or a bad idea."
+    },
+    {
+     "id": "g24-09",
+     "sentence": "My parents ___ me stay out until midnight on Saturdays.",
+     "options": [
+      "let",
+      "allow",
+      "permit",
+      "make to"
+     ],
+     "answer": "let",
+     "explanation": "\"Let someone do something\" (no \"to\")."
+    },
+    {
+     "id": "g24-10",
+     "sentence": "Visitors are not ___ to feed the animals.",
+     "options": [
+      "permitted",
+      "let",
+      "must",
+      "can"
+     ],
+     "answer": "permitted",
+     "explanation": "\"Be permitted to\" is a formal way to talk about permission."
+    },
+    {
+     "id": "g24-11",
+     "sentence": "You ___ worry. Everything is under control.",
+     "options": [
+      "needn't",
+      "mustn't",
+      "can't",
+      "aren't allowed to"
+     ],
+     "answer": "needn't",
+     "explanation": "\"Needn't\" means it's not necessary."
+    },
+    {
+     "id": "g24-12",
+     "sentence": "I ___ to wear a uniform when I worked at the hotel.",
+     "options": [
+      "had",
+      "must",
+      "needed have",
+      "should"
+     ],
+     "answer": "had",
+     "explanation": "Past obligation: \"had to\"."
+    },
+    {
+     "id": "g24-13",
+     "sentence": "At my school, we ___ wear what we like on Fridays.",
+     "options": [
+      "can",
+      "must",
+      "have to",
+      "need"
+     ],
+     "answer": "can",
+     "explanation": "\"Can\" for permission."
+    },
+    {
+     "id": "g24-14",
+     "sentence": "Do we ___ to bring a present?",
+     "options": [
+      "have",
+      "must",
+      "need be",
+      "should"
+     ],
+     "answer": "have",
+     "explanation": "\"Do we have to...?\" asks about obligation."
+    },
+    {
+     "id": "g24-15",
+     "sentence": "You're ___ to arrive 30 minutes before the ceremony starts.",
+     "options": [
+      "supposed",
+      "must",
+      "should",
+      "ought"
+     ],
+     "answer": "supposed",
+     "explanation": "\"Be supposed to\" for expectations."
+    },
+    {
+     "id": "g24-16",
+     "sentence": "Children under 12 ___ enter without an adult.",
+     "options": [
+      "can't",
+      "don't have to",
+      "needn't",
+      "mustn't to"
+     ],
+     "answer": "can't",
+     "explanation": "\"Can't\" for something not permitted."
+    },
+    {
+     "id": "g24-17",
+     "sentence": "I ___ finish this report today. My boss says it's urgent.",
+     "options": [
+      "must",
+      "mustn't",
+      "can't",
+      "needn't"
+     ],
+     "answer": "must",
+     "explanation": "\"Must\" for strong personal or urgent obligation."
+    },
+    {
+     "id": "g24-18",
+     "sentence": "Were you ___ to go to concerts when you were 14?",
+     "options": [
+      "allowed",
+      "let",
+      "permitted for",
+      "can"
+     ],
+     "answer": "allowed",
+     "explanation": "\"Were you allowed to...?\" asks about past permission."
+    },
+    {
+     "id": "g24-19",
+     "sentence": "You ___ show your ticket at the entrance, or they won't let you in.",
+     "options": [
+      "must",
+      "mustn't",
+      "needn't",
+      "don't have to"
+     ],
+     "answer": "must",
+     "explanation": "\"Must\" for an obligation."
+    },
+    {
+     "id": "g24-20",
+     "sentence": "She ___ to take a day off for the festival. Her boss said yes.",
+     "options": [
+      "was allowed",
+      "let",
+      "could to",
+      "must"
+     ],
+     "answer": "was allowed",
+     "explanation": "\"Was allowed to\" for permission in the past."
+    },
+    {
+     "id": "g24-21",
+     "sentence": "They ___ us bring our own drinks to the event.",
+     "options": [
+      "don't let",
+      "aren't allowed",
+      "mustn't",
+      "can't"
+     ],
+     "answer": "don't let",
+     "explanation": "\"Don't let someone do something\" = not allow."
+    }
+   ]
+  },
+  {
+   "id": "g25",
+   "unit": "Unit 12",
+   "title": "Expressing ability",
+   "questions": [
+    {
+     "id": "g25-01",
+     "sentence": "I ___ swim when I was four.",
+     "options": [
+      "could",
+      "can",
+      "was able",
+      "manage"
+     ],
+     "answer": "could",
+     "explanation": "\"Could\" for general ability in the past."
+    },
+    {
+     "id": "g25-02",
+     "sentence": "After hours of trying, we ___ to find the hotel.",
+     "options": [
+      "managed",
+      "could",
+      "can",
+      "succeeded"
+     ],
+     "answer": "managed",
+     "explanation": "\"Manage to\" for a specific success that was difficult."
+    },
+    {
+     "id": "g25-03",
+     "sentence": "Despite the rain, they ___ finish the race.",
+     "options": [
+      "were able to",
+      "could",
+      "can",
+      "managed"
+     ],
+     "answer": "were able to",
+     "explanation": "For a single achievement in the past, use \"was/were able to\" (not \"could\")."
+    },
+    {
+     "id": "g25-04",
+     "sentence": "I'd love to ___ play the guitar.",
+     "options": [
+      "be able to",
+      "can",
+      "could",
+      "manage"
+     ],
+     "answer": "be able to",
+     "explanation": "\"Can\" has no infinitive, so use \"be able to\" after \"love to\"."
+    },
+    {
+     "id": "g25-05",
+     "sentence": "She ___ speak four languages.",
+     "options": [
+      "can",
+      "is able",
+      "manages",
+      "succeeds"
+     ],
+     "answer": "can",
+     "explanation": "\"Can + base form\" for present ability."
+    },
+    {
+     "id": "g25-06",
+     "sentence": "We succeeded ___ getting tickets for the festival.",
+     "options": [
+      "in",
+      "to",
+      "at",
+      "on"
+     ],
+     "answer": "in",
+     "explanation": "\"Succeed in + -ing\"."
+    },
+    {
+     "id": "g25-07",
+     "sentence": "He's good ___ dancing.",
+     "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+     ],
+     "answer": "at",
+     "explanation": "\"Good at + -ing/noun\" describes ability."
+    },
+    {
+     "id": "g25-08",
+     "sentence": "I ___ understand the instructions. They were in Chinese.",
+     "options": [
+      "couldn't",
+      "can't",
+      "wasn't able",
+      "didn't manage"
+     ],
+     "answer": "couldn't",
+     "explanation": "\"Couldn't\" for inability in the past."
+    },
+    {
+     "id": "g25-09",
+     "sentence": "Will you ___ come to the celebration on Friday?",
+     "options": [
+      "be able to",
+      "can",
+      "could",
+      "manage"
+     ],
+     "answer": "be able to",
+     "explanation": "\"Will be able to\" for future ability (there is no \"will can\")."
+    },
+    {
+     "id": "g25-10",
+     "sentence": "I haven't ___ to contact her yet.",
+     "options": [
+      "been able",
+      "could",
+      "can",
+      "managed to"
+     ],
+     "answer": "been able",
+     "explanation": "\"Have been able to\" for ability in the present perfect."
+    },
+    {
+     "id": "g25-11",
+     "sentence": "She's very ___ at organising events.",
+     "options": [
+      "skilled",
+      "skill",
+      "skilfully",
+      "skills"
+     ],
+     "answer": "skilled",
+     "explanation": "\"Skilled at\" describes someone's ability."
+    },
+    {
+     "id": "g25-12",
+     "sentence": "They didn't ___ to finish the decorations in time.",
+     "options": [
+      "manage",
+      "could",
+      "can",
+      "able"
+     ],
+     "answer": "manage",
+     "explanation": "\"Didn't manage to\" for failure to achieve something."
+    },
+    {
+     "id": "g25-13",
+     "sentence": "He's ___ of running a marathon.",
+     "options": [
+      "capable",
+      "able",
+      "can",
+      "skilled"
+     ],
+     "answer": "capable",
+     "explanation": "\"Capable of + -ing\" describes ability."
+    },
+    {
+     "id": "g25-14",
+     "sentence": "Sorry, I ___ hear you. The music is too loud.",
+     "options": [
+      "can't",
+      "couldn't to",
+      "am not able",
+      "don't manage"
+     ],
+     "answer": "can't",
+     "explanation": "\"Can't\" for present inability."
+    },
+    {
+     "id": "g25-15",
+     "sentence": "By next year, I ___ to drive.",
+     "options": [
+      "'ll be able",
+      "can",
+      "could",
+      "will can"
+     ],
+     "answer": "'ll be able",
+     "explanation": "Future ability: \"will be able to\"."
+    },
+    {
+     "id": "g25-16",
+     "sentence": "I ___ never been able to whistle.",
+     "options": [
+      "have",
+      "am",
+      "had to",
+      "can"
+     ],
+     "answer": "have",
+     "explanation": "\"Have never been able to\" for lifelong inability."
+    },
+    {
+     "id": "g25-17",
+     "sentence": "She ___ to open the jar on her own.",
+     "options": [
+      "managed",
+      "could",
+      "can",
+      "succeeded"
+     ],
+     "answer": "managed",
+     "explanation": "\"Managed to\" for a difficult achievement."
+    },
+    {
+     "id": "g25-18",
+     "sentence": "My grandmother ___ read without glasses until she was 80.",
+     "options": [
+      "could",
+      "managed",
+      "succeeded",
+      "can"
+     ],
+     "answer": "could",
+     "explanation": "\"Could\" for general past ability over a period."
+    },
+    {
+     "id": "g25-19",
+     "sentence": "I'm hopeless ___ cooking.",
+     "options": [
+      "at",
+      "in",
+      "on",
+      "with"
+     ],
+     "answer": "at",
+     "explanation": "\"Hopeless at\" for lack of ability."
+    },
+    {
+     "id": "g25-20",
+     "sentence": "If you practise, you ___ be able to dance like a pro.",
+     "options": [
+      "will",
+      "can",
+      "could to",
+      "are"
+     ],
+     "answer": "will",
+     "explanation": "First conditional: you will be able to."
+    },
+    {
+     "id": "g25-21",
+     "sentence": "Were you ___ to see the fireworks from your window?",
+     "options": [
+      "able",
+      "can",
+      "could",
+      "managed"
+     ],
+     "answer": "able",
+     "explanation": "\"Were you able to...?\" asks about ability on a specific occasion."
+    }
+   ]
+  },
+  {
+   "id": "g26",
+   "unit": "Unit 13",
+   "title": "Like vs as",
+   "questions": [
+    {
+     "id": "g26-01",
+     "sentence": "She works ___ a shop assistant in Milan.",
+     "options": [
+      "as",
+      "like",
+      "such as",
+      "similar"
+     ],
+     "answer": "as",
+     "explanation": "\"As\" describes a job or role (she really is a shop assistant)."
+    },
+    {
+     "id": "g26-02",
+     "sentence": "He sings ___ a professional.",
+     "options": [
+      "like",
+      "as",
+      "such",
+      "how"
+     ],
+     "answer": "like",
+     "explanation": "\"Like\" means \"similar to\" (he isn't a professional)."
+    },
+    {
+     "id": "g26-03",
+     "sentence": "___ I told you, the sale starts on Monday.",
+     "options": [
+      "As",
+      "Like",
+      "Such as",
+      "How"
+     ],
+     "answer": "As",
+     "explanation": "\"As\" + clause means \"in the same way that\" in formal English."
+    },
+    {
+     "id": "g26-04",
+     "sentence": "I used my coat ___ a pillow.",
+     "options": [
+      "as",
+      "like",
+      "such as",
+      "for like"
+     ],
+     "answer": "as",
+     "explanation": "\"As\" describes the function something has."
+    },
+    {
+     "id": "g26-05",
+     "sentence": "This jacket looks ___ leather, but it's plastic.",
+     "options": [
+      "like",
+      "as",
+      "as if",
+      "such as"
+     ],
+     "answer": "like",
+     "explanation": "\"Look like + noun\" = similar in appearance."
+    },
+    {
+     "id": "g26-06",
+     "sentence": "She's dressed ___ she's going to a wedding.",
+     "options": [
+      "as if",
+      "like as",
+      "such as",
+      "as like"
+     ],
+     "answer": "as if",
+     "explanation": "\"As if\" + clause describes how something seems."
+    },
+    {
+     "id": "g26-07",
+     "sentence": "Shops ___ Zara and Mango are very popular.",
+     "options": [
+      "like",
+      "as",
+      "as like",
+      "same as"
+     ],
+     "answer": "like",
+     "explanation": "\"Like\" or \"such as\" introduces examples."
+    },
+    {
+     "id": "g26-08",
+     "sentence": "He's famous ___ a fashion designer.",
+     "options": [
+      "as",
+      "like",
+      "such as",
+      "for like"
+     ],
+     "answer": "as",
+     "explanation": "\"Famous as\" refers to someone's real role."
+    },
+    {
+     "id": "g26-09",
+     "sentence": "The silk feels ___ water on your skin.",
+     "options": [
+      "like",
+      "as",
+      "such",
+      "as if like"
+     ],
+     "answer": "like",
+     "explanation": "\"Feel like + noun\" for comparison."
+    },
+    {
+     "id": "g26-10",
+     "sentence": "Do it exactly ___ I showed you.",
+     "options": [
+      "as",
+      "like as",
+      "such as",
+      "so"
+     ],
+     "answer": "as",
+     "explanation": "\"As\" + clause, especially in formal English."
+    },
+    {
+     "id": "g26-11",
+     "sentence": "___ a customer, I expect good service.",
+     "options": [
+      "As",
+      "Like",
+      "Such as",
+      "For"
+     ],
+     "answer": "As",
+     "explanation": "\"As\" = in the role of."
+    },
+    {
+     "id": "g26-12",
+     "sentence": "It smells ___ fresh bread in here.",
+     "options": [
+      "like",
+      "as",
+      "as if",
+      "such as"
+     ],
+     "answer": "like",
+     "explanation": "\"Smell like + noun\"."
+    },
+    {
+     "id": "g26-13",
+     "sentence": "She treats her phone ___ a baby.",
+     "options": [
+      "like",
+      "as",
+      "such as",
+      "as if a"
+     ],
+     "answer": "like",
+     "explanation": "\"Like\" = in a similar way to (it isn't really a baby)."
+    },
+    {
+     "id": "g26-14",
+     "sentence": "The shop is the same ___ it was ten years ago.",
+     "options": [
+      "as",
+      "like",
+      "than",
+      "that like"
+     ],
+     "answer": "as",
+     "explanation": "\"The same as\" is a fixed comparison."
+    },
+    {
+     "id": "g26-15",
+     "sentence": "Nobody sells shoes ___ these anymore.",
+     "options": [
+      "like",
+      "as",
+      "such",
+      "as if"
+     ],
+     "answer": "like",
+     "explanation": "\"Like these\" = similar to these."
+    },
+    {
+     "id": "g26-16",
+     "sentence": "He was employed ___ a security guard at the mall.",
+     "options": [
+      "as",
+      "like",
+      "such as",
+      "for"
+     ],
+     "answer": "as",
+     "explanation": "\"As\" describes his job."
+    },
+    {
+     "id": "g26-17",
+     "sentence": "It looks ___ it's going to rain.",
+     "options": [
+      "as if",
+      "like as",
+      "such as",
+      "as like"
+     ],
+     "answer": "as if",
+     "explanation": "\"Look as if\" + clause."
+    },
+    {
+     "id": "g26-18",
+     "sentence": "___ most teenagers, she loves shopping online.",
+     "options": [
+      "Like",
+      "As",
+      "Such as",
+      "As if"
+     ],
+     "answer": "Like",
+     "explanation": "\"Like\" = similar to."
+    },
+    {
+     "id": "g26-19",
+     "sentence": "You can use this bag ___ a backpack too.",
+     "options": [
+      "as",
+      "like",
+      "such as",
+      "for like"
+     ],
+     "answer": "as",
+     "explanation": "\"As\" describes a function."
+    },
+    {
+     "id": "g26-20",
+     "sentence": "She's very good at bargaining, just ___ her mother.",
+     "options": [
+      "like",
+      "as",
+      "as if",
+      "such"
+     ],
+     "answer": "like",
+     "explanation": "\"Just like\" + noun = in the same way as."
+    },
+    {
+     "id": "g26-21",
+     "sentence": "The market was ___ busy as usual.",
+     "options": [
+      "as",
+      "like",
+      "so like",
+      "such"
+     ],
+     "answer": "as",
+     "explanation": "\"As + adjective + as\" for comparisons."
+    }
+   ]
+  },
+  {
+   "id": "g27",
+   "unit": "Unit 13",
+   "title": "Past modals",
+   "questions": [
+    {
+     "id": "g27-01",
+     "sentence": "I failed the test. I ___ studied harder.",
+     "options": [
+      "should have",
+      "must have",
+      "needn't have",
+      "could"
+     ],
+     "answer": "should have",
+     "explanation": "\"Should have + past participle\" expresses regret or criticism about the past."
+    },
+    {
+     "id": "g27-02",
+     "sentence": "You ___ bought milk. We already had some in the fridge.",
+     "options": [
+      "needn't have",
+      "shouldn't",
+      "didn't need",
+      "mustn't have"
+     ],
+     "answer": "needn't have",
+     "explanation": "\"Needn't have + past participle\": you did it, but it wasn't necessary."
+    },
+    {
+     "id": "g27-03",
+     "sentence": "I ___ to wake up early, so I stayed in bed until 10.",
+     "options": [
+      "didn't need",
+      "needn't have",
+      "shouldn't have",
+      "mustn't"
+     ],
+     "answer": "didn't need",
+     "explanation": "\"Didn't need to + base form\": it wasn't necessary, so you didn't do it."
+    },
+    {
+     "id": "g27-04",
+     "sentence": "He ___ spent so much money on clothes. Now he can't pay his rent.",
+     "options": [
+      "shouldn't have",
+      "needn't have",
+      "didn't have to",
+      "mustn't have"
+     ],
+     "answer": "shouldn't have",
+     "explanation": "\"Shouldn't have\" criticises a past action."
+    },
+    {
+     "id": "g27-05",
+     "sentence": "We ___ to pay for the tickets. They were free.",
+     "options": [
+      "didn't have",
+      "needn't have",
+      "shouldn't have",
+      "mustn't"
+     ],
+     "answer": "didn't have",
+     "explanation": "\"Didn't have to\" = it wasn't necessary."
+    },
+    {
+     "id": "g27-06",
+     "sentence": "You ___ told me it was your birthday! I would have bought you a present.",
+     "options": [
+      "should have",
+      "needn't have",
+      "must",
+      "didn't need"
+     ],
+     "answer": "should have",
+     "explanation": "\"Should have\" for regret that something didn't happen."
+    },
+    {
+     "id": "g27-07",
+     "sentence": "I ___ taken a taxi. The shop was only five minutes away.",
+     "options": [
+      "needn't have",
+      "didn't need",
+      "mustn't have",
+      "couldn't"
+     ],
+     "answer": "needn't have",
+     "explanation": "You did take a taxi, but it was unnecessary."
+    },
+    {
+     "id": "g27-08",
+     "sentence": "She ___ to queue because she had a VIP ticket.",
+     "options": [
+      "didn't need",
+      "needn't have",
+      "shouldn't have",
+      "mustn't"
+     ],
+     "answer": "didn't need",
+     "explanation": "She didn't queue because it wasn't necessary."
+    },
+    {
+     "id": "g27-09",
+     "sentence": "They ___ left the shop without paying! That's stealing!",
+     "options": [
+      "shouldn't have",
+      "needn't have",
+      "didn't have to",
+      "couldn't to"
+     ],
+     "answer": "shouldn't have",
+     "explanation": "Criticism of a past action: \"shouldn't have\"."
+    },
+    {
+     "id": "g27-10",
+     "sentence": "I ___ have worried. The interview went really well.",
+     "options": [
+      "needn't",
+      "shouldn't to",
+      "didn't need",
+      "mustn't"
+     ],
+     "answer": "needn't",
+     "explanation": "\"Needn't have worried\" = I worried, but it was unnecessary."
+    },
+    {
+     "id": "g27-11",
+     "sentence": "Did you ___ to show your ID at the shop?",
+     "options": [
+      "have",
+      "must",
+      "need have",
+      "should"
+     ],
+     "answer": "have",
+     "explanation": "\"Did you have to...?\" asks about past obligation."
+    },
+    {
+     "id": "g27-12",
+     "sentence": "We ___ booked a table. The restaurant was empty.",
+     "options": [
+      "needn't have",
+      "didn't need",
+      "mustn't",
+      "shouldn't"
+     ],
+     "answer": "needn't have",
+     "explanation": "Unnecessary action that was done: \"needn't have\"."
+    },
+    {
+     "id": "g27-13",
+     "sentence": "You ___ have bought that dress. It doesn't suit you.",
+     "options": [
+      "shouldn't",
+      "didn't need",
+      "mustn't",
+      "needn't to"
+     ],
+     "answer": "shouldn't",
+     "explanation": "\"Shouldn't have\" for a bad decision."
+    },
+    {
+     "id": "g27-14",
+     "sentence": "I ___ to buy a new phone because mine was repaired for free.",
+     "options": [
+      "didn't have",
+      "needn't have",
+      "shouldn't",
+      "mustn't have"
+     ],
+     "answer": "didn't have",
+     "explanation": "\"Didn't have to\": no obligation, so I didn't buy one."
+    },
+    {
+     "id": "g27-15",
+     "sentence": "He ___ have checked the price before he ordered.",
+     "options": [
+      "should",
+      "must to",
+      "needn't to",
+      "ought"
+     ],
+     "answer": "should",
+     "explanation": "\"Should have + past participle\" for advice about the past."
+    },
+    {
+     "id": "g27-16",
+     "sentence": "You ___ have brought an umbrella. It didn't rain at all.",
+     "options": [
+      "needn't",
+      "shouldn't to",
+      "didn't need",
+      "mustn't"
+     ],
+     "answer": "needn't",
+     "explanation": "Unnecessary action: \"needn't have\"."
+    },
+    {
+     "id": "g27-17",
+     "sentence": "I ___ have listened to the shop assistant. The jacket was too small.",
+     "options": [
+      "shouldn't",
+      "needn't",
+      "didn't need",
+      "mustn't to"
+     ],
+     "answer": "shouldn't",
+     "explanation": "Regret about following bad advice."
+    },
+    {
+     "id": "g27-18",
+     "sentence": "We ___ to cook because Grandma brought dinner.",
+     "options": [
+      "didn't need",
+      "needn't have",
+      "shouldn't have",
+      "must not"
+     ],
+     "answer": "didn't need",
+     "explanation": "\"Didn't need to\" = not necessary, so we didn't."
+    },
+    {
+     "id": "g27-19",
+     "sentence": "They ___ have warned us about the sale. We missed it!",
+     "options": [
+      "should",
+      "needn't",
+      "didn't need",
+      "mustn't"
+     ],
+     "answer": "should",
+     "explanation": "Criticism: they didn't warn us."
+    },
+    {
+     "id": "g27-20",
+     "sentence": "I ___ have paid by card. It would have been easier.",
+     "options": [
+      "could",
+      "needn't",
+      "mustn't",
+      "didn't need"
+     ],
+     "answer": "could",
+     "explanation": "\"Could have + past participle\" for a possibility that wasn't taken."
+    },
+    {
+     "id": "g27-21",
+     "sentence": "You ___ to come with me, but I'm glad you did.",
+     "options": [
+      "didn't have",
+      "shouldn't have",
+      "mustn't",
+      "needn't have"
+     ],
+     "answer": "didn't have",
+     "explanation": "\"Didn't have to\" here focuses on lack of obligation."
+    }
+   ]
+  },
+  {
+   "id": "g28",
+   "unit": "Unit 14",
+   "title": "Adding emphasis and sentence fronting",
+   "questions": [
+    {
+     "id": "g28-01",
+     "sentence": "___ I need is a holiday.",
+     "options": [
+      "What",
+      "That",
+      "Which",
+      "It"
+     ],
+     "answer": "What",
+     "explanation": "\"What + clause + is...\" is a cleft sentence used to add emphasis."
+    },
+    {
+     "id": "g28-02",
+     "sentence": "It was the salary ___ attracted me to the job.",
+     "options": [
+      "that",
+      "what",
+      "who",
+      "where"
+     ],
+     "answer": "that",
+     "explanation": "\"It was ... that...\" emphasises one part of the sentence."
+    },
+    {
+     "id": "g28-03",
+     "sentence": "I ___ like the job, but the hours are too long.",
+     "options": [
+      "do",
+      "am",
+      "did to",
+      "does"
+     ],
+     "answer": "do",
+     "explanation": "Use \"do/does/did\" before the main verb for emphasis."
+    },
+    {
+     "id": "g28-04",
+     "sentence": "She ___ work hard last year. She deserved the promotion.",
+     "options": [
+      "did",
+      "was",
+      "had",
+      "does"
+     ],
+     "answer": "did",
+     "explanation": "\"Did + base form\" for emphasis in the past."
+    },
+    {
+     "id": "g28-05",
+     "sentence": "What I love about this job ___ the people.",
+     "options": [
+      "is",
+      "are",
+      "was being",
+      "be"
+     ],
+     "answer": "is",
+     "explanation": "In \"What I love... is...\", use \"is\" to connect the parts."
+    },
+    {
+     "id": "g28-06",
+     "sentence": "___ was the CEO who made the final decision.",
+     "options": [
+      "It",
+      "What",
+      "That",
+      "There"
+     ],
+     "answer": "It",
+     "explanation": "\"It was + person + who...\" emphasises the person."
+    },
+    {
+     "id": "g28-07",
+     "sentence": "The thing ___ annoys me most is the commute.",
+     "options": [
+      "that",
+      "what",
+      "who",
+      "it"
+     ],
+     "answer": "that",
+     "explanation": "\"The thing that...\" is another way to add emphasis."
+    },
+    {
+     "id": "g28-08",
+     "sentence": "Never ___ such a difficult interview.",
+     "options": [
+      "have I had",
+      "I have had",
+      "had I have",
+      "I had"
+     ],
+     "answer": "have I had",
+     "explanation": "After negative adverbs at the start (Never), invert the subject and auxiliary."
+    },
+    {
+     "id": "g28-09",
+     "sentence": "Not only ___ late, but he also forgot his CV.",
+     "options": [
+      "was he",
+      "he was",
+      "did he",
+      "he did"
+     ],
+     "answer": "was he",
+     "explanation": "\"Not only\" at the start of a sentence requires inversion."
+    },
+    {
+     "id": "g28-10",
+     "sentence": "All I want ___ a job I enjoy.",
+     "options": [
+      "is",
+      "are",
+      "be",
+      "were"
+     ],
+     "answer": "is",
+     "explanation": "\"All I want is...\" is an emphatic structure."
+    },
+    {
+     "id": "g28-11",
+     "sentence": "Rarely ___ such a talented candidate.",
+     "options": [
+      "do we see",
+      "we see",
+      "we do see",
+      "see we"
+     ],
+     "answer": "do we see",
+     "explanation": "\"Rarely\" at the start requires inversion."
+    },
+    {
+     "id": "g28-12",
+     "sentence": "It's not the money ___ matters, it's job satisfaction.",
+     "options": [
+      "that",
+      "what",
+      "which it",
+      "who"
+     ],
+     "answer": "that",
+     "explanation": "\"It's not X that...\" emphasises the contrast."
+    },
+    {
+     "id": "g28-13",
+     "sentence": "What happened ___ that the company closed down.",
+     "options": [
+      "was",
+      "is that",
+      "were",
+      "did"
+     ],
+     "answer": "was",
+     "explanation": "\"What happened was (that)...\" emphasises an event."
+    },
+    {
+     "id": "g28-14",
+     "sentence": "The reason ___ I left was the lack of opportunities.",
+     "options": [
+      "why",
+      "what",
+      "because",
+      "for"
+     ],
+     "answer": "why",
+     "explanation": "\"The reason why... was...\" is a cleft structure."
+    },
+    {
+     "id": "g28-15",
+     "sentence": "Under no circumstances ___ share your password.",
+     "options": [
+      "should you",
+      "you should",
+      "you shouldn't",
+      "shouldn't you"
+     ],
+     "answer": "should you",
+     "explanation": "\"Under no circumstances\" at the start requires inversion."
+    },
+    {
+     "id": "g28-16",
+     "sentence": "Hardly ___ started when the fire alarm went off.",
+     "options": [
+      "had the meeting",
+      "the meeting had",
+      "did the meeting",
+      "the meeting did"
+     ],
+     "answer": "had the meeting",
+     "explanation": "\"Hardly... when\" with inversion in the past perfect."
+    },
+    {
+     "id": "g28-17",
+     "sentence": "I ___ apologise for the delay.",
+     "options": [
+      "do",
+      "am",
+      "have",
+      "does"
+     ],
+     "answer": "do",
+     "explanation": "\"I do apologise\" is an emphatic, polite apology."
+    },
+    {
+     "id": "g28-18",
+     "sentence": "It was in 2015 ___ she started her own business.",
+     "options": [
+      "that",
+      "when it",
+      "what",
+      "which"
+     ],
+     "answer": "that",
+     "explanation": "\"It was + time + that...\" emphasises the time."
+    },
+    {
+     "id": "g28-19",
+     "sentence": "What she did ___ resign immediately.",
+     "options": [
+      "was",
+      "were",
+      "did",
+      "has"
+     ],
+     "answer": "was",
+     "explanation": "\"What she did was (to) + base form\" emphasises an action."
+    },
+    {
+     "id": "g28-20",
+     "sentence": "Little ___ that he would become the CEO one day.",
+     "options": [
+      "did he know",
+      "he knew",
+      "knew he",
+      "he did know"
+     ],
+     "answer": "did he know",
+     "explanation": "\"Little\" at the start (= not at all) requires inversion."
+    },
+    {
+     "id": "g28-21",
+     "sentence": "Only after the interview ___ how nervous I had been.",
+     "options": [
+      "did I realise",
+      "I realised",
+      "realised I",
+      "I did realise"
+     ],
+     "answer": "did I realise",
+     "explanation": "\"Only after...\" at the start requires inversion in the main clause."
+    }
+   ]
+  }
+ ]
+}

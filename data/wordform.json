@@ -1,0 +1,701 @@
+{
+ "questions": [
+  {
+   "id": "w001",
+   "sentence": "The final was hugely ___ and the crowd loved every minute.",
+   "root": "ENTERTAIN",
+   "answers": [
+    "entertaining"
+   ],
+   "explanation": "We need an adjective after \"hugely\": entertain → entertaining."
+  },
+  {
+   "id": "w002",
+   "sentence": "She should be proud of her ___ in the tournament.",
+   "root": "PERFORM",
+   "answers": [
+    "performance"
+   ],
+   "explanation": "After \"her\" we need a noun: perform → performance."
+  },
+  {
+   "id": "w003",
+   "sentence": "It was one of the most ___ tournaments in years.",
+   "root": "COMPETE",
+   "answers": [
+    "competitive"
+   ],
+   "explanation": "After \"most\" we need an adjective: compete → competitive."
+  },
+  {
+   "id": "w004",
+   "sentence": "The ___ cheered loudly when the team scored.",
+   "root": "SPECTATE",
+   "answers": [
+    "spectators"
+   ],
+   "explanation": "After \"the\" + plural verb we need a plural noun for people: spectators."
+  },
+  {
+   "id": "w005",
+   "sentence": "He still looks incredibly ___ for his age.",
+   "root": "ATHLETE",
+   "answers": [
+    "athletic"
+   ],
+   "explanation": "After \"incredibly\" we need an adjective: athlete → athletic."
+  },
+  {
+   "id": "w006",
+   "sentence": "The referee's ___ was final.",
+   "root": "DECIDE",
+   "answers": [
+    "decision"
+   ],
+   "explanation": "After \"the referee's\" we need a noun: decide → decision."
+  },
+  {
+   "id": "w007",
+   "sentence": "Running a marathon was a great ___ for me.",
+   "root": "ACHIEVE",
+   "answers": [
+    "achievement"
+   ],
+   "explanation": "After \"a great\" we need a noun: achieve → achievement."
+  },
+  {
+   "id": "w008",
+   "sentence": "Thanks to good ___, the festival was a huge success.",
+   "root": "ORGANISE",
+   "answers": [
+    "organisation",
+    "organization"
+   ],
+   "explanation": "We need a noun: organise → organisation."
+  },
+  {
+   "id": "w009",
+   "sentence": "The festival was very ___ and made a lot of money.",
+   "root": "SUCCESS",
+   "answers": [
+    "successful"
+   ],
+   "explanation": "We need an adjective: success → successful."
+  },
+  {
+   "id": "w010",
+   "sentence": "The ___ of people prefer to buy tickets online.",
+   "root": "MAJOR",
+   "answers": [
+    "majority"
+   ],
+   "explanation": "\"The ___ of\" needs a noun: major → majority."
+  },
+  {
+   "id": "w011",
+   "sentence": "The website lets people buy tickets ___ .",
+   "root": "EASY",
+   "answers": [
+    "easily"
+   ],
+   "explanation": "We need an adverb to describe \"buy\": easy → easily."
+  },
+  {
+   "id": "w012",
+   "sentence": "It was a ___ night that I'll never forget.",
+   "root": "MEMORY",
+   "answers": [
+    "memorable"
+   ],
+   "explanation": "We need an adjective: memory → memorable."
+  },
+  {
+   "id": "w013",
+   "sentence": "The ___ answered every question calmly.",
+   "root": "INTERVIEW",
+   "answers": [
+    "interviewee"
+   ],
+   "explanation": "The person who is interviewed is the \"interviewee\"."
+  },
+  {
+   "id": "w014",
+   "sentence": "The song was ___ recognisable.",
+   "root": "INSTANT",
+   "answers": [
+    "instantly"
+   ],
+   "explanation": "We need an adverb before an adjective: instant → instantly."
+  },
+  {
+   "id": "w015",
+   "sentence": "My cousin is studying to become a ___.",
+   "root": "PSYCHOLOGY",
+   "answers": [
+    "psychologist"
+   ],
+   "explanation": "A person who studies psychology is a \"psychologist\"."
+  },
+  {
+   "id": "w016",
+   "sentence": "It's ___ to drive without a seatbelt.",
+   "root": "LEGAL",
+   "answers": [
+    "illegal"
+   ],
+   "explanation": "The meaning is negative, so we add the prefix \"il-\"."
+  },
+  {
+   "id": "w017",
+   "sentence": "The instructions were completely ___. I couldn't follow them.",
+   "root": "CLEAR",
+   "answers": [
+    "unclear"
+   ],
+   "explanation": "The meaning is negative: un- + clear."
+  },
+  {
+   "id": "w018",
+   "sentence": "Many people are ___ with their jobs and want to change careers.",
+   "root": "SATISFY",
+   "answers": [
+    "dissatisfied",
+    "unsatisfied"
+   ],
+   "explanation": "The context is negative: dissatisfied."
+  },
+  {
+   "id": "w019",
+   "sentence": "The ___ of the new bridge took three years.",
+   "root": "CONSTRUCT",
+   "answers": [
+    "construction"
+   ],
+   "explanation": "We need a noun: construct → construction."
+  },
+  {
+   "id": "w020",
+   "sentence": "Global warming is a serious ___ problem.",
+   "root": "ENVIRONMENT",
+   "answers": [
+    "environmental"
+   ],
+   "explanation": "We need an adjective before \"problem\": environmental."
+  },
+  {
+   "id": "w021",
+   "sentence": "Some animals are in danger of ___.",
+   "root": "EXTINCT",
+   "answers": [
+    "extinction"
+   ],
+   "explanation": "After \"of\" we need a noun: extinct → extinction."
+  },
+  {
+   "id": "w022",
+   "sentence": "Solar power is a clean and ___ source of energy.",
+   "root": "RENEW",
+   "answers": [
+    "renewable"
+   ],
+   "explanation": "We need an adjective: renew → renewable."
+  },
+  {
+   "id": "w023",
+   "sentence": "The ___ in the mountains was amazing.",
+   "root": "SCENE",
+   "answers": [
+    "scenery"
+   ],
+   "explanation": "\"Scenery\" is the noun for the natural landscape."
+  },
+  {
+   "id": "w024",
+   "sentence": "It's ___ to travel without insurance.",
+   "root": "RESPONSIBLE",
+   "answers": [
+    "irresponsible"
+   ],
+   "explanation": "The meaning is negative, so add the prefix \"ir-\"."
+  },
+  {
+   "id": "w025",
+   "sentence": "The hotel staff were very ___ and helpful.",
+   "root": "FRIEND",
+   "answers": [
+    "friendly"
+   ],
+   "explanation": "We need an adjective: friend → friendly."
+  },
+  {
+   "id": "w026",
+   "sentence": "We had a very ___ journey: the seats were hard and there was no air conditioning.",
+   "root": "COMFORT",
+   "answers": [
+    "uncomfortable"
+   ],
+   "explanation": "The context is negative: un- + comfortable."
+  },
+  {
+   "id": "w027",
+   "sentence": "The ___ to the museum is free on Sundays.",
+   "root": "ADMIT",
+   "answers": [
+    "admission"
+   ],
+   "explanation": "We need a noun: admit → admission."
+  },
+  {
+   "id": "w028",
+   "sentence": "Our flight was delayed, which was very ___.",
+   "root": "ANNOY",
+   "answers": [
+    "annoying"
+   ],
+   "explanation": "The situation causes the feeling: annoying."
+  },
+  {
+   "id": "w029",
+   "sentence": "The guide gave a very ___ talk about the castle.",
+   "root": "INFORM",
+   "answers": [
+    "informative"
+   ],
+   "explanation": "We need an adjective meaning \"giving information\": informative."
+  },
+  {
+   "id": "w030",
+   "sentence": "The plot was so ___ that I guessed the ending.",
+   "root": "PREDICT",
+   "answers": [
+    "predictable"
+   ],
+   "explanation": "We need an adjective: predict → predictable."
+  },
+  {
+   "id": "w031",
+   "sentence": "The book is a ___ of short stories.",
+   "root": "COLLECT",
+   "answers": [
+    "collection"
+   ],
+   "explanation": "After \"a\" we need a noun: collect → collection."
+  },
+  {
+   "id": "w032",
+   "sentence": "The novel's ___ of life in Victorian London is very vivid.",
+   "root": "DESCRIBE",
+   "answers": [
+    "description"
+   ],
+   "explanation": "After \"the novel's\" we need a noun: describe → description."
+  },
+  {
+   "id": "w033",
+   "sentence": "The author's ___ is full of humour.",
+   "root": "WRITE",
+   "answers": [
+    "writing"
+   ],
+   "explanation": "After \"the author's\" we need a noun: write → writing."
+  },
+  {
+   "id": "w034",
+   "sentence": "I found the documentary really ___.",
+   "root": "IMPRESS",
+   "answers": [
+    "impressive"
+   ],
+   "explanation": "We need an adjective: impress → impressive."
+  },
+  {
+   "id": "w035",
+   "sentence": "She has a very ___ personality.",
+   "root": "CREATE",
+   "answers": [
+    "creative"
+   ],
+   "explanation": "We need an adjective: create → creative."
+  },
+  {
+   "id": "w036",
+   "sentence": "The new app has a lot of ___ features.",
+   "root": "USE",
+   "answers": [
+    "useful"
+   ],
+   "explanation": "We need an adjective: use → useful."
+  },
+  {
+   "id": "w037",
+   "sentence": "Eating too much sugar is ___.",
+   "root": "HEALTH",
+   "answers": [
+    "unhealthy"
+   ],
+   "explanation": "The meaning is negative: un- + healthy."
+  },
+  {
+   "id": "w038",
+   "sentence": "You need a lot of ___ to run a marathon.",
+   "root": "DETERMINE",
+   "answers": [
+    "determination"
+   ],
+   "explanation": "We need a noun: determine → determination."
+  },
+  {
+   "id": "w039",
+   "sentence": "A balanced diet should include a ___ of foods.",
+   "root": "VARY",
+   "answers": [
+    "variety"
+   ],
+   "explanation": "After \"a\" we need a noun: vary → variety."
+  },
+  {
+   "id": "w040",
+   "sentence": "Regular exercise improves your physical ___.",
+   "root": "STRONG",
+   "answers": [
+    "strength"
+   ],
+   "explanation": "We need a noun: strong → strength."
+  },
+  {
+   "id": "w041",
+   "sentence": "He made a full ___ after his operation.",
+   "root": "RECOVER",
+   "answers": [
+    "recovery"
+   ],
+   "explanation": "We need a noun: recover → recovery."
+  },
+  {
+   "id": "w042",
+   "sentence": "The ___ of the new phone surprised everyone.",
+   "root": "POPULAR",
+   "answers": [
+    "popularity"
+   ],
+   "explanation": "We need a noun: popular → popularity."
+  },
+  {
+   "id": "w043",
+   "sentence": "The invention of the internet was a ___ moment in history.",
+   "root": "REVOLUTION",
+   "answers": [
+    "revolutionary"
+   ],
+   "explanation": "We need an adjective before \"moment\"."
+  },
+  {
+   "id": "w044",
+   "sentence": "Scientists made an important ___ last year.",
+   "root": "DISCOVER",
+   "answers": [
+    "discovery"
+   ],
+   "explanation": "We need a noun: discover → discovery."
+  },
+  {
+   "id": "w045",
+   "sentence": "The software is very ___ and easy to use.",
+   "root": "RELY",
+   "answers": [
+    "reliable"
+   ],
+   "explanation": "We need an adjective: rely → reliable."
+  },
+  {
+   "id": "w046",
+   "sentence": "Technology has changed our lives ___.",
+   "root": "DRAMATIC",
+   "answers": [
+    "dramatically"
+   ],
+   "explanation": "We need an adverb describing \"changed\"."
+  },
+  {
+   "id": "w047",
+   "sentence": "There is a ___ of qualified engineers in the country.",
+   "root": "SHORT",
+   "answers": [
+    "shortage"
+   ],
+   "explanation": "We need a noun: short → shortage."
+  },
+  {
+   "id": "w048",
+   "sentence": "Online ___ is quick and safe.",
+   "root": "PAY",
+   "answers": [
+    "payment"
+   ],
+   "explanation": "We need a noun: pay → payment."
+  },
+  {
+   "id": "w049",
+   "sentence": "The shop assistant was very ___ and rude.",
+   "root": "HELP",
+   "answers": [
+    "unhelpful"
+   ],
+   "explanation": "The context is negative: unhelpful."
+  },
+  {
+   "id": "w050",
+   "sentence": "The ___ of the new shopping centre was delayed.",
+   "root": "OPEN",
+   "answers": [
+    "opening"
+   ],
+   "explanation": "We need a noun: open → opening."
+  },
+  {
+   "id": "w051",
+   "sentence": "The company's ___ rose by 20% last year.",
+   "root": "PROFIT",
+   "answers": [
+    "profits",
+    "profitability"
+   ],
+   "explanation": "We need a noun; \"profits\" fits naturally."
+  },
+  {
+   "id": "w052",
+   "sentence": "Her ___ in the job interview impressed everyone.",
+   "root": "CONFIDENT",
+   "answers": [
+    "confidence"
+   ],
+   "explanation": "We need a noun: confident → confidence."
+  },
+  {
+   "id": "w053",
+   "sentence": "She's an ___ teacher who has worked in five countries.",
+   "root": "EXPERIENCE",
+   "answers": [
+    "experienced"
+   ],
+   "explanation": "We need an adjective before \"teacher\": experienced."
+  },
+  {
+   "id": "w054",
+   "sentence": "The company has over 500 ___.",
+   "root": "EMPLOY",
+   "answers": [
+    "employees"
+   ],
+   "explanation": "People who work for a company are \"employees\" (plural)."
+  },
+  {
+   "id": "w055",
+   "sentence": "We are looking for an ___ person to lead the team.",
+   "root": "ENERGY",
+   "answers": [
+    "energetic"
+   ],
+   "explanation": "We need an adjective: energy → energetic."
+  },
+  {
+   "id": "w056",
+   "sentence": "The ___ of the factory meant 200 people lost their jobs.",
+   "root": "CLOSE",
+   "answers": [
+    "closure"
+   ],
+   "explanation": "We need a noun: close → closure."
+  },
+  {
+   "id": "w057",
+   "sentence": "The new manager is very ___ and always listens to everyone.",
+   "root": "PATIENCE",
+   "answers": [
+    "patient"
+   ],
+   "explanation": "We need an adjective: patience → patient."
+  },
+  {
+   "id": "w058",
+   "sentence": "Working from home has many ___.",
+   "root": "ADVANTAGE",
+   "answers": [
+    "advantages"
+   ],
+   "explanation": "We need a plural noun after \"many\"."
+  },
+  {
+   "id": "w059",
+   "sentence": "It's a ___ job with long hours.",
+   "root": "STRESS",
+   "answers": [
+    "stressful"
+   ],
+   "explanation": "We need an adjective: stress → stressful."
+  },
+  {
+   "id": "w060",
+   "sentence": "The ___ of the new manager was announced today.",
+   "root": "APPOINT",
+   "answers": [
+    "appointment"
+   ],
+   "explanation": "We need a noun: appoint → appointment."
+  },
+  {
+   "id": "w061",
+   "sentence": "The weather was ___ warm for October.",
+   "root": "USUAL",
+   "answers": [
+    "unusually"
+   ],
+   "explanation": "We need an adverb before an adjective, with a negative prefix: unusually."
+  },
+  {
+   "id": "w062",
+   "sentence": "The ___ was so poor that the airport closed.",
+   "root": "VISIBLE",
+   "answers": [
+    "visibility"
+   ],
+   "explanation": "We need a noun: visible → visibility."
+  },
+  {
+   "id": "w063",
+   "sentence": "After the storm there was a lot of ___ in the town.",
+   "root": "DESTROY",
+   "answers": [
+    "destruction"
+   ],
+   "explanation": "We need a noun: destroy → destruction."
+  },
+  {
+   "id": "w064",
+   "sentence": "The weather forecast was completely ___.",
+   "root": "ACCURATE",
+   "answers": [
+    "inaccurate"
+   ],
+   "explanation": "The context suggests a negative meaning: in- + accurate."
+  },
+  {
+   "id": "w065",
+   "sentence": "It's ___ to see such beautiful sunsets in winter.",
+   "root": "COMMON",
+   "answers": [
+    "uncommon"
+   ],
+   "explanation": "The meaning is negative: un- + common."
+  },
+  {
+   "id": "w066",
+   "sentence": "She is one of the most ___ journalists in the country.",
+   "root": "INFLUENCE",
+   "answers": [
+    "influential"
+   ],
+   "explanation": "After \"the most\" we need an adjective: influential."
+  },
+  {
+   "id": "w067",
+   "sentence": "The news story was not very ___. Nobody believed it.",
+   "root": "BELIEVE",
+   "answers": [
+    "believable"
+   ],
+   "explanation": "We need an adjective: believe → believable."
+  },
+  {
+   "id": "w068",
+   "sentence": "The documentary was ___ in many countries.",
+   "root": "BROADCAST",
+   "answers": [
+    "broadcast"
+   ],
+   "explanation": "The past participle of \"broadcast\" is \"broadcast\"."
+  },
+  {
+   "id": "w069",
+   "sentence": "The ___ of the article were very interesting.",
+   "root": "CONCLUDE",
+   "answers": [
+    "conclusions"
+   ],
+   "explanation": "We need a plural noun: conclude → conclusions."
+  },
+  {
+   "id": "w070",
+   "sentence": "Newspapers should report the news ___.",
+   "root": "ACCURATE",
+   "answers": [
+    "accurately"
+   ],
+   "explanation": "We need an adverb describing \"report\"."
+  },
+  {
+   "id": "w071",
+   "sentence": "She's a famous TV ___.",
+   "root": "PRESENT",
+   "answers": [
+    "presenter"
+   ],
+   "explanation": "A person who presents a TV programme is a \"presenter\"."
+  },
+  {
+   "id": "w072",
+   "sentence": "The ___ of the festival is a big parade.",
+   "root": "HIGH",
+   "answers": [
+    "highlight"
+   ],
+   "explanation": "The best part of an event is the \"highlight\"."
+  },
+  {
+   "id": "w073",
+   "sentence": "There was a lot of ___ before the concert.",
+   "root": "EXCITE",
+   "answers": [
+    "excitement"
+   ],
+   "explanation": "We need a noun: excite → excitement."
+  },
+  {
+   "id": "w074",
+   "sentence": "The festival has a ___ for great food.",
+   "root": "REPUTE",
+   "answers": [
+    "reputation"
+   ],
+   "explanation": "We need a noun: repute → reputation."
+  },
+  {
+   "id": "w075",
+   "sentence": "The wedding ___ lasted all night.",
+   "root": "CELEBRATE",
+   "answers": [
+    "celebrations",
+    "celebration"
+   ],
+   "explanation": "We need a noun: celebrate → celebration(s)."
+  },
+  {
+   "id": "w076",
+   "sentence": "All ___ in the parade must wear a costume.",
+   "root": "PARTICIPATE",
+   "answers": [
+    "participants"
+   ],
+   "explanation": "We need a plural noun for people: participants."
+  },
+  {
+   "id": "w077",
+   "sentence": "The fireworks were ___ beautiful.",
+   "root": "ABSOLUTE",
+   "answers": [
+    "absolutely"
+   ],
+   "explanation": "We need an adverb before \"beautiful\"."
+  }
+ ]
+}

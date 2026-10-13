@@ -1,0 +1,828 @@
+{
+ "questions": [
+  {
+   "id": "c001",
+   "sentence": "I have lived in this city since five years.",
+   "answers": [
+    "I have lived in this city for five years."
+   ],
+   "explanation": "Use \"for\" with a period of time and \"since\" with a starting point."
+  },
+  {
+   "id": "c002",
+   "sentence": "I have seen that film last week.",
+   "answers": [
+    "I saw that film last week."
+   ],
+   "explanation": "\"Last week\" is a finished time, so we need the past simple, not the present perfect."
+  },
+  {
+   "id": "c003",
+   "sentence": "She is the more intelligent student in the class.",
+   "answers": [
+    "She is the most intelligent student in the class."
+   ],
+   "explanation": "Use the superlative (\"the most\") when comparing one person with a whole group."
+  },
+  {
+   "id": "c004",
+   "sentence": "My new flat is more bigger than my old one.",
+   "answers": [
+    "My new flat is bigger than my old one."
+   ],
+   "explanation": "Short adjectives take -er. Never use \"more\" and -er together."
+  },
+  {
+   "id": "c005",
+   "sentence": "This is the worse meal I've ever eaten.",
+   "answers": [
+    "This is the worst meal I've ever eaten."
+   ],
+   "explanation": "The superlative of \"bad\" is \"the worst\"; \"worse\" is the comparative."
+  },
+  {
+   "id": "c006",
+   "sentence": "I enjoy to go to the gym after work.",
+   "answers": [
+    "I enjoy going to the gym after work."
+   ],
+   "explanation": "\"Enjoy\" is followed by the -ing form."
+  },
+  {
+   "id": "c007",
+   "sentence": "I'm looking forward to see you on Saturday.",
+   "answers": [
+    "I'm looking forward to seeing you on Saturday."
+   ],
+   "explanation": "In \"look forward to\", \"to\" is a preposition, so it is followed by -ing."
+  },
+  {
+   "id": "c008",
+   "sentence": "She decided taking a yoga class.",
+   "answers": [
+    "She decided to take a yoga class."
+   ],
+   "explanation": "\"Decide\" is followed by the infinitive with \"to\"."
+  },
+  {
+   "id": "c009",
+   "sentence": "Despite it was raining, we went for a run.",
+   "answers": [
+    "Although it was raining, we went for a run.",
+    "Despite the rain, we went for a run.",
+    "Even though it was raining, we went for a run."
+   ],
+   "explanation": "\"Despite\" must be followed by a noun or -ing form, not a full clause."
+  },
+  {
+   "id": "c010",
+   "sentence": "In spite of feel tired, he finished the race.",
+   "answers": [
+    "In spite of feeling tired, he finished the race."
+   ],
+   "explanation": "After \"in spite of\", use the -ing form."
+  },
+  {
+   "id": "c011",
+   "sentence": "The bridge was build in 1890.",
+   "answers": [
+    "The bridge was built in 1890."
+   ],
+   "explanation": "The passive uses the past participle: build, built, built."
+  },
+  {
+   "id": "c012",
+   "sentence": "The results will announced tomorrow.",
+   "answers": [
+    "The results will be announced tomorrow."
+   ],
+   "explanation": "The future passive needs \"be\": will be + past participle."
+  },
+  {
+   "id": "c013",
+   "sentence": "My bike has been stole.",
+   "answers": [
+    "My bike has been stolen."
+   ],
+   "explanation": "The past participle of \"steal\" is \"stolen\"."
+  },
+  {
+   "id": "c014",
+   "sentence": "I am used to get up at six every day.",
+   "answers": [
+    "I am used to getting up at six every day."
+   ],
+   "explanation": "\"Be used to\" is followed by the -ing form."
+  },
+  {
+   "id": "c015",
+   "sentence": "When I was young, I use to play football every day.",
+   "answers": [
+    "When I was young, I used to play football every day."
+   ],
+   "explanation": "In positive sentences, the form is \"used to\"."
+  },
+  {
+   "id": "c016",
+   "sentence": "Did you used to live in Seoul?",
+   "answers": [
+    "Did you use to live in Seoul?"
+   ],
+   "explanation": "After \"did\", write \"use to\" without -d."
+  },
+  {
+   "id": "c017",
+   "sentence": "If it will rain tomorrow, we will stay at home.",
+   "answers": [
+    "If it rains tomorrow, we will stay at home."
+   ],
+   "explanation": "In the first conditional, use the present simple in the if-clause, not \"will\"."
+  },
+  {
+   "id": "c018",
+   "sentence": "If I would have more money, I would travel the world.",
+   "answers": [
+    "If I had more money, I would travel the world."
+   ],
+   "explanation": "In the second conditional, use the past simple in the if-clause."
+  },
+  {
+   "id": "c019",
+   "sentence": "If I was you, I would apologise.",
+   "answers": [
+    "If I were you, I would apologise."
+   ],
+   "explanation": "The standard expression for advice is \"If I were you\"."
+  },
+  {
+   "id": "c020",
+   "sentence": "You should to talk to your teacher.",
+   "answers": [
+    "You should talk to your teacher."
+   ],
+   "explanation": "\"Should\" is followed by the base form without \"to\"."
+  },
+  {
+   "id": "c021",
+   "sentence": "You had better to leave now.",
+   "answers": [
+    "You had better leave now."
+   ],
+   "explanation": "\"Had better\" is followed by the base form without \"to\"."
+  },
+  {
+   "id": "c022",
+   "sentence": "She suggested me to join a study group.",
+   "answers": [
+    "She suggested that I join a study group.",
+    "She suggested joining a study group.",
+    "She suggested that I should join a study group."
+   ],
+   "explanation": "\"Suggest\" is not followed by \"someone + to + verb\"."
+  },
+  {
+   "id": "c023",
+   "sentence": "Can you give me an advice?",
+   "answers": [
+    "Can you give me some advice?",
+    "Can you give me a piece of advice?",
+    "Can you give me advice?"
+   ],
+   "explanation": "\"Advice\" is uncountable, so it can't be used with \"an\"."
+  },
+  {
+   "id": "c024",
+   "sentence": "We need some informations about the tour.",
+   "answers": [
+    "We need some information about the tour."
+   ],
+   "explanation": "\"Information\" is uncountable and has no plural form."
+  },
+  {
+   "id": "c025",
+   "sentence": "How much suitcases are you taking?",
+   "answers": [
+    "How many suitcases are you taking?"
+   ],
+   "explanation": "Use \"many\" with plural countable nouns."
+  },
+  {
+   "id": "c026",
+   "sentence": "There were less people at the beach than yesterday.",
+   "answers": [
+    "There were fewer people at the beach than yesterday."
+   ],
+   "explanation": "Use \"fewer\" with countable nouns like \"people\"."
+  },
+  {
+   "id": "c027",
+   "sentence": "She is a engineer at a big company.",
+   "answers": [
+    "She is an engineer at a big company."
+   ],
+   "explanation": "Use \"an\" before a vowel sound."
+  },
+  {
+   "id": "c028",
+   "sentence": "I'd love to climb the Mount Everest one day.",
+   "answers": [
+    "I'd love to climb Mount Everest one day."
+   ],
+   "explanation": "We don't use \"the\" with the names of single mountains."
+  },
+  {
+   "id": "c029",
+   "sentence": "The life is too short to be unhappy.",
+   "answers": [
+    "Life is too short to be unhappy."
+   ],
+   "explanation": "No article with uncountable nouns used in a general sense."
+  },
+  {
+   "id": "c030",
+   "sentence": "When I arrived, the film already started.",
+   "answers": [
+    "When I arrived, the film had already started."
+   ],
+   "explanation": "Use the past perfect for an action that happened before another past action."
+  },
+  {
+   "id": "c031",
+   "sentence": "I was reading when the phone was ringing.",
+   "answers": [
+    "I was reading when the phone rang."
+   ],
+   "explanation": "Use the past simple for the short action that interrupts a longer one."
+  },
+  {
+   "id": "c032",
+   "sentence": "She was tired because she had been work all day.",
+   "answers": [
+    "She was tired because she had been working all day."
+   ],
+   "explanation": "The past perfect continuous needs the -ing form: had been working."
+  },
+  {
+   "id": "c033",
+   "sentence": "I'm very interested on wildlife documentaries.",
+   "answers": [
+    "I'm very interested in wildlife documentaries."
+   ],
+   "explanation": "The correct preposition is \"interested in\"."
+  },
+  {
+   "id": "c034",
+   "sentence": "It depends of the weather.",
+   "answers": [
+    "It depends on the weather."
+   ],
+   "explanation": "\"Depend\" is followed by \"on\"."
+  },
+  {
+   "id": "c035",
+   "sentence": "She is married with a biologist.",
+   "answers": [
+    "She is married to a biologist."
+   ],
+   "explanation": "We say \"married to\" someone."
+  },
+  {
+   "id": "c036",
+   "sentence": "The man which lives next door is a vet.",
+   "answers": [
+    "The man who lives next door is a vet.",
+    "The man that lives next door is a vet."
+   ],
+   "explanation": "Use \"who\" or \"that\" for people, not \"which\"."
+  },
+  {
+   "id": "c037",
+   "sentence": "The tiger, that is endangered, lives in Asia.",
+   "answers": [
+    "The tiger, which is endangered, lives in Asia."
+   ],
+   "explanation": "In a non-defining relative clause (with commas), use \"which\", not \"that\"."
+  },
+  {
+   "id": "c038",
+   "sentence": "That's the photographer who's pictures won the prize.",
+   "answers": [
+    "That's the photographer whose pictures won the prize."
+   ],
+   "explanation": "\"Whose\" shows possession; \"who's\" means \"who is\"."
+  },
+  {
+   "id": "c039",
+   "sentence": "This is the park which we saw the deer.",
+   "answers": [
+    "This is the park where we saw the deer.",
+    "This is the park in which we saw the deer."
+   ],
+   "explanation": "Use \"where\" (or \"in which\") for places when there's no object."
+  },
+  {
+   "id": "c040",
+   "sentence": "I wish I can cook better.",
+   "answers": [
+    "I wish I could cook better."
+   ],
+   "explanation": "\"Wish\" is followed by \"could\" (not \"can\") for abilities you don't have."
+  },
+  {
+   "id": "c041",
+   "sentence": "I wish I didn't eat so much last night.",
+   "answers": [
+    "I wish I hadn't eaten so much last night."
+   ],
+   "explanation": "For regrets about the past, use \"wish + past perfect\"."
+  },
+  {
+   "id": "c042",
+   "sentence": "If I had known, I would told you.",
+   "answers": [
+    "If I had known, I would have told you."
+   ],
+   "explanation": "The third conditional result is \"would have + past participle\"."
+  },
+  {
+   "id": "c043",
+   "sentence": "If I would have studied, I would have passed.",
+   "answers": [
+    "If I had studied, I would have passed."
+   ],
+   "explanation": "The third conditional if-clause uses the past perfect, not \"would have\"."
+  },
+  {
+   "id": "c044",
+   "sentence": "Could you lend your laptop me?",
+   "answers": [
+    "Could you lend me your laptop?",
+    "Could you lend your laptop to me?"
+   ],
+   "explanation": "Use person + thing, or thing + \"to\" + person."
+  },
+  {
+   "id": "c045",
+   "sentence": "Can you explain me the problem?",
+   "answers": [
+    "Can you explain the problem to me?"
+   ],
+   "explanation": "\"Explain\" needs \"to\" before the person: explain something to someone."
+  },
+  {
+   "id": "c046",
+   "sentence": "He must be at home. I just saw him at the gym.",
+   "answers": [
+    "He can't be at home. I just saw him at the gym."
+   ],
+   "explanation": "For a negative deduction (it's impossible), use \"can't\", not \"must\"."
+  },
+  {
+   "id": "c047",
+   "sentence": "She mustn't be hungry. She's just eaten.",
+   "answers": [
+    "She can't be hungry. She's just eaten."
+   ],
+   "explanation": "The opposite of \"must\" for deduction is \"can't\", not \"mustn't\"."
+  },
+  {
+   "id": "c048",
+   "sentence": "They must have went home already.",
+   "answers": [
+    "They must have gone home already."
+   ],
+   "explanation": "\"Must have\" is followed by the past participle (gone)."
+  },
+  {
+   "id": "c049",
+   "sentence": "I will call you when I will arrive.",
+   "answers": [
+    "I will call you when I arrive."
+   ],
+   "explanation": "After \"when\" referring to the future, use the present simple."
+  },
+  {
+   "id": "c050",
+   "sentence": "This time tomorrow I will lie on the beach.",
+   "answers": [
+    "This time tomorrow I will be lying on the beach."
+   ],
+   "explanation": "Use the future continuous for an action in progress at a future time."
+  },
+  {
+   "id": "c051",
+   "sentence": "By next year, I will finish my degree.",
+   "answers": [
+    "By next year, I will have finished my degree."
+   ],
+   "explanation": "Use the future perfect for an action completed before a future time."
+  },
+  {
+   "id": "c052",
+   "sentence": "I had my hair cutted yesterday.",
+   "answers": [
+    "I had my hair cut yesterday."
+   ],
+   "explanation": "\"Cut\" is irregular: cut, cut, cut."
+  },
+  {
+   "id": "c053",
+   "sentence": "I need to get my car repair.",
+   "answers": [
+    "I need to get my car repaired."
+   ],
+   "explanation": "Causative: get + object + past participle."
+  },
+  {
+   "id": "c054",
+   "sentence": "The coach made us to run ten laps.",
+   "answers": [
+    "The coach made us run ten laps."
+   ],
+   "explanation": "\"Make someone do something\" — no \"to\"."
+  },
+  {
+   "id": "c055",
+   "sentence": "The film was so bored that I fell asleep.",
+   "answers": [
+    "The film was so boring that I fell asleep."
+   ],
+   "explanation": "Use \"-ing\" adjectives for the thing that causes the feeling."
+  },
+  {
+   "id": "c056",
+   "sentence": "I was very interesting in the lecture.",
+   "answers": [
+    "I was very interested in the lecture."
+   ],
+   "explanation": "Use \"-ed\" adjectives to describe how a person feels."
+  },
+  {
+   "id": "c057",
+   "sentence": "She told that she was tired.",
+   "answers": [
+    "She said that she was tired.",
+    "She told me that she was tired."
+   ],
+   "explanation": "\"Tell\" needs a person as an object; \"say\" doesn't."
+  },
+  {
+   "id": "c058",
+   "sentence": "He asked me where did I live.",
+   "answers": [
+    "He asked me where I lived."
+   ],
+   "explanation": "Reported questions use statement word order without \"did\"."
+  },
+  {
+   "id": "c059",
+   "sentence": "She said me that the story was true.",
+   "answers": [
+    "She told me that the story was true.",
+    "She said that the story was true."
+   ],
+   "explanation": "Use \"tell someone\" or \"say (to someone)\", not \"say someone\"."
+  },
+  {
+   "id": "c060",
+   "sentence": "He denied to break the window.",
+   "answers": [
+    "He denied breaking the window.",
+    "He denied having broken the window."
+   ],
+   "explanation": "\"Deny\" is followed by the -ing form."
+  },
+  {
+   "id": "c061",
+   "sentence": "They accused him for stealing the money.",
+   "answers": [
+    "They accused him of stealing the money."
+   ],
+   "explanation": "The correct pattern is \"accuse someone of + -ing\"."
+  },
+  {
+   "id": "c062",
+   "sentence": "She apologised for be late.",
+   "answers": [
+    "She apologised for being late."
+   ],
+   "explanation": "After a preposition (for), use the -ing form."
+  },
+  {
+   "id": "c063",
+   "sentence": "You don't have to smoke in the hospital. It's forbidden.",
+   "answers": [
+    "You mustn't smoke in the hospital. It's forbidden.",
+    "You can't smoke in the hospital. It's forbidden."
+   ],
+   "explanation": "\"Mustn't\" means it's prohibited; \"don't have to\" means it's not necessary."
+  },
+  {
+   "id": "c064",
+   "sentence": "We must to show our tickets at the entrance.",
+   "answers": [
+    "We must show our tickets at the entrance."
+   ],
+   "explanation": "\"Must\" is followed by the base form without \"to\"."
+  },
+  {
+   "id": "c065",
+   "sentence": "My parents let me to go to the festival.",
+   "answers": [
+    "My parents let me go to the festival."
+   ],
+   "explanation": "\"Let someone do something\" — no \"to\"."
+  },
+  {
+   "id": "c066",
+   "sentence": "After hours of searching, we could find the hotel.",
+   "answers": [
+    "After hours of searching, we managed to find the hotel.",
+    "After hours of searching, we were able to find the hotel."
+   ],
+   "explanation": "For a single difficult achievement in the past, use \"managed to\" or \"was able to\"."
+  },
+  {
+   "id": "c067",
+   "sentence": "I'd love to can play the piano.",
+   "answers": [
+    "I'd love to be able to play the piano."
+   ],
+   "explanation": "\"Can\" has no infinitive; use \"be able to\"."
+  },
+  {
+   "id": "c068",
+   "sentence": "She works like a shop assistant in Milan.",
+   "answers": [
+    "She works as a shop assistant in Milan."
+   ],
+   "explanation": "Use \"as\" for someone's real job or role."
+  },
+  {
+   "id": "c069",
+   "sentence": "He sings as a professional, but he's only a beginner.",
+   "answers": [
+    "He sings like a professional, but he's only a beginner."
+   ],
+   "explanation": "Use \"like\" when comparing; he isn't really a professional."
+  },
+  {
+   "id": "c070",
+   "sentence": "You needn't to bring anything to the party.",
+   "answers": [
+    "You needn't bring anything to the party.",
+    "You don't need to bring anything to the party."
+   ],
+   "explanation": "\"Needn't\" is followed by the base form without \"to\"."
+  },
+  {
+   "id": "c071",
+   "sentence": "I should have study harder for the test.",
+   "answers": [
+    "I should have studied harder for the test."
+   ],
+   "explanation": "\"Should have\" is followed by the past participle."
+  },
+  {
+   "id": "c072",
+   "sentence": "What I need it is a long holiday.",
+   "answers": [
+    "What I need is a long holiday."
+   ],
+   "explanation": "In a cleft sentence, \"What I need is...\" doesn't need \"it\"."
+  },
+  {
+   "id": "c073",
+   "sentence": "Never I have seen such a beautiful view.",
+   "answers": [
+    "Never have I seen such a beautiful view."
+   ],
+   "explanation": "After \"Never\" at the start, invert the subject and auxiliary."
+  },
+  {
+   "id": "c074",
+   "sentence": "Not only he was late, but he also forgot his CV.",
+   "answers": [
+    "Not only was he late, but he also forgot his CV."
+   ],
+   "explanation": "After \"Not only\" at the start, invert the subject and verb."
+  },
+  {
+   "id": "c075",
+   "sentence": "I felt very boring at the party.",
+   "answers": [
+    "I felt very bored at the party."
+   ],
+   "explanation": "Use \"-ed\" adjectives for feelings."
+  },
+  {
+   "id": "c076",
+   "sentence": "My sister and I get on very good.",
+   "answers": [
+    "My sister and I get on very well."
+   ],
+   "explanation": "We need the adverb \"well\", not the adjective \"good\"."
+  },
+  {
+   "id": "c077",
+   "sentence": "I take after with my father.",
+   "answers": [
+    "I take after my father."
+   ],
+   "explanation": "\"Take after\" doesn't need \"with\"."
+  },
+  {
+   "id": "c078",
+   "sentence": "I look up at my grandfather; he's my hero.",
+   "answers": [
+    "I look up to my grandfather; he's my hero."
+   ],
+   "explanation": "\"Look up to\" means \"admire\"."
+  },
+  {
+   "id": "c079",
+   "sentence": "I have to resit the exam because I passed it.",
+   "answers": [
+    "I have to resit the exam because I failed it."
+   ],
+   "explanation": "You resit an exam when you fail it."
+  },
+  {
+   "id": "c080",
+   "sentence": "I lent a book from the library.",
+   "answers": [
+    "I borrowed a book from the library."
+   ],
+   "explanation": "You \"borrow\" something from someone; you \"lend\" something to someone."
+  },
+  {
+   "id": "c081",
+   "sentence": "Can you borrow me your pen?",
+   "answers": [
+    "Can you lend me your pen?"
+   ],
+   "explanation": "You \"lend\" something to another person."
+  },
+  {
+   "id": "c082",
+   "sentence": "The new rules will effect everyone.",
+   "answers": [
+    "The new rules will affect everyone."
+   ],
+   "explanation": "\"Affect\" is the verb; \"effect\" is usually a noun."
+  },
+  {
+   "id": "c083",
+   "sentence": "These trousers are too lose.",
+   "answers": [
+    "These trousers are too loose."
+   ],
+   "explanation": "\"Loose\" means not tight; \"lose\" means to stop having something."
+  },
+  {
+   "id": "c084",
+   "sentence": "He gave me a good advise.",
+   "answers": [
+    "He gave me some good advice.",
+    "He gave me good advice."
+   ],
+   "explanation": "\"Advice\" is the noun (uncountable); \"advise\" is the verb."
+  },
+  {
+   "id": "c085",
+   "sentence": "I'm so full that I can't eat nothing else.",
+   "answers": [
+    "I'm so full that I can't eat anything else."
+   ],
+   "explanation": "Avoid double negatives: use \"anything\" after a negative verb."
+  },
+  {
+   "id": "c086",
+   "sentence": "The milk has went off.",
+   "answers": [
+    "The milk has gone off."
+   ],
+   "explanation": "The past participle of \"go\" is \"gone\"."
+  },
+  {
+   "id": "c087",
+   "sentence": "I need to make a back up of my files.",
+   "answers": [
+    "I need to make a backup of my files."
+   ],
+   "explanation": "The noun is written as one word: \"backup\"."
+  },
+  {
+   "id": "c088",
+   "sentence": "The wind is going to die off this afternoon.",
+   "answers": [
+    "The wind is going to die down this afternoon."
+   ],
+   "explanation": "The phrasal verb for weather becoming less strong is \"die down\"."
+  },
+  {
+   "id": "c089",
+   "sentence": "This is by far the most hot day of the year.",
+   "answers": [
+    "This is by far the hottest day of the year."
+   ],
+   "explanation": "\"Hot\" is a short adjective: the hottest."
+  },
+  {
+   "id": "c090",
+   "sentence": "The spectaters cheered when he scored.",
+   "answers": [
+    "The spectators cheered when he scored."
+   ],
+   "explanation": "The correct spelling is \"spectators\"."
+  },
+  {
+   "id": "c091",
+   "sentence": "He made his debut in the national team on 2019.",
+   "answers": [
+    "He made his debut in the national team in 2019."
+   ],
+   "explanation": "Use \"in\" with years."
+  },
+  {
+   "id": "c092",
+   "sentence": "The journalist went to great length to find the truth.",
+   "answers": [
+    "The journalist went to great lengths to find the truth."
+   ],
+   "explanation": "The fixed phrase is \"go to great lengths\"."
+  },
+  {
+   "id": "c093",
+   "sentence": "He finally came clear about his mistakes.",
+   "answers": [
+    "He finally came clean about his mistakes."
+   ],
+   "explanation": "The idiom is \"come clean\" (tell the truth)."
+  },
+  {
+   "id": "c094",
+   "sentence": "The festival sold off in ten minutes.",
+   "answers": [
+    "The festival sold out in ten minutes."
+   ],
+   "explanation": "\"Sell out\" means all the tickets have been sold."
+  },
+  {
+   "id": "c095",
+   "sentence": "The price is a bit steeply for me.",
+   "answers": [
+    "The price is a bit steep for me."
+   ],
+   "explanation": "\"Steep\" is an adjective here describing the price."
+  },
+  {
+   "id": "c096",
+   "sentence": "She was promoted at manager last year.",
+   "answers": [
+    "She was promoted to manager last year."
+   ],
+   "explanation": "We say \"promoted to\" a position."
+  },
+  {
+   "id": "c097",
+   "sentence": "The company took over 50 new staff for the summer.",
+   "answers": [
+    "The company took on 50 new staff for the summer."
+   ],
+   "explanation": "\"Take on\" means employ; \"take over\" means take control."
+  },
+  {
+   "id": "c098",
+   "sentence": "Let's go over to the answers together.",
+   "answers": [
+    "Let's go over the answers together."
+   ],
+   "explanation": "\"Go over\" (check carefully) is followed directly by the object."
+  },
+  {
+   "id": "c099",
+   "sentence": "Please hand on your essays by Friday.",
+   "answers": [
+    "Please hand in your essays by Friday."
+   ],
+   "explanation": "The phrasal verb is \"hand in\"."
+  },
+  {
+   "id": "c100",
+   "sentence": "I run into my old teacher yesterday.",
+   "answers": [
+    "I ran into my old teacher yesterday."
+   ],
+   "explanation": "\"Yesterday\" needs the past simple: ran."
+  },
+  {
+   "id": "c101",
+   "sentence": "She talked me in joining the choir.",
+   "answers": [
+    "She talked me into joining the choir."
+   ],
+   "explanation": "The phrasal verb is \"talk someone into + -ing\"."
+  }
+ ]
+}

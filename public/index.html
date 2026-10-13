@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TOEFL Sprint – Grammar and vocabulary practice</title>
+  <meta name="description" content="Practise B2 grammar, vocabulary and word formation in short, fun sessions with instant feedback.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚀</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-theme="home">
+  <header class="topbar">
+    <button class="logo" id="logoBtn" type="button">🚀 TOEFL <span>Sprint</span></button>
+    <div class="streak-pill" id="streakPill" title="Days in a row with at least one finished session">🔥 0-day streak</div>
+  </header>
+
+  <main class="container">
+    <!-- HOME -->
+    <section id="homeScreen" class="screen">
+      <div class="hero">
+        <h1>Ready for a quick sprint?</h1>
+        <p>B2 grammar, vocabulary and word formation in 10-question sessions. New random questions every time.</p>
+      </div>
+
+      <div class="mode-grid">
+        <article class="mode-card mode-grammar">
+          <div class="mode-icon" aria-hidden="true">🧩</div>
+          <h2>Grammar</h2>
+          <p>Practise one grammar topic at a time, unit by unit.</p>
+          <div class="mode-actions">
+            <button class="btn btn-white" type="button" id="openTopicsBtn">Choose a topic</button>
+            <button class="btn btn-white" type="button" data-start="grammar" data-filter="all">Mixed grammar</button>
+          </div>
+          <p class="best">Topics practised: <strong id="topicsDone">0</strong></p>
+        </article>
+
+        <article class="mode-card mode-vocab">
+          <div class="mode-icon" aria-hidden="true">📚</div>
+          <h2>Vocabulary</h2>
+          <p>Words and phrasal verbs from each unit of the book.</p>
+          <label class="select-label" for="unitSelect">Unit</label>
+          <select id="unitSelect" class="select">
+            <option value="all">All units</option>
+          </select>
+          <div class="mode-actions">
+            <button class="btn btn-white" type="button" data-start="vocab-choose">Choose the meaning</button>
+            <button class="btn btn-white" type="button" data-start="vocab-type">Type the word</button>
+          </div>
+          <p class="best">Best: meaning <strong id="bestVocabChoose">–</strong> · typing <strong id="bestVocabType">–</strong></p>
+        </article>
+
+        <article class="mode-card mode-correct">
+          <div class="mode-icon" aria-hidden="true">🛠️</div>
+          <h2>Correct the Mistake</h2>
+          <p>Each sentence has one mistake. Rewrite it correctly.</p>
+          <div class="mode-actions">
+            <button class="btn btn-white" type="button" data-start="correct">Start</button>
+          </div>
+          <p class="best">Best score: <strong data-best="correct:all">–</strong></p>
+        </article>
+
+        <article class="mode-card mode-wordform">
+          <div class="mode-icon" aria-hidden="true">🔤</div>
+          <h2>Word Formation</h2>
+          <p>Change the word in capitals so it fits the sentence.</p>
+          <div class="mode-actions">
+            <button class="btn btn-white" type="button" data-start="wordform">Start</button>
+          </div>
+          <p class="best">Best score: <strong data-best="wordform:all">–</strong></p>
+        </article>
+
+        <article class="mode-card mode-review">
+          <div class="mode-icon" aria-hidden="true">🔁</div>
+          <h2>Review Mistakes <span class="badge" id="mistakeCount">0</span></h2>
+          <p id="reviewHint">No mistakes saved yet. Keep practising!</p>
+          <div class="mode-actions">
+            <button class="btn btn-white" type="button" data-start="review">Review now</button>
+          </div>
+          <p class="best">Answer correctly to clear a question.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- GRAMMAR TOPICS -->
+    <section id="topicsScreen" class="screen hidden">
+      <div class="topics-head">
+        <button class="btn-text" id="topicsBackBtn" type="button">← Home</button>
+        <h1>Grammar topics</h1>
+        <p>Pick a topic. Every session takes 10 random questions from that topic.</p>
+      </div>
+      <div id="topicsList" class="topics-list"></div>
+    </section>
+
+    <!-- QUIZ -->
+    <section id="quizScreen" class="screen hidden">
+      <div class="quiz-top">
+        <button class="btn-text" id="quitBtn" type="button">← Quit</button>
+        <span class="quiz-label" id="quizLabel"></span>
+        <span class="quiz-score" id="quizScore">⭐ 0</span>
+      </div>
+      <div class="progress" aria-hidden="true"><div class="progress-fill" id="progressFill"></div></div>
+      <p class="quiz-count" id="quizCount"></p>
+      <div class="card question-card" id="questionCard"></div>
+      <div class="feedback hidden" id="feedback" aria-live="polite"></div>
+    </section>
+
+    <!-- RESULTS -->
+    <section id="resultsScreen" class="screen hidden">
+      <div class="card results-card">
+        <div class="results-emoji" id="resultsEmoji" aria-hidden="true"></div>
+        <h2 id="resultsTitle"></h2>
+        <p class="results-score" id="resultsScore"></p>
+        <p class="results-message" id="resultsMessage"></p>
+        <div id="mistakeList"></div>
+        <div class="results-actions">
+          <button class="btn btn-primary" id="againBtn" type="button">10 more questions</button>
+          <button class="btn btn-light" id="homeBtn" type="button">Home</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">Original practice questions based on the topics of Open World B2 First · Your progress is saved on this device.</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
